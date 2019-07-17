@@ -1,0 +1,334 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #c1c1c1 url(../images/bg01.jpg) repeat left top;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #797979;
+	
+}
+
+h1, h2, h3 {
+	margin-top: 0px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 42px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+p, ul, ol {
+	margin-top: 0px;
+	line-height: 160%;
+}
+
+ul, ol {
+}
+
+a {
+	color: #0098A4;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.aligncenter {
+	margin: 0px auto;
+}
+
+img.alignleft {
+	margin-right: 20px;
+	width: 242px;
+	height: 79px;
+}
+
+img.alignright {
+	margin-left: 20px;
+}
+
+a img {
+	border: none;
+}
+
+/* Wrapper */
+
+#wrapper {
+	background: url(../images/bg02.jpg) repeat-x left top;
+}
+
+/* Header */
+
+#header {
+	width: 920px;
+	height: 130px;
+	margin: 0px auto;
+	background: url(../images/bg03.jpg) no-repeat left top;
+}
+
+/* Logo */
+
+#logo {
+	float: none;
+}
+
+#logo h1, #logo h2 {
+	float: none;
+	margin: auto;
+}
+
+#logo h1 {
+	padding: 15px 0px 0px 15px;
+}
+
+#logo h2 {
+	padding: 80px 0px 0px 10px;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #797979;
+}
+
+#logo a:hover {
+	text-decoration: underline;
+	color: #0098A4;
+}
+
+#logo h2, #logo h2 a {
+	font-size: 13px;
+	color: #9F9F9F;
+}
+
+/* Menu */
+
+#menu {
+	float: right;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 78px 30px 0px 0px;
+	list-style: none;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	padding: 0px 20px 0px 22px;
+	background: url(../images/img02.gif) no-repeat left center;
+	text-decoration: none;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #7B7B7B;
+}
+
+#menu a:hover {
+	text-decoration: underline;
+	color: #0098A4;
+}
+
+#menu .first a {
+	background: none;
+}
+
+/* Page */
+
+#page {
+	width: 920px;
+	margin: 0px auto;
+	background: url(../images/bg04.jpg) repeat-y left top;
+}
+
+#bgtop {
+	background: url(../images/bg05.jpg) no-repeat left top;
+}
+
+#bgbottom {
+	background: url(../images/bg06.jpg) no-repeat l../eft bottom;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 650px;
+	padding: 50px 0px 0px 35px;
+}
+
+.post {
+}
+
+.post .title {
+	padding: 0px 0px 0px 15px;
+	background: url(../images/img03.gif) no-repeat left top;
+}
+
+.post .title h2, .post .title h3 {
+	margin: 0px;
+}
+
+.post .title h2 a, .post .title h3 a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.post .title h2 a:hover, .post .title h3 a:hover {
+	text-decoration: underline;
+}
+
+.post .title p {
+	margin: 0px;
+	font-size: 16px;
+	color: #8D8D8D;
+}
+
+.post .title p a {
+	text-decoration: none;
+	color: #8D8D8D;
+}
+
+.post .entry {
+	padding: 15px 15px 25px 15px;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: right;
+	width: 180px;
+	padding: 50px 10px 0px 0px;
+}
+
+#sidebar ul {
+	margin: 0px;
+
+	padding: 0px;
+	list-style: none;
+}
+
+#sidebar li {
+}
+
+#sidebar li ul {
+	margin: 15px 15px 25px 15px;
+}
+
+#sidebar li li {
+	font-size: 11px;
+}
+
+#sidebar h2 {
+	height: 27px;
+	margin: 0px;
+	padding: 3px 0px 0px 15px;
+	background: url(../images/img04.gif) no-repeat left top;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+#sidebar a {
+	color: #BCE8EC;
+}
+
+/* Footer */
+
+#footer {
+	width: 1008px;
+	height: 100px;
+	margin: 0px auto;
+	background: url('../images/bg07.jpg') repeat-x left top ;
+	background-color: #C1C1C1;
+	}
+
+#footer p {
+	margin: 0px;
+	padding: 30px 0px 0px 0px;
+	text-align: center;
+	font-size: 11px;
+	height: 71px;
+	
+}
+
+#footer a {
+	color: #797979;
+}
+
+/* #Belize Hole Sea Flat Button
+==================================================*/
+.belize-hole-flat-button {
+  position: relative;
+  vertical-align: top;
+  width: 130px;
+  height: 35px;
+  padding: 0;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #2980b9;
+  border: 0;
+  border-bottom: 2px solid #2475ab;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #2475ab;
+  box-shadow: inset 0 -2px #2475ab;
+}
+.belize-hole-flat-button:active {
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.textBox {
+    width:300px;
+    margin-bottom:5px;
+    line-height:18px;
+    padding:2px 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+}
+
+.formulario {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    background: #EEE;
+    padding: 20px 30px 20px 30px;
+    font: 12px Georgia, "Times New Roman", Times, serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+    border:1px solid #DADADA;
+}
+
+.formulario label {
+    display: block;
+    margin: 0px 0px 5px;
+}
+
+.menuLink {
+    padding: 10px 15px;
+    background: #4479BA;
+    color: #FFF;
+}

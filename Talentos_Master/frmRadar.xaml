@@ -1,0 +1,119 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:my="clr-namespace:Talentos_Master"
+    xmlns:vc="clr-namespace:Visifire.Charts;assembly=SLVisifire.Charts"   
+	x:Class="Talentos_Master.frmRadarxaml"
+>
+
+    <Canvas Background="Transparent" Width="600" Height="450" Margin="0,0,0,0" >
+       
+        <Grid x:Name="LayoutRoot" Background="Transparent" Width="600" Height="450" HorizontalAlignment="Center">
+            <Grid Margin="0,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0" />
+                    <RowDefinition Height="0" />
+                    <RowDefinition Height="40"  />
+                    <RowDefinition Height="406"/>
+
+                </Grid.RowDefinitions>
+                
+
+                
+                <Border Grid.Column="1" Grid.Row="2" Grid.RowSpan="2"  CornerRadius="15" BorderThickness="2"  BorderBrush="#FFB3B3B3" Margin="0,0,0,0" Style="{StaticResource GlassBorderFondo}" />
+                <Canvas Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" Margin="-15,-110,0,0">
+                    <!--<Image x:Name="i1" Source="images/buttonSeven/bgcompact.jpg" Stretch="UniformToFill" Height="53" Width="700" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="50,0,0,0"/>-->
+                    <!--<Image x:Name="i1" Source="images/fondo/nada.jpg" Stretch="UniformToFill" Height="53" Width="700" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="50,0,0,0"/>-->
+                    <!--<Rectangle VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Fill="#4f000000" Height="83" Width="700" Canvas.Left="38" />-->
+                    <!--<Image VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Height="24" Stretch="None" Width="700"
+                            Source="images/buttonSeven/bgshadow.jpg" Margin="50,77,0,0" />-->
+                    <TextBlock   IsHitTestVisible="False" HorizontalAlignment="Left"  VerticalAlignment="Bottom"   Margin="30,98,0,0" >
+                        <Run x:Name="textInfo" Text="Guardar estos resultados" FontFamily="Arial" FontSize="14"  Foreground="Black"  />
+                        
+                    </TextBlock>
+                    <!--Foreground="#FFffffff" />-->
+                    <StackPanel Orientation="Horizontal"  Height="35" VerticalAlignment="Bottom"  Background="Transparent" Width="580" Canvas.Top="45" Canvas.Left="30" >
+                        <my:ButtonSeven Height="35" Width="35" Title="Guardar estos resultados" ImageSource="images/buttonSeven/save.png" MouseMove="ButtonSeven_MouseMove" MouseLeave="ButtonSeven_MouseLeave" TransitionColor="#7f3E8DDD" Margin="504,0,0,0" MouseLeftButtonDown="ButtonSeven_MouseLeftButtonDown_2"   />
+                        <my:ButtonSeven Height="35" Width="35" Title="Cerrar" ImageSource="images/buttonSeven/save.png" TransitionColor="#7f3E8DDD" Margin="2,0,0,0" MouseMove="ButtonSeven_MouseMove" MouseLeave="ButtonSeven_MouseLeave" MouseLeftButtonDown="ButtonSeven_MouseLeftButtonDown"   />
+                    </StackPanel>
+                    <TextBlock    Style="{StaticResource FullName}"  IsHitTestVisible="True"  HorizontalAlignment="Left"  TextAlignment="Left" Grid.RowSpan="2" Canvas.Left="32" Canvas.Top="43"  ><!--Foreground="#FF88B158"  FontFamily="Fonts/VINERITC.TTF#Viner Hand ITC" FontSize="26" FontWeight="Bold" TextWrapping="Wrap" Width="230">-->
+                         <Run x:Name="txtTitle1" FontFamily="Arial"   FontSize="28"  Foreground="#FF6D6C6B"  Text="Resultados:"  ></Run>   
+                        <Run x:Name="txtTitle2" FontFamily="Arial" FontSize="28"  Foreground="#FFFF1100"  Text=" Desarrollo de Talentos"  ></Run>
+                    </TextBlock>
+
+                    <Line  X1="30" Y1="87" X2="610" Y2="87" Stroke="#FFFF1100" StrokeThickness="1" ></Line>
+                    <Line  X1="30" Y1="90" X2="610" Y2="90" Stroke="#FFFF1100" StrokeThickness="1" ></Line>
+                </Canvas>
+                <Canvas Grid.Column="1" Grid.Row="2" VerticalAlignment="Bottom" Margin="0,0,0,0">
+
+                    <Canvas x:Name="canv" Canvas.Top="50" Canvas.Left="5" Height="346" Width="590" >
+                        <!--<Canvas.Background>
+                            <LinearGradientBrush EndPoint="1,0" StartPoint="1,1">
+                                <GradientStop Color="#C0FFFFFF" Offset="0.02"/>
+                                <GradientStop Color="#FFFFFFFF" Offset="0.2"/>
+
+                                <GradientStop Color="#FFFFFFFF" Offset="0.76"/>
+
+                                <GradientStop Color="#C0FFFFFF" Offset="0.94"/>
+                            </LinearGradientBrush>
+                        </Canvas.Background>-->
+                        <!--<TextBlock x:Name="txtTitleChart" Text="Talentos más desarrollados" FontFamily="Arial" FontSize="20" Foreground="Gray" TextAlignment="Center" Margin="125,-25,0,0"/>-->
+                        <vc:Chart x:Name="MyChart" Width="550" BorderBrush="Transparent"  CornerRadius="0" View3D="True" AnimationEnabled="True" Canvas.Top="0" Height="305" Canvas.Left="25" >
+                            <vc:Chart.Background>
+                                <LinearGradientBrush EndPoint="1,0" StartPoint="1,1">
+                                    <GradientStop Color="#C0FFFFFF" Offset="0.02"/>
+                                    <GradientStop Color="#FFFFFFFF" Offset="0.2"/>
+
+                                    <GradientStop Color="#FFFFFFFF" Offset="0.76"/>
+
+                                    <GradientStop Color="#C0FFFFFF" Offset="0.94"/>
+                                </LinearGradientBrush>
+                            </vc:Chart.Background>
+                            <!--<vc:Chart.Titles>
+                                <vc:Title Text="Titulo" FontSize="30" FontColor="#FF0000" FontFamily="Arial" FontStyle="Normal" FontWeight="Normal" />
+                            </vc:Chart.Titles>-->
+                            <!--<vc:Chart.AxesX>
+                                <vc:Axis Title="Tendencias" TitleFontSize="25" TitleFontColor="#FF0033" TitleFontFamily="Arial" TitleFontStyle="Normal" TitleFontWeight="Normal">
+								<vc:Axis.AxisLabels>
+                					<vc:AxisLabels FontSize="20" FontColor="#FFE88919"  />
+            					</vc:Axis.AxisLabels>
+								</vc:Axis>
+                            </vc:Chart.AxesX>
+                            <vc:Chart.AxesY>
+                                <vc:Axis Title="Cantidad de Talentos" TitleFontSize="25" TitleFontColor="#FF0000" TitleFontFamily="Arial" TitleFontStyle="Normal" TitleFontWeight="Normal" AxisType="Primary" >
+								<vc:Axis.AxisLabels>
+                					<vc:AxisLabels FontSize="20" FontColor="Black" />
+            					</vc:Axis.AxisLabels>
+								</vc:Axis>
+                            </vc:Chart.AxesY>-->
+                            <vc:Chart.Series>
+                                <!--<vc:DataSeries RenderAs="Pie" AxisYType="Primary" Bevel="True">
+                                   
+                                </vc:DataSeries>-->
+                            </vc:Chart.Series>
+                        </vc:Chart>
+                    </Canvas>
+                    <!--<Canvas x:Name="canv2" Canvas.Top="55" Canvas.Left="50" >
+                        <Popup x:Name="TalentosTendencia" >
+                           
+                            <Border  CornerRadius="20" BorderThickness="2" BorderBrush="Black">
+                                <Canvas x:Name="Flotante" >
+                                    <TextBlock     FontSize="20" Canvas.Top="428" Canvas.Left="155">
+										<Run  x:Name="txtTitulo" FontSize="20" Foreground="Gray"></Run>									
+                                        <Run x:Name="txtOrientacion" FontSize="20" Foreground="#FFE88919" ></Run>
+                                    </TextBlock>                                  
+                                    <Canvas x:Name="Aqui" Canvas.Left="-105" Canvas.Top="200" ></Canvas>
+                                </Canvas>
+                            </Border>
+                        </Popup>
+                    </Canvas>-->
+           
+                </Canvas>
+        
+
+            </Grid>
+        </Grid>
+    </Canvas>
+</UserControl>

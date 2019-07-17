@@ -1,0 +1,554 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" InitialTargets="ValidateSolutionConfiguration;ValidateToolsVersions" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_SolutionProjectConfiguration>Debug|Any CPU</_SolutionProjectConfiguration>
+    <_SolutionProjectToolsVersion>3.5</_SolutionProjectToolsVersion>
+    <_SolutionProjectCacheVersion>3.5</_SolutionProjectCacheVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <_SolutionProjectProjects Include="clientTest\clientTest.csproj" />
+    <_SolutionProjectProjects Include="Talentos_Master.Web\Talentos_Master.Web.csproj" />
+    <_SolutionProjectProjects Include="Talentos_Master\Talentos_Master__800x600.csproj" />
+    <_SolutionProjectProjects Include="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" />
+    <_SolutionProjectProjects Include="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" />
+    <_SolutionProjectProjects Include="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" />
+    <_SolutionProjectProjects Include="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" />
+    <_SolutionProjectProjects Include="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" />
+    <_SolutionProjectProjects Include="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" />
+  </ItemGroup>
+  <ItemGroup Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+    <BuildLevel4 Include="Talentos_Master\Talentos_Master__800x600.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel4>
+    <BuildLevel3 Include="Talentos_Master.Web\Talentos_Master.Web.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel3>
+    <BuildLevel3 Include="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel3>
+    <BuildLevel0 Include="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel0>
+    <BuildLevel0 Include="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel0>
+    <BuildLevel1 Include="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel1>
+    <BuildLevel1 Include="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel1>
+    <BuildLevel2 Include="clientTest\clientTest.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel2>
+    <BuildLevel2 Include="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel2>
+  </ItemGroup>
+  <ItemGroup Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+    <BuildLevel4 Include="Talentos_Master\Talentos_Master__800x600.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel4>
+    <BuildLevel3 Include="Talentos_Master.Web\Talentos_Master.Web.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel3>
+    <BuildLevel3 Include="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel3>
+    <BuildLevel0 Include="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel0>
+    <BuildLevel0 Include="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel0>
+    <BuildLevel1 Include="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel1>
+    <BuildLevel1 Include="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel1>
+    <BuildLevel2 Include="clientTest\clientTest.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel2>
+    <BuildLevel2 Include="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </BuildLevel2>
+  </ItemGroup>
+  <UsingTask TaskName="Microsoft.Build.Tasks.CreateTemporaryVCProject" AssemblyName="Microsoft.Build.Tasks.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <UsingTask TaskName="Microsoft.Build.Tasks.ResolveVCProjectOutput" AssemblyName="Microsoft.Build.Tasks.v3.5, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <PropertyGroup Condition=" '$(Configuration)' == '' ">
+    <Configuration>Debug</Configuration>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == '' ">
+    <Platform>Any CPU</Platform>
+  </PropertyGroup>
+  <PropertyGroup Condition=" ('$(AspNetConfiguration)' == '') ">
+    <AspNetConfiguration>$(Configuration)</AspNetConfiguration>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SolutionDir>C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\</SolutionDir>
+    <SolutionExt>.sln</SolutionExt>
+    <SolutionFileName>Talentos_Master.sln</SolutionFileName>
+    <SolutionName>Talentos_Master</SolutionName>
+    <SolutionPath>C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.sln</SolutionPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFrameworkVersion Condition="'$(TargetFrameworkVersion)' == '' and '$(MSBuildToolsVersion)' == '2.0'">v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion Condition="'$(TargetFrameworkVersion)' == '' and '$(MSBuildToolsVersion)' != '2.0'">v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+    <CurrentSolutionConfigurationContents>
+      <SolutionConfiguration xmlns="">
+        <ProjectConfiguration Project="{12BC92AE-A8F6-4EAF-AA64-10D60CD8A99D}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{B24C0100-DDD5-4984-BB39-F2C7F3DE751F}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{3DB413EF-73A0-4E75-97DE-DC45FED231F1}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{03C69B2B-95B4-4D64-A405-A900F5CC828B}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{6C0EE4F5-9B39-48F7-BE31-43274EFE9C5F}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{ABF251B7-3867-4797-99EF-FEC63462C1D1}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{5801A06B-2E27-4F7D-A9D9-85962023CA4F}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{54F36E4F-5C27-4959-971A-55A2A284EA4A}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{25E4FFC2-6F76-4225-9909-63E17B09177D}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{39C1F563-8BA2-4AC5-92F5-023BAB71410B}">Debug|AnyCPU</ProjectConfiguration>
+      </SolutionConfiguration>
+    </CurrentSolutionConfigurationContents>
+  </PropertyGroup>
+  <PropertyGroup Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+    <CurrentSolutionConfigurationContents>
+      <SolutionConfiguration xmlns="">
+        <ProjectConfiguration Project="{12BC92AE-A8F6-4EAF-AA64-10D60CD8A99D}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{B24C0100-DDD5-4984-BB39-F2C7F3DE751F}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{3DB413EF-73A0-4E75-97DE-DC45FED231F1}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{03C69B2B-95B4-4D64-A405-A900F5CC828B}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{6C0EE4F5-9B39-48F7-BE31-43274EFE9C5F}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{ABF251B7-3867-4797-99EF-FEC63462C1D1}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{5801A06B-2E27-4F7D-A9D9-85962023CA4F}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{54F36E4F-5C27-4959-971A-55A2A284EA4A}">Debug|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{25E4FFC2-6F76-4225-9909-63E17B09177D}">Release|AnyCPU</ProjectConfiguration>
+        <ProjectConfiguration Project="{39C1F563-8BA2-4AC5-92F5-023BAB71410B}">Release|AnyCPU</ProjectConfiguration>
+      </SolutionConfiguration>
+    </CurrentSolutionConfigurationContents>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(AspNetConfiguration)' == 'Debug' ">
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetVirtualPath>/WebAdministrador</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetVirtualPath>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath>WebAdministrador\</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath>PrecompiledWeb\WebAdministrador\</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetForce>true</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetForce>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetUpdateable>true</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetUpdateable>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDebug>True</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDebug>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyFile>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyFile>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyContainer>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyContainer>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDelaySign>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDelaySign>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetAPTCA>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetAPTCA>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetFixedNames>false</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetFixedNames>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath Condition=" '$(OutDir)' != '' ">$(OutDir)_PublishedWebsites\WebAdministrador\</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(AspNetConfiguration)' == 'Release' ">
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetVirtualPath>/WebAdministrador</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetVirtualPath>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath>WebAdministrador\</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath>PrecompiledWeb\WebAdministrador\</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetForce>true</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetForce>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetUpdateable>true</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetUpdateable>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDebug>False</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDebug>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyFile>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyFile>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyContainer>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyContainer>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDelaySign>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDelaySign>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetAPTCA>
+    </Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetAPTCA>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetFixedNames>false</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetFixedNames>
+    <Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath Condition=" '$(OutDir)' != '' ">$(OutDir)_PublishedWebsites\WebAdministrador\</Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath>
+  </PropertyGroup>
+  <Target Name="ValidateSolutionConfiguration">
+    <Error Text="La configuración de soluciones especificada &quot;$(Configuration)|$(Platform)&quot; no es válida. Especifique una configuración de soluciones válida con las propiedades Configuration y Platform (p. ej., MSBuild.exe Solution.sln /p:Configuration=Debug /p:Platform=&quot;Any CPU&quot;) o deje esas propiedades en blanco para utilizar la configuración de soluciones predeterminada." Code="MSB4126" HelpKeyword="MSBuild.SolutionInvalidSolutionConfiguration" Condition="('$(CurrentSolutionConfigurationContents)' == '') and ('$(SkipInvalidConfigurations)' != 'true')" />
+    <Warning Text="La configuración de soluciones especificada &quot;$(Configuration)|$(Platform)&quot; no es válida. Especifique una configuración de soluciones válida con las propiedades Configuration y Platform (p. ej., MSBuild.exe Solution.sln /p:Configuration=Debug /p:Platform=&quot;Any CPU&quot;) o deje esas propiedades en blanco para utilizar la configuración de soluciones predeterminada." Code="MSB4126" HelpKeyword="MSBuild.SolutionInvalidSolutionConfiguration" Condition="('$(CurrentSolutionConfigurationContents)' == '') and ('$(SkipInvalidConfigurations)' == 'true')" />
+    <Message Text="Generando la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="'$(CurrentSolutionConfigurationContents)' != ''" />
+  </Target>
+  <Target Name="ValidateToolsVersions">
+    <Error Text="La versión de herramientas &quot;$(MSBuildToolsVersion)&quot; de la solución no permite generar proyectos con una versión de herramientas diferente." Code="MSB4149" HelpKeyword="MSBuild.SolutionToolsVersionDoesNotSupportProjectToolsVersion" Condition="'$(MSBuildToolsVersion)' == '2.0' and ('$(ProjectToolsVersion)' != '2.0' and '$(ProjectToolsVersion)' != '')" />
+  </Target>
+  <Target Name="Juego\Talentos_Master__800x600" DependsOnTargets="Juego\Talentos_Master_Web;Talentos\UPC_Talentos_BL_SI;Seguridad\UPC_Seguridad_Talentos_SI_WS;Seguridad\UPC_Seguridad_Talentos_BL_BE;Talentos\Business Logic\UPC_Talentos_BL_BE" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(Talentos_Master__800x600BuildOutput)">
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master__800x600BuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master__800x600BuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Juego\Talentos_Master__800x600:Clean" DependsOnTargets="Juego\Talentos_Master_Web:Clean;Talentos\UPC_Talentos_BL_SI:Clean;Seguridad\UPC_Seguridad_Talentos_SI_WS:Clean;Seguridad\UPC_Seguridad_Talentos_BL_BE:Clean;Talentos\Business Logic\UPC_Talentos_BL_BE:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Juego\Talentos_Master__800x600:Rebuild" DependsOnTargets="Juego\Talentos_Master_Web:Rebuild;Talentos\UPC_Talentos_BL_SI:Rebuild;Seguridad\UPC_Seguridad_Talentos_SI_WS:Rebuild;Seguridad\UPC_Seguridad_Talentos_BL_BE:Rebuild;Talentos\Business Logic\UPC_Talentos_BL_BE:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(Talentos_Master__800x600BuildOutput)">
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master__800x600BuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master__800x600BuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Juego\Talentos_Master__800x600:Publish" DependsOnTargets="Juego\Talentos_Master_Web:Publish;Talentos\UPC_Talentos_BL_SI:Publish;Seguridad\UPC_Seguridad_Talentos_SI_WS:Publish;Seguridad\UPC_Seguridad_Talentos_BL_BE:Publish;Talentos\Business Logic\UPC_Talentos_BL_BE:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="Talentos_Master\Talentos_Master__800x600.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Juego\Talentos_Master_Web" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE;Talentos\Business Logic\UPC_Talentos_BL_BC" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(Talentos_Master_WebBuildOutput)">
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master_WebBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master_WebBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Juego\Talentos_Master_Web:Clean" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE:Clean;Talentos\Business Logic\UPC_Talentos_BL_BC:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Juego\Talentos_Master_Web:Rebuild" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE:Rebuild;Talentos\Business Logic\UPC_Talentos_BL_BC:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(Talentos_Master_WebBuildOutput)">
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master_WebBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="Talentos_Master_WebBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Juego\Talentos_Master_Web:Publish" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE:Publish;Talentos\Business Logic\UPC_Talentos_BL_BC:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="Talentos_Master.Web\Talentos_Master.Web.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_BL_BE" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Seguridad_Talentos_BL_BEBuildOutput)">
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_BL_BE:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_BL_BE:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Seguridad_Talentos_BL_BEBuildOutput)">
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_BL_BE:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\Data Access\UPC_Talentos_DL_DALC" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_DL_DALCBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_DL_DALCBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_DL_DALCBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\Data Access\UPC_Talentos_DL_DALC:Clean" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\Data Access\UPC_Talentos_DL_DALC:Rebuild" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_DL_DALCBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_DL_DALCBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_DL_DALCBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\Data Access\UPC_Talentos_DL_DALC:Publish" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BC" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE;Talentos\Data Access\UPC_Talentos_DL_DALC" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_BL_BCBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BCBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BCBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BC:Clean" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE:Clean;Talentos\Data Access\UPC_Talentos_DL_DALC:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BC:Rebuild" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE:Rebuild;Talentos\Data Access\UPC_Talentos_DL_DALC:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_BL_BCBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BCBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BCBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BC:Publish" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BE:Publish;Talentos\Data Access\UPC_Talentos_DL_DALC:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_SI_WS" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Seguridad_Talentos_SI_WSBuildOutput)">
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_SI_WSBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_SI_WSBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_SI_WS:Clean" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_SI_WS:Rebuild" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Seguridad_Talentos_SI_WSBuildOutput)">
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_SI_WSBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Seguridad_Talentos_SI_WSBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Seguridad\UPC_Seguridad_Talentos_SI_WS:Publish" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_BL_BE:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Seguridad.Talentos.SI.WS\UPC.Seguridad.Talentos.SI.WS.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\UPC_Talentos_BL_SI" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BC;Talentos\Business Logic\UPC_Talentos_BL_BE" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_BL_SIBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_SIBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_SIBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\UPC_Talentos_BL_SI:Clean" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BC:Clean;Talentos\Business Logic\UPC_Talentos_BL_BE:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\UPC_Talentos_BL_SI:Rebuild" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BC:Rebuild;Talentos\Business Logic\UPC_Talentos_BL_BE:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_BL_SIBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_SIBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_SIBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\UPC_Talentos_BL_SI:Publish" DependsOnTargets="Talentos\Business Logic\UPC_Talentos_BL_BC:Publish;Talentos\Business Logic\UPC_Talentos_BL_BE:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.BL.SI\UPC.Talentos.BL.SI.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="GetFrameworkPathAndRedistList">
+    <GetFrameworkPath>
+      <Output TaskParameter="Path" ItemName="_CombinedTargetFrameworkDirectoriesItem" Condition="'$(MSBuildToolsVersion)' == '2.0'" />
+      <Output TaskParameter="FrameworkVersion35Path" ItemName="_CombinedTargetFrameworkDirectoriesItem" Condition=" '$(TargetFrameworkVersion)' == 'v3.5' and '$(MSBuildToolsVersion)' != '2.0'" />
+      <Output TaskParameter="FrameworkVersion30Path" ItemName="_CombinedTargetFrameworkDirectoriesItem" Condition=" ('$(TargetFrameworkVersion)' == 'v3.0' or '$(TargetFrameworkVersion)' == 'v3.5') and '$(MSBuildToolsVersion)' != '2.0'" />
+      <Output TaskParameter="FrameworkVersion20Path" ItemName="_CombinedTargetFrameworkDirectoriesItem" Condition=" ('$(TargetFrameworkVersion)' == 'v2.0' or '$(TargetFrameworkVersion)' == 'v3.0' or '$(TargetFrameworkVersion)' == 'v3.5') and '$(MSBuildToolsVersion)' != '2.0'" />
+    </GetFrameworkPath>
+    <CreateItem Include="@(_CombinedTargetFrameworkDirectoriesItem->'%(Identity)\RedistList\*.xml')">
+      <Output TaskParameter="Include" ItemName="InstalledAssemblyTables" />
+    </CreateItem>
+  </Target>
+  <Target Name="WebAdministrador" DependsOnTargets="Talentos\UPC_Talentos_BL_SI;Seguridad\UPC_Seguridad_Talentos_SI_WS;GetFrameworkPathAndRedistList" Condition=" ('$(CurrentSolutionConfigurationContents)' != '') and (false or ( ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ) or ( ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') )) ">
+    <CreateItem Include="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)\Bin\*.refresh">
+      <Output TaskParameter="Include" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_RefreshFile" />
+    </CreateItem>
+    <ReadLinesFromFile File="%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_RefreshFile.Identity)" Condition=" '%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_RefreshFile.Identity)' != '' ">
+      <Output TaskParameter="Lines" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_ReferenceRelPath" />
+    </ReadLinesFromFile>
+    <CombinePath BasePath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)" Paths="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_ReferenceRelPath)">
+      <Output TaskParameter="CombinedPaths" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References" />
+    </CombinePath>
+    <Copy SourceFiles="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References->'%(FullPath)')" DestinationFolder="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)\Bin\" Condition="!Exists('%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References.Identity)')" ContinueOnError="true" />
+    <ResolveAssemblyReference Assemblies="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References->'%(FullPath)')" TargetFrameworkDirectories="@(_CombinedTargetFrameworkDirectoriesItem)" InstalledAssemblyTables="@(InstalledAssemblyTables)" SearchPaths="{RawFileName};{TargetFrameworkDirectory};{GAC}" FindDependencies="true" FindSatellites="true" FindSerializationAssemblies="true" FindRelatedFiles="true" Condition="Exists('%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References.Identity)')">
+      <Output TaskParameter="CopyLocalFiles" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_CopyLocalFiles" />
+    </ResolveAssemblyReference>
+    <Copy SourceFiles="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_CopyLocalFiles)" DestinationFiles="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_CopyLocalFiles->'$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)\Bin\%(DestinationSubDirectory)%(Filename)%(Extension)')" Condition="(false) or ('$(AspNetConfiguration)' == 'Debug') or ('$(AspNetConfiguration)' == 'Release')" />
+    <AspNetCompiler VirtualPath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetVirtualPath)" PhysicalPath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)" TargetPath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath)" Force="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetForce)" Updateable="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetUpdateable)" Debug="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDebug)" KeyFile="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyFile)" KeyContainer="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyContainer)" DelaySign="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDelaySign)" AllowPartiallyTrustedCallers="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetAPTCA)" FixedNames="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetFixedNames)" Condition="(false) or ('$(AspNetConfiguration)' == 'Debug') or ('$(AspNetConfiguration)' == 'Release')" />
+    <Message Text="Se omitirá porque la configuración &quot;$(AspNetConfiguration)&quot; no se admite para este proyecto web. Puede utilizar la propiedad AspNetConfiguration para invalidar la configuración utilizada para crear proyectos web si agrega /p:AspNetConfiguration=&lt;valor&gt; a la línea de comandos. Actualmente, los proyectos web sólo admiten configuraciones Debug y Release." Condition="!((false) or ('$(AspNetConfiguration)' == 'Debug') or ('$(AspNetConfiguration)' == 'Release'))" />
+  </Target>
+  <Target Name="WebAdministrador:Clean" DependsOnTargets="Talentos\UPC_Talentos_BL_SI:Clean;Seguridad\UPC_Seguridad_Talentos_SI_WS:Clean;GetFrameworkPathAndRedistList">
+    <Message Text="Los proyectos web no admiten el destino &quot;Clean&quot;.  Continuando con los proyectos restantes..." />
+  </Target>
+  <Target Name="WebAdministrador:Rebuild" DependsOnTargets="Talentos\UPC_Talentos_BL_SI:Rebuild;Seguridad\UPC_Seguridad_Talentos_SI_WS:Rebuild;GetFrameworkPathAndRedistList" Condition=" ('$(CurrentSolutionConfigurationContents)' != '') and (false or ( ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ) or ( ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') )) ">
+    <CreateItem Include="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)\Bin\*.refresh">
+      <Output TaskParameter="Include" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_RefreshFile" />
+    </CreateItem>
+    <ReadLinesFromFile File="%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_RefreshFile.Identity)" Condition=" '%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_RefreshFile.Identity)' != '' ">
+      <Output TaskParameter="Lines" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_ReferenceRelPath" />
+    </ReadLinesFromFile>
+    <CombinePath BasePath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)" Paths="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_ReferenceRelPath)">
+      <Output TaskParameter="CombinedPaths" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild" />
+    </CombinePath>
+    <Copy SourceFiles="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild->'%(FullPath)')" DestinationFolder="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)\Bin\" Condition="!Exists('%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild.Identity)')" ContinueOnError="true" />
+    <ResolveAssemblyReference Assemblies="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild->'%(FullPath)')" TargetFrameworkDirectories="@(_CombinedTargetFrameworkDirectoriesItem)" InstalledAssemblyTables="@(InstalledAssemblyTables)" SearchPaths="{RawFileName};{TargetFrameworkDirectory};{GAC}" FindDependencies="true" FindSatellites="true" FindSerializationAssemblies="true" FindRelatedFiles="true" Condition="Exists('%(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild.Identity)')">
+      <Output TaskParameter="CopyLocalFiles" ItemName="Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_CopyLocalFiles" />
+    </ResolveAssemblyReference>
+    <Copy SourceFiles="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_CopyLocalFiles)" DestinationFiles="@(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_References_Rebuild_CopyLocalFiles->'$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)\Bin\%(DestinationSubDirectory)%(Filename)%(Extension)')" Condition="(false) or ('$(AspNetConfiguration)' == 'Debug') or ('$(AspNetConfiguration)' == 'Release')" />
+    <AspNetCompiler VirtualPath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetVirtualPath)" PhysicalPath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetPhysicalPath)" TargetPath="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetTargetPath)" Force="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetForce)" Updateable="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetUpdateable)" Debug="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDebug)" KeyFile="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyFile)" KeyContainer="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetKeyContainer)" DelaySign="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetDelaySign)" AllowPartiallyTrustedCallers="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetAPTCA)" FixedNames="$(Project_54F36E4F-5C27-4959-971A-55A2A284EA4A_AspNetFixedNames)" Condition="(false) or ('$(AspNetConfiguration)' == 'Debug') or ('$(AspNetConfiguration)' == 'Release')" />
+    <Message Text="Se omitirá porque la configuración &quot;$(AspNetConfiguration)&quot; no se admite para este proyecto web. Puede utilizar la propiedad AspNetConfiguration para invalidar la configuración utilizada para crear proyectos web si agrega /p:AspNetConfiguration=&lt;valor&gt; a la línea de comandos. Actualmente, los proyectos web sólo admiten configuraciones Debug y Release." Condition="!((false) or ('$(AspNetConfiguration)' == 'Debug') or ('$(AspNetConfiguration)' == 'Release'))" />
+  </Target>
+  <Target Name="WebAdministrador:Publish" DependsOnTargets="Talentos\UPC_Talentos_BL_SI:Publish;Seguridad\UPC_Seguridad_Talentos_SI_WS:Publish;GetFrameworkPathAndRedistList">
+    <Message Text="Los proyectos web no admiten el destino &quot;Publish&quot;. Continuando con los proyectos restantes..." />
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BE" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_BL_BEBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BE:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BE:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(UPC_Talentos_BL_BEBuildOutput)">
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="UPC_Talentos_BL_BEBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Talentos\Business Logic\UPC_Talentos_BL_BE:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Seguridad\clientTest" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_SI_WS" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(clientTestBuildOutput)">
+    <MSBuild Projects="clientTest\clientTest.csproj" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="clientTestBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="clientTest\clientTest.csproj" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="clientTestBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Seguridad\clientTest:Clean" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_SI_WS:Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="clientTest\clientTest.csproj" Targets="Clean" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="clientTest\clientTest.csproj" Targets="Clean" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Seguridad\clientTest:Rebuild" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_SI_WS:Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(clientTestBuildOutput)">
+    <MSBuild Projects="clientTest\clientTest.csproj" Targets="Rebuild" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="clientTestBuildOutput" />
+    </MSBuild>
+    <MSBuild Projects="clientTest\clientTest.csproj" Targets="Rebuild" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') ">
+      <Output TaskParameter="TargetOutputs" ItemName="clientTestBuildOutput" />
+    </MSBuild>
+  </Target>
+  <Target Name="Seguridad\clientTest:Publish" DependsOnTargets="Seguridad\UPC_Seguridad_Talentos_SI_WS:Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Projects="clientTest\clientTest.csproj" Targets="Publish" Properties="Configuration=Debug; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Debug') and ('$(Platform)' == 'Any CPU') " />
+    <MSBuild Projects="clientTest\clientTest.csproj" Targets="Publish" Properties="Configuration=Release; Platform=AnyCPU; BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" Condition=" ('$(Configuration)' == 'Release') and ('$(Platform)' == 'Any CPU') " />
+  </Target>
+  <Target Name="Build" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(CollectedBuildOutput)">
+    <MSBuild Condition="@(BuildLevel0) != ''" Projects="@(BuildLevel0)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel0.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel0) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel0.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel0) != ''" />
+    <MSBuild Condition="@(BuildLevel1) != ''" Projects="@(BuildLevel1)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel1.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel1) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel1.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel1) != ''" />
+    <MSBuild Condition="@(BuildLevel2) != ''" Projects="@(BuildLevel2)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel2.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel2) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel2.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel2) != ''" />
+    <MSBuild Condition="@(BuildLevel3) != ''" Projects="@(BuildLevel3)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel3.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel3) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel3.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel3) != ''" />
+    <MSBuild Condition="@(BuildLevel4) != ''" Projects="@(BuildLevel4)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel4.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel4) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel4.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel4) != ''" />
+    <CallTarget Targets="WebAdministrador" RunEachTargetSeparately="true" />
+  </Target>
+  <Target Name="Clean" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Condition="@(BuildLevel0) != ''" Projects="@(BuildLevel0)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Clean" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel0.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel0) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel0.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel0) != ''" />
+    <MSBuild Condition="@(BuildLevel1) != ''" Projects="@(BuildLevel1)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Clean" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel1.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel1) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel1.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel1) != ''" />
+    <MSBuild Condition="@(BuildLevel2) != ''" Projects="@(BuildLevel2)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Clean" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel2.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel2) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel2.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel2) != ''" />
+    <MSBuild Condition="@(BuildLevel3) != ''" Projects="@(BuildLevel3)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Clean" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel3.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel3) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel3.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel3) != ''" />
+    <MSBuild Condition="@(BuildLevel4) != ''" Projects="@(BuildLevel4)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Clean" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel4.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel4) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel4.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel4) != ''" />
+    <CallTarget Targets="WebAdministrador:Clean" RunEachTargetSeparately="true" />
+    <Delete Files="Talentos_Master.sln.cache" />
+  </Target>
+  <Target Name="Rebuild" Condition="'$(CurrentSolutionConfigurationContents)' != ''" Outputs="@(CollectedBuildOutput)">
+    <MSBuild Condition="@(BuildLevel0) != ''" Projects="@(BuildLevel0)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Rebuild" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel0.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel0) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel0.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel0) != ''" />
+    <MSBuild Condition="@(BuildLevel1) != ''" Projects="@(BuildLevel1)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Rebuild" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel1.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel1) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel1.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel1) != ''" />
+    <MSBuild Condition="@(BuildLevel2) != ''" Projects="@(BuildLevel2)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Rebuild" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel2.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel2) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel2.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel2) != ''" />
+    <MSBuild Condition="@(BuildLevel3) != ''" Projects="@(BuildLevel3)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Rebuild" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel3.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel3) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel3.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel3) != ''" />
+    <MSBuild Condition="@(BuildLevel4) != ''" Projects="@(BuildLevel4)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Rebuild" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)">
+      <Output TaskParameter="TargetOutputs" ItemName="CollectedBuildOutput" />
+    </MSBuild>
+    <Message Text="El proyecto&quot;%(SkipLevel4.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel4) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel4.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel4) != ''" />
+    <CallTarget Targets="WebAdministrador:Rebuild" RunEachTargetSeparately="true" />
+  </Target>
+  <Target Name="Publish" Condition="'$(CurrentSolutionConfigurationContents)' != ''">
+    <MSBuild Condition="@(BuildLevel0) != ''" Projects="@(BuildLevel0)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Publish" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel0.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel0) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel0.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel0) != ''" />
+    <MSBuild Condition="@(BuildLevel1) != ''" Projects="@(BuildLevel1)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Publish" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel1.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel1) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel1.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel1) != ''" />
+    <MSBuild Condition="@(BuildLevel2) != ''" Projects="@(BuildLevel2)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Publish" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel2.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel2) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel2.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel2) != ''" />
+    <MSBuild Condition="@(BuildLevel3) != ''" Projects="@(BuildLevel3)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Publish" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel3.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel3) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel3.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel3) != ''" />
+    <MSBuild Condition="@(BuildLevel4) != ''" Projects="@(BuildLevel4)" Properties="Configuration=%(Configuration); Platform=%(Platform); BuildingSolutionFile=true; CurrentSolutionConfigurationContents=$(CurrentSolutionConfigurationContents); SolutionDir=$(SolutionDir); SolutionExt=$(SolutionExt); SolutionFileName=$(SolutionFileName); SolutionName=$(SolutionName); SolutionPath=$(SolutionPath)" Targets="Publish" ToolsVersion="$(ProjectToolsVersion)" BuildInParallel="true" UnloadProjectsOnCompletion="$(UnloadProjectsOnCompletion)" UseResultsCache="$(UseResultsCache)" />
+    <Message Text="El proyecto&quot;%(SkipLevel4.Identity)&quot; no se seleccionó para la compilación en la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Condition="@(SkipLevel4) != ''" />
+    <Warning Text="La configuración del proyecto &quot;%(MissingConfigLevel4.Identity)&quot; no se especificó en el archivo de solución de la configuración de soluciones &quot;$(Configuration)|$(Platform)&quot;." Code="MSB4121" HelpKeyword="MSBuild.SolutionProjectConfigurationMissing" Condition="@(MissingConfigLevel4) != ''" />
+    <CallTarget Targets="WebAdministrador:Publish" RunEachTargetSeparately="true" />
+  </Target>
+</Project>

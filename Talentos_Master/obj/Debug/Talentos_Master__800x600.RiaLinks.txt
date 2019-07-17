@@ -1,0 +1,2 @@
+C:\Talentos UPC\UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj,635259137080000000,
+C:\Talentos UPC\UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj,635294852540000000,

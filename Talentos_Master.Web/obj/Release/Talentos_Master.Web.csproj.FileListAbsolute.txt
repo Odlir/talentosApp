@@ -1,0 +1,148 @@
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master.Web\obj\Release\ResolveAssemblyReference.cache
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master.Web\bin\Talentos_Master.Web.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master.Web\bin\Talentos_Master.Web.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master.Web\obj\Release\Talentos_Master.Web.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master.Web\obj\Release\Talentos_Master.Web.pdb

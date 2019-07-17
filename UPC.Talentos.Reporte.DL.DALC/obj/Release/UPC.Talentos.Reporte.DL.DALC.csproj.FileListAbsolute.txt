@@ -1,0 +1,42 @@
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.dll
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.DL.DALC.pdb
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.csprojResolveAssemblyReference.cache
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.dll
+D:\Talentos\UPC.Talentos.Reporte.DL.DALC\obj\Release\UPC.Talentos.Reporte.DL.DALC.pdb

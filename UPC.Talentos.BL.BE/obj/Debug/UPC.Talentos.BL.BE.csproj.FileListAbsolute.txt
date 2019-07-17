@@ -1,0 +1,162 @@
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+F:\Talentos\Avance\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+F:\Talentos\Avance\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+F:\Talentos\Avance\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+F:\Talentos\Avance\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+F:\Talentos\Avance\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Trucho\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\elopezm\Desktop\TALENTOS\Trucho\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Trucho\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elopezm\Desktop\TALENTOS\Trucho\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\elopezm\Desktop\TALENTOS\Trucho\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo_TrabjandoActual\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo_TrabjandoActual\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo_TrabjandoActual\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo_TrabjandoActual\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC - copia (2) - copia\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC - copia (2) - copia\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC - copia (2) - copia\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC - copia (2) - copia\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes Reporte Adulto\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes Reporte Adulto\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes Reporte Adulto\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes Reporte Adulto\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes Reporte Adulto\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.BL.BE\Bin\Debug\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.BL.BE\obj\Debug\UPC.Talentos.BL.BE.pdb

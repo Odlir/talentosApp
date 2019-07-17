@@ -1,0 +1,476 @@
+﻿<my:IPaginaContenida x:Class="Talentos_Master.frmResultadosClasificacion"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+    xmlns:my="clr-namespace:Talentos_Master" 
+    Width="600" Height="520">
+    <!--Width="800" Height="480">-->
+    <Grid x:Name="Contenedor" Background="Transparent"  Width="650" Height="520">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Canvas x:Name="canvasParte2" Margin="0,0,50,87"  Visibility="Visible" >
+        <!--<Image x:Name="sgte" Canvas.Top="450" Canvas.Left="525" Source="images/auxiliares/flecha.png" HorizontalAlignment="Right" VerticalAlignment="Center" Height="40" Width="40" MouseLeftButtonDown="sgte_MouseLeftButtonDown" ></Image>-->
+        <!--<Canvas.RenderTransform>
+            <ScaleTransform ScaleX="1" ScaleY="1.2"></ScaleTransform>
+        </Canvas.RenderTransform>-->
+        <Grid x:Name="Nivel2" Background="Transparent" Height="430" Width="600">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"></ColumnDefinition>
+                <ColumnDefinition Width="152"></ColumnDefinition>
+                <ColumnDefinition Width="248"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <!--<RowDefinition Height="96"></RowDefinition>-->
+                <RowDefinition Height="232"></RowDefinition>
+                <RowDefinition Height="82"></RowDefinition>
+                <RowDefinition Height="0"></RowDefinition>
+            </Grid.RowDefinitions>
+          
+            <Border x:Name="imgBuzon1" Style="{StaticResource GlassBorderStyle}" Grid.Column="0" Grid.Row="0" MouseEnter="imgBuzon1_MouseEnter" MouseLeave="imgBuzon1_MouseLeave" MouseLeftButtonDown="imgBuzon1Nivel2_MouseLeftButtonDown" CornerRadius="10"  Margin="51,30,4,59" Height="75" Width="145">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.05*"></RowDefinition>
+                        <RowDefinition Height="0.250*"></RowDefinition>
+                        <RowDefinition Height="0.295*"></RowDefinition>
+                        <RowDefinition Height="0.295*"></RowDefinition>
+                        <RowDefinition Height="0.07*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock x:Name="txt11" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" + " FontSize="24" FontFamily="Arial" FontWeight="ExtraBold">
+                    </TextBlock>
+                    <TextBlock x:Name="txt21" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento más " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                    </TextBlock>
+                    <TextBlock x:Name="txt31" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" desarrollado " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                    </TextBlock>
+                </Grid>
+            </Border>
+            <Border x:Name="buzon3" Style="{StaticResource GlassBorderStyle}" Grid.Column="2" Grid.Row="0" MouseEnter="imgBuzon3_MouseEnter" MouseLeave="imgBuzon3_MouseLeave" MouseLeftButtonDown="buzon3_MouseLeftButtonDown" Margin="2,30,96,59" CornerRadius="10" Height="75" Width="145">
+                <Grid>
+                    <Grid.RowDefinitions>
+                         <RowDefinition Height="0.03*"></RowDefinition>
+                        <RowDefinition Height="0.2*"></RowDefinition>
+                        <RowDefinition Height="0.33*"></RowDefinition>
+                        <RowDefinition Height="0.33*"></RowDefinition>
+                        <RowDefinition Height="0.07*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock x:Name="txt13" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" - " FontSize="24" FontFamily="Arial" FontWeight="ExtraBold">
+                    </TextBlock>
+                    <TextBlock x:Name="txt23" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento menos " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                    </TextBlock>
+                    <TextBlock x:Name="txt33" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" desarrollado " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                    </TextBlock>
+                </Grid>
+            </Border>
+            <Border Grid.Column="1"  Grid.Row="1" Height="70" Margin="30,36,35,-24" BorderBrush="#FFE88919" BorderThickness="3" MouseLeftButtonDown="sgte_MouseLeftButtonDown" Grid.RowSpan="2" >
+                <Image Source="images/auxiliares/chart.png"   VerticalAlignment="Center" Height="70"  Cursor="Hand" />
+            </Border>
+            <TextBlock Text="Mis resultados" Grid.Column="1" Grid.Row="2" FontFamily="Arial" Foreground="#FF525252" FontSize="15" FontWeight="Bold"  MouseLeftButtonDown="sgte_MouseLeftButtonDown" Cursor="Hand" Margin="20,0,3,-66" Height="32" VerticalAlignment="Bottom"  />
+            <TextBlock Text="en estadísticas" Grid.Column="1" Grid.Row="2" FontFamily="Arial" Foreground="#FFE88919" FontSize="15" FontWeight="Bold"  MouseLeftButtonDown="sgte_MouseLeftButtonDown" Cursor="Hand" Margin="20,55,3,-87"  />
+            <!--<TextBlock Height="24" Margin="86,16,88,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.Row="1" Text="Haz clic en cada buzón para ver tus resultados." TextWrapping="Wrap" FontFamily="Arial" Foreground="Black" FontSize="15" TextAlignment="Center"   />-->
+            <!--<Image Source="images/auxiliares/save.png" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="70" Height="70" MouseLeftButtonDown="Image_MouseLeftButtonDown"  Cursor="Hand"   ></Image>-->
+        </Grid>
+        <Border x:Name="popup1" Margin="300,110,0,0"  Grid.Column="1" Grid.Row="0" BorderBrush="Black" BorderThickness="1" Height="56" VerticalAlignment="Center" CornerRadius="5" HorizontalAlignment="Center"  Width="130" Visibility="Collapsed">
+            <Border.Effect>
+                <DropShadowEffect/>
+            </Border.Effect>
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFFFF0" Offset="0.969"/>
+                    <GradientStop Color="#FFFFFFF0" Offset="0.944"/>
+                    <GradientStop Color="#FFFFFFF0" Offset="0.053"/>
+                    <GradientStop Color="#FFFFFFF0" Offset="0.031"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <TextBlock Text="Haz Clic para ver tus primeros resultados" TextWrapping="Wrap" FontSize="9.333" TextAlignment="Center" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100"></TextBlock>
+        </Border>
+       
+        
+    </Canvas>
+        <Canvas x:Name="ppColores1"  Canvas.Top="0" Canvas.Left="0" Visibility="Collapsed" Margin="0,0,0,0">
+            <!--Canvas.Top="-150"-->
+            <Border Style="{StaticResource FondoPopupGrande}" Background="Transparent">
+                <Grid x:Name="grdColores"  Background="Transparent"  Width="580" Height="500">
+                    <!--Width="800" Height="400">-->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.07*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.02*"></RowDefinition>
+                    </Grid.RowDefinitions>
+               
+                    <Canvas Grid.Row="0" >
+                        <TextBlock     Canvas.Top="14" Canvas.Left="125" Style="{StaticResource LetraPopUp}" >
+                            <Run x:Name="txtTitulo" Text="Talentos" Foreground="Black" FontSize="26" FontFamily="Arial" ></Run>
+                            <Run x:Name="txtTitulo2" Text="más desarrollados" Foreground="#FFE88919" FontFamily="Arial" FontSize="26" ></Run>
+                        </TextBlock>
+                        <Button x:Name="btnCerrar2" Content=" X " FontWeight="Bold" Click="btnCerrar2_Click_1" HorizontalAlignment="Right" Canvas.Left="551" Canvas.Top="8"/>
+                    </Canvas>
+                    <Canvas x:Name="canvasColor1" Grid.Row="1" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="25" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a la " FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="ejecución" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                               <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/ejecucion.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="ejecución" FontSize="16"  Foreground="#FFE88919" Canvas.Left="140" Canvas.Top="45" FontFamily="Arial" ></TextBlock>-->
+                        <ListBox x:Name="Color1ListBox"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                   Height="70" Width="370"  Canvas.Top="15" Canvas.Left="200"  >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa  Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown"/>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvasColor2" Grid.Row="2" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="17" Canvas.Top="40" Cursor="Hand"  >
+                            <Run Text="Orientados al" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="pensamiento" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/pensamiento.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="logro" Foreground="#FFE88919" Canvas.Left="165" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color2ListBox"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                             Height="70" Width="370"  Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvasColor3" Grid.Row="3" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="20" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a la" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="innovación" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush ImageSource="images/Orientaciones/innovacion.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="innovación" Foreground="#FFE88919" Canvas.Left="130" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color3ListBox"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                              Height="70" Width="370"   Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65"  VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvasColor4" Grid.Row="4" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="35" Canvas.Top="40" Cursor="Hand"  >
+                            <Run Text="Orientados al" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="liderazgo" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/liderazgo.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="liderazgo" Foreground="#FFE88919" Canvas.Left="135" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color4ListBox"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                               Height="70" Width="370"   Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvasColor5" Grid.Row="5" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="20" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a las" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="personas" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush ImageSource="images/Orientaciones/personas.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+
+                        <!--<TextBlock Text="personas" Foreground="#FFE88919" Canvas.Left="140" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color5ListBox"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                             Height="70" Width="370"   Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvasColor6" Grid.Row="6" Grid.Column="0" Background="Transparent">
+                        <TextBlock Canvas.Left="20" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a la" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="estructura" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/estructura.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="estructura" Foreground="#FFE88919" Canvas.Left="135" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color6ListBox"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                              Height="70" Width="370"  Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                </Grid>
+            </Border>
+        </Canvas>
+        <Canvas x:Name="ppColores3"  VerticalAlignment="Stretch" Canvas.Top="0" Canvas.Left="0" Visibility="Collapsed" Margin="0,0,0,0" >
+            <Border Style="{StaticResource FondoPopupGrande}" Background="Transparent">
+                <Grid x:Name="grdColores3"  Background="Transparent"  Width="580" Height="500">
+                    <!--Width="800" Height="400">-->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.07*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.15*"></RowDefinition>
+                        <RowDefinition Height="0.02*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Canvas Grid.Row="0" >
+                        <TextBlock    Canvas.Top="14" Canvas.Left="125" Style="{StaticResource LetraPopUp}" >
+						    <Run x:Name="txtTitulo3" Text="Talentos" Foreground="Black" FontSize="26" FontFamily="Arial" ></Run>
+                            <Run x:Name="txtTitulo3_2" Text="menos desarrollados" Foreground="#FFE88919" FontSize="26" ></Run>
+                        </TextBlock>
+                        <Button x:Name="btnCerrar3" Content=" X " FontWeight="Bold" Click="btnCerrar2_Click_1" HorizontalAlignment="Right" VerticalAlignment="Center" Canvas.Left="551" Canvas.Top="8"></Button>
+                    </Canvas>
+                    <Canvas x:Name="canvas3Color1" Grid.Row="1" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="25" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a la " FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="ejecución" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/ejecucion.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="ejecución" FontSize="16"  Foreground="#FFE88919" Canvas.Left="140" Canvas.Top="45" FontFamily="Arial" ></TextBlock>-->
+                        <ListBox x:Name="Color1ListBox3"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                    Height="70" Width="370"  Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown"/>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvas3Color2" Grid.Row="2" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="17" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados al" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="pensamiento" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/pensamiento.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="logro" Foreground="#FFE88919" Canvas.Left="165" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color2ListBox3"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                   Height="70" Width="370"  Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvas3Color3" Grid.Row="3" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="20" Canvas.Top="40" Cursor="Hand"  >
+                            <Run Text="Orientados a la" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="innovación" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush ImageSource="images/Orientaciones/innovacion.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="innovación" Foreground="#FFE88919" Canvas.Left="130" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color3ListBox3"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                    Height="70" Width="370"   Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65"  VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvas3Color4" Grid.Row="4" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="35" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientado al" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="liderazgo" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/liderazgo.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="liderazgo" Foreground="#FFE88919" Canvas.Left="135" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color4ListBox3"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                    Height="70" Width="370"   Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown"  />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvas3Color5" Grid.Row="5" Grid.Column="0" Background="Transparent">
+                        <TextBlock  Canvas.Left="20" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a las" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="personas" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush  ImageSource="images/Orientaciones/personas.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+
+                        <!--<TextBlock Text="personas" Foreground="#FFE88919" Canvas.Left="140" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color5ListBox3"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                   Height="70" Width="370"   Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown"/>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                    <Canvas x:Name="canvas3Color6" Grid.Row="6" Grid.Column="0" Background="Transparent">
+                        <TextBlock Canvas.Left="20" Canvas.Top="40" Cursor="Hand" >
+                            <Run Text="Orientados a la" FontSize="14"  Foreground="#FF525252" FontFamily="Arial"  ></Run>
+                            <Run Text="estructura" FontSize="14"  Foreground="#FFE88919" FontFamily="Arial" ></Run>
+                             <ToolTipService.ToolTip  >
+                                    <ToolTip Width="270" Height="300">
+                                        <ToolTip.Background>    
+                                            <ImageBrush ImageSource="images/Orientaciones/estructura.png"  Stretch="Fill" />
+                                        </ToolTip.Background>
+                                    </ToolTip>       
+                                </ToolTipService.ToolTip>
+                        </TextBlock>
+                        <!--<TextBlock Text="estructura" Foreground="#FFE88919" Canvas.Left="135" Canvas.Top="45" FontFamily="Arial" FontSize="16"></TextBlock>-->
+                        <ListBox x:Name="Color6ListBox3"  Background="Transparent" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                                    Height="70" Width="370"  Canvas.Top="15" Canvas.Left="200" >
+                            <ListBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListBox.ItemsPanel>
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <my:ucTalentitoMapa Cursor="Hand" Width="115" Height="65" VerticalAlignment="Center" HorizontalAlignment="Center" MouseLeftButtonDown="ucTalentitoMapa_MouseLeftButtonDown" />
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </Canvas>
+                </Grid>
+            </Border>
+        </Canvas>
+        <Canvas x:Name="Zoom" Visibility="Collapsed">
+            <Border CornerRadius="15"    Style="{StaticResource GlassBorderFondo}" Padding="0"  Width="265" Height="355">
+               <Canvas  >       
+                <Button x:Name="btnCerrarZoom" Content=" X " FontWeight="Bold" Click="btnCerrarZoom_Click"  HorizontalAlignment="Right" Grid.Column="1"  FontSize="8" Height="20" Canvas.Left="238" Canvas.Top="15" Canvas.ZIndex="1" />    
+                <my:ucTalentoLupita x:Name="TalentoZoom" Grid.Column="0" Grid.ColumnSpan="2"  />
+                </Canvas>   
+            </Border>
+        </Canvas>    
+    </Grid>
+</my:IPaginaContenida>

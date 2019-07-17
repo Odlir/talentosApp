@@ -1,0 +1,54 @@
+<publishData>
+  <publishTarget publishUrl="C:\Documents and Settings\Developer\Desktop\TALENTOS\WS_Juego\">
+    <file relUrl="clientaccesspolicy.xml" publishTime="11/23/2009 23:22:46" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.dll" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.dll" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.pdb" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="Web.config" publishTime="03/13/2014 16:20:10" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.pdb" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.dll" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.pdb" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="WSTalentos.asmx" publishTime="01/18/2010 22:07:44" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.pdb" publishTime="03/15/2014 01:23:18" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.dll" publishTime="03/15/2014 01:23:18" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\MALENA\UPC\TALENTOS\Release09Mayo2010\WSJuegoTalentos\">
+    <file relUrl="clientaccesspolicy.xml" publishTime="11/23/2009 23:22:46" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.dll" publishTime="04/14/2010 09:24:50" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.dll" publishTime="05/08/2010 22:42:17" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.pdb" publishTime="05/08/2010 22:42:18" />
+    <file relUrl="Web.config" publishTime="05/08/2010 18:34:18" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.pdb" publishTime="05/08/2010 22:42:19" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.dll" publishTime="05/08/2010 22:42:18" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.pdb" publishTime="04/14/2010 09:24:50" />
+    <file relUrl="WSTalentos.asmx" publishTime="01/18/2010 22:07:43" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.pdb" publishTime="05/08/2010 22:42:17" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.dll" publishTime="05/08/2010 22:42:19" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\MALENA\UPC\TALENTOS\Release 11Abril\WSJuegoTalentos\">
+    <file relUrl="clientaccesspolicy.xml" publishTime="11/23/2009 23:22:46" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.dll" publishTime="04/11/2010 16:55:17" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.dll" publishTime="04/11/2010 16:55:18" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.pdb" publishTime="04/11/2010 16:55:18" />
+    <file relUrl="Web.config" publishTime="04/11/2010 16:29:48" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.pdb" publishTime="04/11/2010 17:24:51" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.dll" publishTime="04/11/2010 16:55:18" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.pdb" publishTime="04/11/2010 16:55:17" />
+    <file relUrl="WSTalentos.asmx" publishTime="01/18/2010 22:07:43" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.pdb" publishTime="04/11/2010 16:55:18" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.dll" publishTime="04/11/2010 17:24:51" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\MALENA\UPC\TALENTOS\WSJuegoTalentosPublish\">
+    <file relUrl="clientaccesspolicy.xml" publishTime="11/23/2009 23:22:46" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.dll" publishTime="03/13/2010 21:09:21" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.dll" publishTime="03/13/2010 21:09:21" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.pdb" publishTime="03/13/2010 21:09:23" />
+    <file relUrl="Web.config" publishTime="03/25/2010 17:06:40" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.pdb" publishTime="03/25/2010 17:08:14" />
+    <file relUrl="bin/UPC.Talentos.BL.BC.dll" publishTime="03/13/2010 21:09:23" />
+    <file relUrl="bin/UPC.Talentos.BL.BE.pdb" publishTime="03/13/2010 21:09:21" />
+    <file relUrl="WSTalentos.asmx" publishTime="01/18/2010 22:07:43" />
+    <file relUrl="bin/UPC.Talentos.DL.DALC.pdb" publishTime="03/13/2010 21:09:21" />
+    <file relUrl="bin/UPC.Talentos.BL.SI.dll" publishTime="03/25/2010 17:08:14" />
+  </publishTarget>
+</publishData>

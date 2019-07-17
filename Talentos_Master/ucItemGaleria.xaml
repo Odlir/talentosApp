@@ -1,0 +1,27 @@
+﻿<my:IPaginaContenida x:Class="Talentos_Master.ucItemGaleria"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:my="clr-namespace:Talentos_Master"
+
+    Width="180" Height="240">
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*" />
+            <RowDefinition Height="0.15*" />
+        </Grid.RowDefinitions>
+        <Image x:Name="imgTalento" Width="170" Height="200" Grid.Row="0" Tag="{Binding source}" Source="{Binding source}" Stretch="Fill" />
+        <!--<CheckBox x:Name="chkSeleccionado" Grid.Row="0" Margin="155,9,13,0" Height="20"  VerticalAlignment="Top" Tag="{Binding i}" IsChecked="{Binding seleccionado}" Checked="chkSeleccionado_Checked" />-->
+        <StackPanel x:Name="buttseven" Orientation="Horizontal"   Grid.Row="1" Background="Transparent" >
+            <my:ButtonSeven x:Name="btnVoltear" Height="35" Width="35" ToolTipService.ToolTip="Ver detalle" Title="Ver Detalle" Margin="70,0,0,0"   ImageSource="images/buttonSeven/ver.png"  TransitionColor="#7f3E8DDD" 
+                   VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MouseLeftButtonDown="btnVoltear_MouseLeftButtonDown" />
+        </StackPanel>
+        
+
+        <!--<Image x:Name="imgTalento" Width="180" Height="210" Grid.Row="0" Tag="{Binding source}" Source="{Binding source}" Stretch="Fill" />-->
+
+        <!--<StackPanel x:Name="buttseven" Orientation="Horizontal"   Grid.Row="1" Background="Transparent" >
+                                        <my:ButtonSeven x:Name="btnVoltear" Height="35" Width="35" Title="Ver Detalle" Margin="65,0,0,0"   ImageSource="images/buttonSeven/ver.png"  TransitionColor="#7f3E8DDD" Tag="{Binding source}"
+                                        VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MouseLeftButtonDown="btnVoltear_MouseLeftButtonDown" />
+                                    </StackPanel>-->
+    </Grid>
+</my:IPaginaContenida>

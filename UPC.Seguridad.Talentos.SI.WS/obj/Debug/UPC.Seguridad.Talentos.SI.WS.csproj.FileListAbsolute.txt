@@ -1,0 +1,504 @@
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\TALENTOS\trunk\ITERACION 2\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\chalreme\Desktop\161109\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\171109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\TALENTOS\trunk\ITERACION 3\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\191109\Talentos-Release1\Talentos-Release1.0\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\TALENTOS\trunk\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ITERACION Luisito\ITERACION Luisito\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\New Folder\ITERACION 4\ITERACION 4\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\malena.castillo\My Documents\2010-0\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\COMENTADO - TODO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\NUEVOSNOMBRES\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\REFACTORING\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\CAMBIOS_MODELO\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-SECUENCIA\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos II\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos III\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos V\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VI\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos VIII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos IX\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\VersionEstable\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\ValidarSesion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Documents and Settings\Michael García\Desktop\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+D:\Pamela\TD1\24-0502010\21-05-2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\29Mayo2010\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.BL.BC.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Talentos.DL.DALC.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 9\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 10\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 11\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\ITalent\Iteración 12\Implementacion\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+D:\Iteracion 12\Talentos\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+F:\Talentos\Avance\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+F:\Talentos\Avance\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+F:\Talentos\Avance\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+F:\Talentos\Avance\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+F:\Talentos\Avance\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\elopezm\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Developer\Desktop\TALENTOS\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Documents and Settings\Developer\Desktop\New Folder (3)\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC Transformacion 2010_VNuevo - copia\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.SI.WS.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\bin\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.SI.WS\obj\Debug\UPC.Seguridad.Talentos.SI.WS.pdb

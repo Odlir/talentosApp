@@ -1,0 +1,29 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="WebServiceTalentosSoap" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+                <binding name="WSTalentosSoap" maxBufferSize="2147483647" maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+                <binding name="wsReporteSoap" maxBufferSize="2147483647" maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:1151/WebServiceTalentos.asmx"
+                binding="basicHttpBinding" bindingConfiguration="WebServiceTalentosSoap"
+                contract="SeguridadReference.WebServiceTalentosSoap" name="WebServiceTalentosSoap" />
+            <endpoint address="http://www.talentosdavidfischman.com/WSTalentosUPC/WSTalentos.asmx"
+                binding="basicHttpBinding" bindingConfiguration="WSTalentosSoap"
+                contract="TalentosReference.WSTalentosSoap" name="WSTalentosSoap" />
+            <endpoint address="http://www.talentosdavidfischman.com/WSReportesUPC/wsReporte.asmx"
+                binding="basicHttpBinding" bindingConfiguration="wsReporteSoap"
+                contract="ReportesReference.wsReporteSoap" name="wsReporteSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

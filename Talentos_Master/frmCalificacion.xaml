@@ -1,0 +1,352 @@
+﻿<my:IPaginaContenida x:Class="Talentos_Master.frmCalificacion"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:my="clr-namespace:Talentos_Master"
+    xmlns:vc="clr-namespace:Visifire.Charts;assembly=SLVisifire.Charts"  >
+	<Grid Background="Transparent">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>  
+			<RowDefinition Height="*"/>           
+        </Grid.RowDefinitions>
+    
+
+        <Image Source="images/logos/upc_logo.png" Grid.Row="0" Grid.Column="1"  HorizontalAlignment="Left" Width="250"  Height="30" Stretch="Fill" MouseLeftButtonDown="Image_MouseLeftButtonDown" Cursor="Hand" />
+        <TextBlock  x:Name="txtCerrarSession" Grid.Column="1" Grid.Row="0" TextAlignment="Right" Style="{StaticResource Bienvenida}" Text="Cerrar Sesión"  Foreground="Gray" FontStyle="Normal"  Margin="0,0,40,0"   HorizontalAlignment="Right" Width="150"  Cursor="Hand" MouseLeftButtonDown="txtCerrarSession_MouseLeftButtonDown"  ><!--Foreground="#FF88B158"  FontFamily="Fonts/VINERITC.TTF#Viner Hand ITC" FontSize="26" FontWeight="Bold" TextWrapping="Wrap" Width="230">-->
+        </TextBlock>
+        <TextBlock  Grid.Column="1" Grid.Row="0"  TextAlignment="Right" Style="{StaticResource Bienvenida}"   HorizontalAlignment="Right" Width="250"  VerticalAlignment="Bottom" Margin="0,0,40,5" Height="15"   >
+                <Run x:Name="txtfullname" ></Run>
+        </TextBlock>
+        <Line Grid.Row="0" Grid.Column="1" X1="0" Y1="40" X2="982" Y2="40" Stroke="#FFE6E6E6" StrokeThickness="3"  ></Line>
+		<TextBlock Text="© UPC | Todos los derechos reservados." FontFamily="Arial" FontSize="12" Grid.Row="2" Grid.Column="1"  HorizontalAlignment="Center" Margin="0,20,0,35"  Foreground="#FF6B6B6B" />
+        <Grid x:Name="LayoutRoot" Background="Transparent" Width="982" Height="920"  Grid.Row="1" Grid.Column="1" Margin="0,10,39,0" HorizontalAlignment="Left">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="235" />
+                <RowDefinition Height="8" />
+                <RowDefinition Height="632" />
+            </Grid.RowDefinitions>
+            <Canvas   Grid.Row="0"  Width="982" Height="110"  >
+                <Rectangle Style="{StaticResource TituloPequenio}" VerticalAlignment="Center" />
+            </Canvas>
+            <Border Grid.Row="2"  Width="982"  BorderBrush="#FFD7D7D7" Style="{StaticResource GlassBorderFondo}" BorderThickness="2" CornerRadius="10" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.08*" />
+                        <RowDefinition Height="0.9*" />
+                    </Grid.RowDefinitions>
+                    <Canvas Grid.Row="0"   >
+                        <TextBlock  Margin="10,7,0,0"  >
+                    	<Run  Text="Profundizando" FontFamily="Arial" FontSize="28"  Foreground="#FF6D6C6B" FontWeight="ExtraLight"   ></Run>
+						<Run  Text=" mis talentos" FontFamily="Arial" FontSize="28"  Foreground="#FFFF1100" FontWeight="ExtraLight"  ></Run>
+                        </TextBlock>
+                        <Line  X1="10" Y1="45" X2="970" Y2="45" Stroke="#FFFF1100" StrokeThickness="1" ></Line>
+                        <Line  X1="10" Y1="48" X2="970" Y2="48" Stroke="#FFFF1100" StrokeThickness="1" ></Line>
+                    </Canvas>
+                    <Canvas Grid.Row="1" x:Name="canvasPuntajesNivel2" Visibility="Visible"  Width="650" Height="520" Margin="4,29,146,28">
+                        <Border x:Name="btnSalir" Style="{StaticResource GlassBorderStyleBlack}" Height="30" Width="110" VerticalAlignment="Top" MouseLeftButtonDown="btnSalir_MouseLeftButtonDown" Canvas.Left="750" Canvas.Top="77" >
+                                <TextBlock  Text="Salir" FontSize="16" Foreground="White" FontFamily="Arial"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <TextBlock x:Name="txtIndicaciones"   FontSize="14" TextAlignment="Left" Foreground="Black" Width="878"  TextWrapping="Wrap" FontFamily="Arial" Canvas.Left="-85" Canvas.Top="-25">
+						Haz clic sobre cada talento y selecciona el nivel de desarrollo para cada uno.
+						<LineBreak/>
+						Utiliza la flecha derecha para pasar al siguiente talento y la flecha izquierda si deseas regresar a un talento y cambiar su nivel de desarrollo.
+						<LineBreak />
+						Para cambiar el nivel de desarrollo de cualquier talento, haz clic sobre el talento y selecciona el nuevo nivel de desarrollo.
+						</TextBlock>
+                        <Canvas x:Name="ppPuntajesBuzon1"  Margin="80,120,0,0"  >
+                            <Canvas x:Name="canvasPuntajesBuzon1" >
+                                <Image x:Name="derechaB1" Source="images/auxiliares/up.png" Width="40" Height="40" Canvas.Left="100" Canvas.Top="270"  Cursor="Hand" MouseLeftButtonDown="derechaB1_MouseLeftButtonDown">
+                                    <Image.RenderTransform>
+                                        <RotateTransform Angle="-180"></RotateTransform>
+                                    </Image.RenderTransform>
+                                </Image>
+                                <Border x:Name="popup1" Canvas.Left="385" Canvas.Top="224"  BorderBrush="Black" BorderThickness="1" Height="56" VerticalAlignment="Center" CornerRadius="5" HorizontalAlignment="Center"  Width="110" Visibility="Collapsed">
+                                    <Border.Effect>
+                                        <DropShadowEffect/>
+                                    </Border.Effect>
+                                    <Border.Background>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="#FFFFFFF0" Offset="0.969"/>
+                                            <GradientStop Color="#FFFFFFF0" Offset="0.944"/>
+                                            <GradientStop Color="#FFFFFFF0" Offset="0.053"/>
+                                            <GradientStop Color="#FFFFFFF0" Offset="0.031"/>
+                                        </LinearGradientBrush>
+                                    </Border.Background>
+                                    <TextBlock Text="Haz clic para calificar este talento" TextWrapping="Wrap" FontSize="9.333" TextAlignment="Center" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100"></TextBlock>
+                                </Border>
+                                <TextBlock x:Name="txtCantidad1" Text="0 calificados de 10" Canvas.Left="205" Canvas.Top="-45" FontWeight="Bold" FontFamily="Arial" FontSize="18" Foreground="Black"></TextBlock>
+                                <Image x:Name="izquierdaB1" Source="images/auxiliares/up.png" Width="40" Height="40" Canvas.Left="520" Canvas.Top="230" Cursor="Hand" MouseLeftButtonDown="izquierdaB1_MouseLeftButtonDown">
+                                </Image>
+                            </Canvas>
+                        </Canvas>
+                        <Canvas x:Name="canvasBuzonesSelva" Canvas.Top="430" Canvas.Left="110" >
+                            <Grid Width="550">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="0.45*" />
+                                    <ColumnDefinition Width="0.1*" />
+                                    <ColumnDefinition Width="0.45*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Border x:Name="imgBuzon1" CornerRadius="10" HorizontalAlignment="Center" Style="{StaticResource GlassBorderStyle}" Grid.Column="0" Grid.ColumnSpan="2" Height="75" Width="145" MouseEnter="imgBuzon1_MouseEnter" MouseLeave="imgBuzon1_MouseLeave" MouseLeftButtonDown="imgBuzon1_MouseLeftButtonDown" >
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+											<RowDefinition Height="0.05*"></RowDefinition>
+					                        <RowDefinition Height="0.250*"></RowDefinition>
+					                        <RowDefinition Height="0.295*"></RowDefinition>
+					                        <RowDefinition Height="0.295*"></RowDefinition>
+					                        <RowDefinition Height="0.07*"></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <TextBlock x:Name="txt11" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" + " FontSize="24" FontFamily="Arial" FontWeight="ExtraBold">
+                                        </TextBlock>
+                                        <TextBlock x:Name="txt21" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento más " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                                        </TextBlock>
+                                        <TextBlock x:Name="txt31" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" desarrollado " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                                        </TextBlock>
+                                    </Grid>
+                                </Border>
+
+                                <Border x:Name="imgBuzon2" Height="75" Width="145" CornerRadius="10" Style="{StaticResource GlassBorderStyle}" Grid.Column="2"  MouseEnter="imgBuzon2_MouseEnter" MouseLeave="imgBuzon2_MouseLeave" MouseLeftButtonDown="imgBuzon2_MouseLeftButtonDown_1"  Margin="13,0,12,0"  >
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <!--<RowDefinition Height="0.05*"></RowDefinition>
+                                            <RowDefinition Height="0.2*"></RowDefinition>
+                                            <RowDefinition Height="0.2*"></RowDefinition>
+                                            <RowDefinition Height="0.2*"></RowDefinition>
+                                            <RowDefinition Height="0.15*"></RowDefinition>-->
+											<RowDefinition Height="0.04*"></RowDefinition>
+					                        <RowDefinition Height="0.02*"></RowDefinition>
+					                        <RowDefinition Height="0.33*"></RowDefinition>
+					                        <RowDefinition Height="0.33*"></RowDefinition>
+					                        <RowDefinition Height="0.07*"></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <TextBlock x:Name="txt12" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text="  " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold" >
+                                        </TextBlock>
+                                        <TextBlock x:Name="txt22" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                                        </TextBlock>
+                                        <TextBlock x:Name="txt32" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" intermedio " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                                        </TextBlock>
+                                    </Grid>
+                                </Border>
+                            </Grid>
+                        </Canvas>
+
+                        <!--Establecer puntajes para el buzon 2-->
+                        <Canvas x:Name="ppPuntajesBuzon2" Margin="80,120,0,0"  >
+
+                            <Canvas x:Name="canvasPuntajesBuzon2" Width="600" Height="200">
+                                <Image x:Name="izquierdaB2" Source="images/auxiliares/up.png" Width="40" Height="40" 
+                       Canvas.Top="230" Canvas.Left="100" MouseLeftButtonDown="derechaB2_MouseLeftButtonDown">
+                                    <Image.RenderTransform>
+                                        <RotateTransform Angle="-180" CenterX="20" CenterY="20"></RotateTransform>
+                                    </Image.RenderTransform>
+                                </Image>
+                                <TextBlock x:Name="txtCantidad2" Text="0 calificados de 5" Canvas.Left="205" Canvas.Top="-45" FontWeight="Bold" FontFamily="Arial"  FontSize="18" Foreground="Black"></TextBlock>
+                                <Image x:Name="derechaB2" Source="images/auxiliares/up.png" Width="40" Height="40" Canvas.Top="230"
+                       Canvas.Left="520" MouseLeftButtonDown="izquierdaB2_MouseLeftButtonDown">
+                                </Image>
+                            </Canvas>
+                            <!--</Grid>-->
+                        </Canvas>
+
+                        <!--Ventana emergente para puntajes del buzon 1 -->
+                        <Canvas x:Name="ppPuntaje1" Width="200" Height="50"  Margin="410,150,0,0" Visibility="Collapsed">
+                            <Grid x:Name="grdPuntaje1" Width="200" Height="50" Margin="90,50,0,0" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25"></RowDefinition>
+                                    <RowDefinition Height="25"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Button x:Name="btnPuntaje5" HorizontalContentAlignment="Left" Content="Desarrollado" Grid.Row="1" Click="btnPuntaje_Click"></Button>
+                                <Button x:Name="btnPuntaje6" HorizontalContentAlignment="Left" Content="Completamente desarrollado" Grid.Row="0" Click="btnPuntaje_Click"></Button>
+                            </Grid>
+                        </Canvas>
+                        <!--Ventana emergente para puntajes del buzon 2-->
+                        <Canvas x:Name="ppPuntaje2" Width="225" Height="125"  Margin="410,100,0,0" Visibility="Collapsed">
+                            <Grid x:Name="grdPuntaje2" Width="225" Height="75" Margin="90,50,0,0" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25"></RowDefinition>
+                                    <RowDefinition Height="25"></RowDefinition>
+                                    <RowDefinition Height="25"></RowDefinition>
+
+                                </Grid.RowDefinitions>
+                                <Button x:Name="btnPuntaje2" HorizontalContentAlignment="Left" Content="  Desarrollo bajo el promedio" Grid.Row="2" Click="btnPuntaje_Click"></Button>
+                                <Button x:Name="btnPuntaje3" HorizontalContentAlignment="Left" Content="  Desarrollo promedio" Grid.Row="1" Click="btnPuntaje_Click"></Button>
+                                <Button x:Name="btnPuntaje4" HorizontalContentAlignment="Left" Content="  Desarrollo por encima del promedio" Grid.Row="0" Click="btnPuntaje_Click"></Button>
+                            </Grid>
+                        </Canvas>
+
+
+                    </Canvas>
+
+
+                    <Canvas x:Name="ppTerminoCalificacion" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center"  Visibility="Collapsed"  >
+                        <Border BorderThickness="2" CornerRadius="10" Background="Transparent" Canvas.Left="-399" Canvas.Top="-269" Height="528" Width="792"  >
+                            <Grid   Height="572" Width="820">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="60"></ColumnDefinition>
+                                    <ColumnDefinition Width="730"></ColumnDefinition>
+                                    <ColumnDefinition Width="60"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="488"></RowDefinition>
+                                    <RowDefinition Height="200"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <TextBlock Grid.Row="0" TextAlignment="Left" LineHeight="20"   TextWrapping="Wrap"    Margin="86,134,144,0" Width="500" Grid.Column="1" Height="96" VerticalAlignment="Top" >
+								<Run Foreground="#FF6B6B6B" FontFamily="Arial" FontSize="14" >Has terminado de asignar el nivel de desarrollo para cada talento.</Run>
+								<Run FontFamily="Arial" Text="Para ver tus resultados, haz clic en RESULTADOS. Para finalizar, haz clic en SALIR." Foreground="#FF6B6B6B" FontWeight="Bold" FontSize="14" ></Run>
+                                </TextBlock>
+                                <Border x:Name="btnSalirCompletamente" Grid.Column="1" Width="110" Height="30" Style="{StaticResource GlassBorderStyleBlack}"   Margin="318,248,232,0" VerticalAlignment="Top" MouseLeftButtonDown="btnSalirCompletamente_MouseLeftButtonDown"  >
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="1.0*" />
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Grid.Row="0" Text="Salir" FontFamily="Arial" FontSize="16" Foreground="White" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"  TextWrapping="Wrap" />
+                                    </Grid>
+                                </Border>
+                                <Border x:Name="btnResultados" Grid.Column="1" Style="{StaticResource GlassBorderStyleBlack}"   Margin="126,248,394,0" VerticalAlignment="Top" MouseLeftButtonDown="btnResultados_MouseLeftButtonDown"  Width="110" Height="30"  >
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="1.0*" />
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Grid.Row="0" Text="Resultados" FontFamily="Arial" FontSize="16" Foreground="White" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"  TextWrapping="Wrap"/>
+                                    </Grid>
+                                </Border>
+                            </Grid>
+                        </Border>
+                    </Canvas>
+
+                    <Canvas x:Name="ppConfirmaSalir" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="185,35,0,0" Visibility="Collapsed"  >
+                        <Border BorderBrush="#FF525252"  CornerRadius="10" VerticalAlignment="Center" HorizontalAlignment="Center" Background="Transparent" >
+                            <Grid  Background="Transparent" Height="330" Width="600">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="60"></ColumnDefinition>
+                                    <ColumnDefinition Width="480"></ColumnDefinition>
+                                    <ColumnDefinition Width="60"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="148"></RowDefinition>
+                                    <RowDefinition Height="100"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <TextBlock Grid.Column="1" Grid.Row="0" TextAlignment="Center" Text="¿Estás seguro de que quieres salir?" TextWrapping="Wrap" FontSize="14" FontFamily="Arial"  Foreground="#FF6B6B6B" Margin="9,89,8,0"  VerticalAlignment="Top" />
+                                <!--<Button x:Name="btnNo" Grid.Column="1" Width="170" Height="50"  Margin="300,168,10,0" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnNo_Click"
+					Content="No, Deseo continuar"  FontSize="16" d:LayoutOverrides="GridBox"/>-->
+                                <Border x:Name="btnNo" Height="45" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Grid.Column="1" Grid.Row="1" Cursor="Hand" VerticalAlignment="Top"    MouseLeftButtonDown="btnNo_MouseLeftButtonDown" Margin="0,20,90,0" HorizontalAlignment="Right" Width="130" >
+                                    <TextBlock  Text="No, deseo continuar" Foreground="White" FontSize="13" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  TextWrapping="Wrap" Width="94" />
+                                </Border>
+                                <Border x:Name="btnSi" Height="45" Width="130" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Grid.Row="1" Grid.Column="1" Cursor="Hand" VerticalAlignment="Top"  HorizontalAlignment="Left"  MouseLeftButtonDown="btnSi_MouseLeftButtonDown" Margin="92,20,0,0" >
+                                    <TextBlock  Text="Si, deseo salir" Foreground="White" FontSize="13" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center" TextWrapping="Wrap" />
+                                </Border>
+
+                            </Grid>
+                        </Border>
+                    </Canvas>
+
+                    <Border x:Name="ppSeAcabo" Grid.Row="1" CornerRadius="10" Background="Transparent"  Width="550" Height="250" Margin="0,0,0,0" Visibility="Collapsed"  >
+                        <Grid x:Name="grdSeAcabo" Width="550" Height="250" Background="Transparent" >
+                            <Canvas Margin="0,0,0,30">
+                                <Canvas.RenderTransform>
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </Canvas.RenderTransform>
+                                <TextBlock   LineHeight="20"
+                           FontFamily="Arial" FontSize="15" TextWrapping="Wrap"  TextAlignment="Left"
+                           Foreground="#FF6B6B6B" VerticalAlignment="Top" Width="473" Canvas.Left="49" Canvas.Top="11" >
+					        <Run x:Name="txtMensaje" Foreground="#FF6B6B6B" FontFamily="Arial" FontSize="14" />
+					        <Run Text="Si estás seguro de tus respuestas, haz clic en CONTINUAR. Si deseas hacer cambios, haz clic en REVISAR. " Foreground="#FF6B6B6B" FontFamily="Arial" FontSize="14" FontWeight="Bold" />
+                                </TextBlock>
+                            </Canvas>
+                            <Border x:Name="btnAceptarSeAcabo" Width="120" Height="30" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand"  Margin="269,0,161,90"    VerticalAlignment="Bottom" MouseLeftButtonDown="btnAceptarSeAcabo_MouseLeftButtonDown_1"  >
+                                <TextBlock  Text="Revisar" FontFamily="Arial" Foreground="White" FontSize="16"  TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                            </Border>
+                            <Border x:Name="btnCancelarSeAcabo" Width="120" Height="30" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand" Margin="114,0,0,90"  HorizontalAlignment="Left"   VerticalAlignment="Bottom" MouseLeftButtonDown="btnCancelarSeAcabo_MouseLeftButtonDown_1"   >
+                                <TextBlock  Text="Continuar" Foreground="White" FontSize="16" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                            </Border>
+
+                        </Grid>
+                    </Border>
+                    
+                   
+
+                    <Canvas x:Name="frmRadar" Background="Transparent" Width="600" Height="450" Margin="0,100,0,0" Visibility="Collapsed" >
+
+                        <Grid  Background="Transparent" Width="600" Height="450" HorizontalAlignment="Center">
+                            <Grid Margin="0,0,0,0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="0" />
+                                    <RowDefinition Height="0" />
+                                    <RowDefinition Height="40"  />
+                                    <RowDefinition Height="406"/>
+
+                                </Grid.RowDefinitions>
+
+
+
+                                <Border Grid.Column="1" Grid.Row="2" Grid.RowSpan="2"  CornerRadius="15" BorderThickness="2"  BorderBrush="#FFB3B3B3" Margin="0,0,0,0" Style="{StaticResource GlassBorderFondo}"  />
+                                <Canvas Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" Margin="-15,-110,0,0">
+                                    <!--<Image x:Name="i1" Source="images/buttonSeven/bgcompact.jpg" Stretch="UniformToFill" Height="53" Width="700" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="50,0,0,0"/>-->
+                                    <!--<Image x:Name="i1" Source="images/fondo/nada.jpg" Stretch="UniformToFill" Height="53" Width="700" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="50,0,0,0"/>-->
+                                    <!--<Rectangle VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Fill="#4f000000" Height="83" Width="700" Canvas.Left="38" />-->
+                                    <!--<Image VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Height="24" Stretch="None" Width="700"
+                            Source="images/buttonSeven/bgshadow.jpg" Margin="50,77,0,0" />-->
+                                    <TextBlock   IsHitTestVisible="False" HorizontalAlignment="Left"  VerticalAlignment="Bottom"   Margin="30,98,0,0" >
+                        <Run x:Name="textInfo" Text="Guardar estos resultados" FontFamily="Arial" FontSize="14"  Foreground="Black" FontWeight="Bold"  />
+
+                                    </TextBlock>
+                                    <!--Foreground="#FFffffff" />-->
+                                    <StackPanel Orientation="Horizontal"  Height="35" VerticalAlignment="Bottom"  Background="Transparent" Width="580" Canvas.Top="45" Canvas.Left="30" >
+                                        <my:ButtonSeven Height="35" Width="35" Title="Guardar estos resultados" ImageSource="images/buttonSeven/save.png" MouseMove="ButtonSeven_MouseMove" MouseLeave="ButtonSeven_MouseLeave" TransitionColor="#7f3E8DDD" Margin="504,0,0,0" MouseLeftButtonDown="ButtonSeven_MouseLeftButtonDown_2"   />
+                                        <my:ButtonSeven Height="35" Width="35" Title="Cerrar" ImageSource="images/buttonSeven/cerrar.png" TransitionColor="#7f3E8DDD" Margin="2,0,0,0" MouseMove="ButtonSeven_MouseMove" MouseLeave="ButtonSeven_MouseLeave" MouseLeftButtonDown="ButtonSeven_MouseLeftButtonDown"   />
+                                    </StackPanel>
+                                    <TextBlock    Style="{StaticResource FullName}"  IsHitTestVisible="True"  HorizontalAlignment="Left"  TextAlignment="Left" Grid.RowSpan="2" Canvas.Left="32" Canvas.Top="43"  ><!--Foreground="#FF88B158"  FontFamily="Fonts/VINERITC.TTF#Viner Hand ITC" FontSize="26" FontWeight="Bold" TextWrapping="Wrap" Width="230">-->
+                         <Run x:Name="txtTitle1" FontFamily="Arial"   FontSize="28"  Foreground="#FF6D6C6B"  Text="Resultados:"  ></Run>   
+                        <Run x:Name="txtTitle2" FontFamily="Arial" FontSize="28"  Foreground="#FFFF1100"  Text=" Desarrollo de Talentos"  ></Run>
+                                    </TextBlock>
+
+                                    <Line  X1="30" Y1="87" X2="610" Y2="87" Stroke="#FFFF1100" StrokeThickness="1" ></Line>
+                                    <Line  X1="30" Y1="90" X2="610" Y2="90" Stroke="#FFFF1100" StrokeThickness="1" ></Line>
+                                </Canvas>
+                                <Canvas Grid.Column="1" Grid.Row="2" VerticalAlignment="Bottom" Margin="0,0,0,0">
+
+                                    <Canvas x:Name="canv" Canvas.Top="40" Canvas.Left="5" Height="346" Width="590" >
+                                    
+                                      
+                                        <vc:Chart x:Name="MyChart" Width="550" BorderBrush="Transparent"  CornerRadius="0" View3D="True" AnimationEnabled="True" Canvas.Top="0" Height="305" Canvas.Left="25" >
+                                            <vc:Chart.Background>
+                                                <LinearGradientBrush EndPoint="1,0" StartPoint="1,1">
+                                                    <GradientStop Color="#C0FFFFFF" Offset="0.02"/>
+                                                    <GradientStop Color="#FFFFFFFF" Offset="0.2"/>
+
+                                                    <GradientStop Color="#FFFFFFFF" Offset="0.76"/>
+
+                                                    <GradientStop Color="#C0FFFFFF" Offset="0.94"/>
+                                                </LinearGradientBrush>
+                                            </vc:Chart.Background>
+                            
+                                            <vc:Chart.Series>
+                                 
+                                            </vc:Chart.Series>
+                                        </vc:Chart>
+                                    </Canvas>
+                       
+
+                                </Canvas>
+
+
+                            </Grid>
+                        </Grid>
+                    </Canvas>
+
+                    <TextBlock x:Name="txtNext" Height="48" HorizontalAlignment="Right" Margin="0,272,24,0" VerticalAlignment="Top" Width="146" Grid.Row="1" Text="Si has terminado, haz clic en " TextWrapping="Wrap" Foreground="#FFFF1100" FontFamily="Arial" FontSize="14" Visibility="Collapsed" />
+					 <TextBlock x:Name="txtNextSms" Height="28" HorizontalAlignment="Right" Margin="0,288,40,0" VerticalAlignment="Top" Width="86" Grid.Row="1" Text="CONTINUAR " TextWrapping="Wrap"  FontWeight="Bold" MouseLeftButtonDown="TextBlock_MouseLeftButtonDown_1" Foreground="#FFFF1100" FontFamily="Arial" FontSize="14" Cursor="Hand" Visibility="Collapsed" />
+                    <TextBlock x:Name="txtVolvera" Height="48" HorizontalAlignment="Right" Margin="0,272,805,0" VerticalAlignment="Top" Width="146" Grid.Row="1" Text=" Volver a " TextWrapping="Wrap" Foreground="#FFFF1100" FontFamily="Arial" FontSize="14" Visibility="Visible" />
+                    <TextBlock x:Name="txtVolverRecomendaciones" MouseLeftButtonDown="txtVolverRecomendaciones_MouseLeftButtonDown" Height="48" HorizontalAlignment="Right" Margin="0,290,805,0" VerticalAlignment="Top" Width="146" Grid.Row="1" Text="¿Cómo desarrollar más mis talentos?" FontWeight="Bold" Cursor="Hand" TextWrapping="Wrap" Foreground="#FFFF1100" FontFamily="Arial" FontSize="14" Visibility="Visible" />
+                </Grid>
+            </Border>
+        </Grid >
+    
+	</Grid>
+</my:IPaginaContenida>

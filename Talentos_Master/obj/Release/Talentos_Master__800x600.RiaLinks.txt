@@ -1,0 +1,2 @@
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\UPC.Seguridad.Talentos.BL.BE\UPC.Seguridad.Talentos.BL.BE.csproj,633946153620000000,
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj,633997941915790000,

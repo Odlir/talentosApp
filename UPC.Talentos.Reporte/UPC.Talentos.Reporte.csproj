@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FDC07028-48DB-49FF-898B-FBF11CAED848}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UPC.Talentos.Reporte</RootNamespace>
+    <AssemblyName>UPC.Talentos.Reporte</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <UseIISExpress>false</UseIISExpress>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.0.5022.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EPPlus, Version=3.1.3.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenXmlPowerTools, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Assembly\PowerTools 2.2\bin\Debug\OpenXmlPowerTools.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="clientaccesspolicy.xml" />
+    <Content Include="Images\1.png" />
+    <Content Include="Images\11.png" />
+    <Content Include="Images\13.png" />
+    <Content Include="Images\15.png" />
+    <Content Include="Images\17.png" />
+    <Content Include="Images\19.png" />
+    <Content Include="Images\21.png" />
+    <Content Include="Images\23.png" />
+    <Content Include="Images\25.png" />
+    <Content Include="Images\27.png" />
+    <Content Include="Images\29.png" />
+    <Content Include="Images\3.png" />
+    <Content Include="Images\31.png" />
+    <Content Include="Images\33.png" />
+    <Content Include="Images\35.png" />
+    <Content Include="Images\37.png" />
+    <Content Include="Images\39.png" />
+    <Content Include="Images\41.png" />
+    <Content Include="Images\43.png" />
+    <Content Include="Images\45.png" />
+    <Content Include="Images\47.png" />
+    <Content Include="Images\49.png" />
+    <Content Include="Images\5.png" />
+    <Content Include="Images\51.png" />
+    <Content Include="Images\53.png" />
+    <Content Include="Images\55.png" />
+    <Content Include="Images\57.png" />
+    <Content Include="Images\59.png" />
+    <Content Include="Images\61.png" />
+    <Content Include="Images\63.png" />
+    <Content Include="Images\65.png" />
+    <Content Include="Images\67.png" />
+    <Content Include="Images\69.png" />
+    <Content Include="Images\7.png" />
+    <Content Include="Images\71.png" />
+    <Content Include="Images\73.png" />
+    <Content Include="Images\75.png" />
+    <Content Include="Images\77.png" />
+    <Content Include="Images\79.png" />
+    <Content Include="Images\81.png" />
+    <Content Include="Images\83.png" />
+    <Content Include="Images\85.png" />
+    <Content Include="Images\87.png" />
+    <Content Include="Images\89.png" />
+    <Content Include="Images\9.png" />
+    <Content Include="Images\91.png" />
+    <Content Include="Images\93.png" />
+    <Content Include="Images\95.png" />
+    <Content Include="Images\97.png" />
+    <Content Include="Images\99.png" />
+    <Content Include="Images\Carreras\Actuacion.png" />
+    <Content Include="Images\Carreras\Administracion y Agronegocios.png" />
+    <Content Include="Images\Carreras\Administracion y Finanzas.png" />
+    <Content Include="Images\Carreras\Administracion y Gestion Comercial.png" />
+    <Content Include="Images\Carreras\Administracion y Marketing.png" />
+    <Content Include="Images\Carreras\Administracion y Negocios del Deporte.png" />
+    <Content Include="Images\Carreras\Administracion y Negocios Internacionales.png" />
+    <Content Include="Images\Carreras\Administracion y Recursos Humanos.png" />
+    <Content Include="Images\Carreras\Administracion_Gestion.png" />
+    <Content Include="Images\Carreras\Agronomia.png" />
+    <Content Include="Images\Carreras\Arquitectura de Interiores.png" />
+    <Content Include="Images\Carreras\Arquitectura.png" />
+    <Content Include="Images\Carreras\Arte Grafico.png" />
+    <Content Include="Images\Carreras\Artes escenicas.png" />
+    <Content Include="Images\Carreras\Artes visuales.png" />
+    <Content Include="Images\Carreras\Artista profesional.png" />
+    <Content Include="Images\Carreras\Ciencia de los Alimentos.png" />
+    <Content Include="Images\Carreras\Ciencias Contables y Financieras.png" />
+    <Content Include="Images\Carreras\Ciencias de la Computacion.png" />
+    <Content Include="Images\Carreras\Ciencias de la Comunicacion.png" />
+    <Content Include="Images\Carreras\Ciencias del Deporte.png" />
+    <Content Include="Images\Carreras\Computacion e Informatica.png" />
+    <Content Include="Images\Carreras\Computacion y Sistemas.png" />
+    <Content Include="Images\Carreras\Comunicacion Audiovisual y Medios Interactivos.png" />
+    <Content Include="Images\Carreras\Comunicacion e Imagen Empresarial.png" />
+    <Content Include="Images\Carreras\Comunicacion Social.png" />
+    <Content Include="Images\Carreras\Comunicacion y Marketing.png" />
+    <Content Include="Images\Carreras\Comunicacion y Periodismo.png" />
+    <Content Include="Images\Carreras\Comunicacion y Publicidad.png" />
+    <Content Include="Images\Carreras\Construccion Civil.png" />
+    <Content Include="Images\Carreras\Contabilidad y Administracion.png" />
+    <Content Include="Images\Carreras\Contabilidad.png" />
+    <Content Include="Images\Carreras\Danza.png" />
+    <Content Include="Images\Carreras\Derecho y Ciencias politicas.png" />
+    <Content Include="Images\Carreras\Derecho.png" />
+    <Content Include="Images\Carreras\Direccion de Artes Graficas y Publicitarias.png" />
+    <Content Include="Images\Carreras\Direccion y Diseno Grafico.png" />
+    <Content Include="Images\Carreras\Diseno de Interiores.png" />
+    <Content Include="Images\Carreras\Diseno Industrial y Arquitectonico.png" />
+    <Content Include="Images\Carreras\Diseno Industrial.png" />
+    <Content Include="Images\Carreras\Diseno Profesional de Interiores.png" />
+    <Content Include="Images\Carreras\Diseno Profesional Grafico.png" />
+    <Content Include="Images\Carreras\Diseno Publicitario.png" />
+    <Content Include="Images\Carreras\Diseno Web.png" />
+    <Content Include="Images\Carreras\Diseno y Gestion en Moda.png" />
+    <Content Include="Images\Carreras\Economia Gerencial.png" />
+    <Content Include="Images\Carreras\Economia y Desarrollo.png" />
+    <Content Include="Images\Carreras\Economia y Finanzas.png" />
+    <Content Include="Images\Carreras\Economia y Negocios Internacionales.png" />
+    <Content Include="Images\Carreras\Economia.png" />
+    <Content Include="Images\Carreras\Ecoturismo.png" />
+    <Content Include="Images\Carreras\Edificacion.png" />
+    <Content Include="Images\Carreras\Educacion Especial.png" />
+    <Content Include="Images\Carreras\Educacion Inicial.png" />
+    <Content Include="Images\Carreras\Educacion Primaria.png" />
+    <Content Include="Images\Carreras\Educacion Secundaria.png" />
+    <Content Include="Images\Carreras\Educacion y Gestion del Aprendizaje.png" />
+    <Content Include="Images\Carreras\Educacion.png" />
+    <Content Include="Images\Carreras\Enfermeria.png" />
+    <Content Include="Images\Carreras\Explotacion Minera.png" />
+    <Content Include="Images\Carreras\Fisioterapia del Deporte.png" />
+    <Content Include="Images\Carreras\Geologia.png" />
+    <Content Include="Images\Carreras\Gestion de Recursos Humanos.png" />
+    <Content Include="Images\Carreras\Guia oficial de Turismo.png" />
+    <Content Include="Images\Carreras\Hoteleria y Administracion.png" />
+    <Content Include="Images\Carreras\Hoteleria.png" />
+    <Content Include="Images\Carreras\Industrias Alimentarias.png" />
+    <Content Include="Images\Carreras\Informatica Empresarial.png" />
+    <Content Include="Images\Carreras\Informatica.png" />
+    <Content Include="Images\Carreras\Ingenieria Administrativa.png" />
+    <Content Include="Images\Carreras\Ingenieria Agricola.png" />
+    <Content Include="Images\Carreras\Ingenieria Agroindustrial.png" />
+    <Content Include="Images\Carreras\Ingenieria Agronoma.png" />
+    <Content Include="Images\Carreras\Ingenieria Civil.png" />
+    <Content Include="Images\Carreras\Ingenieria de Computacion y Sistemas.png" />
+    <Content Include="Images\Carreras\Ingenieria de Construccion.png" />
+    <Content Include="Images\Carreras\Ingenieria de Gestion Empresarial.png" />
+    <Content Include="Images\Carreras\Ingenieria de Gestion Minera.png" />
+    <Content Include="Images\Carreras\Ingenieria de Industria Alimentaria.png" />
+    <Content Include="Images\Carreras\Ingenieria de Minas.png" />
+    <Content Include="Images\Carreras\Ingenieria de Sistemas de Informacion.png" />
+    <Content Include="Images\Carreras\Ingenieria de Sistemas.png" />
+    <Content Include="Images\Carreras\Ingenieria de Software.png" />
+    <Content Include="Images\Carreras\Ingenieria Electronica.png" />
+    <Content Include="Images\Carreras\Ingenieria Industrial.png" />
+    <Content Include="Images\Carreras\Ingenieria Mecatronica.png" />
+    <Content Include="Images\Carreras\Locucion.png" />
+    <Content Include="Images\Carreras\Medicina.png" />
+    <Content Include="Images\Carreras\Musica.png" />
+    <Content Include="Images\Carreras\Nutricion y Dietetica.png" />
+    <Content Include="Images\Carreras\Nutricion.png" />
+    <Content Include="Images\Carreras\Odontologia.png" />
+    <Content Include="Images\Carreras\Periodismo.png" />
+    <Content Include="Images\Carreras\Preparador Fisico.png" />
+    <Content Include="Images\Carreras\Produccion Agropecuaria.png" />
+    <Content Include="Images\Carreras\Profesor en Educacion Fisica.png" />
+    <Content Include="Images\Carreras\Profesor o Preparador Fisico.png" />
+    <Content Include="Images\Carreras\Psicologia.png" />
+    <Content Include="Images\Carreras\Publicidad.png" />
+    <Content Include="Images\Carreras\Recursos Humanos.png" />
+    <Content Include="Images\Carreras\Seguridad Informatica.png" />
+    <Content Include="Images\Carreras\Tecnologia Medica.png" />
+    <Content Include="Images\Carreras\Terapia fisica.png" />
+    <Content Include="Images\Carreras\Traduccion de Idiomas.png" />
+    <Content Include="Images\Carreras\Traduccion e Interpretacion profesional.png" />
+    <Content Include="Images\Carreras\Turismo y Administracion.png" />
+    <Content Include="Images\Carreras\Turismo y Hoteleria.png" />
+    <Content Include="Images\Carreras\Turismo.png" />
+    <Content Include="Images\Compatibilidad\Graybars\10.png" />
+    <Content Include="Images\Compatibilidad\Graybars\100.png" />
+    <Content Include="Images\Compatibilidad\Graybars\20.png" />
+    <Content Include="Images\Compatibilidad\Graybars\30.png" />
+    <Content Include="Images\Compatibilidad\Graybars\40.png" />
+    <Content Include="Images\Compatibilidad\Graybars\50.png" />
+    <Content Include="Images\Compatibilidad\Graybars\60.png" />
+    <Content Include="Images\Compatibilidad\Graybars\70.png" />
+    <Content Include="Images\Compatibilidad\Graybars\80.png" />
+    <Content Include="Images\Compatibilidad\Graybars\90.png" />
+    <Content Include="Images\Compatibilidad\Redbars\1.png" />
+    <Content Include="Images\Compatibilidad\Redbars\11.png" />
+    <Content Include="Images\Compatibilidad\Redbars\13.png" />
+    <Content Include="Images\Compatibilidad\Redbars\15.png" />
+    <Content Include="Images\Compatibilidad\Redbars\17.png" />
+    <Content Include="Images\Compatibilidad\Redbars\19.png" />
+    <Content Include="Images\Compatibilidad\Redbars\21.png" />
+    <Content Include="Images\Compatibilidad\Redbars\23.png" />
+    <Content Include="Images\Compatibilidad\Redbars\25.png" />
+    <Content Include="Images\Compatibilidad\Redbars\27.png" />
+    <Content Include="Images\Compatibilidad\Redbars\29.png" />
+    <Content Include="Images\Compatibilidad\Redbars\3.png" />
+    <Content Include="Images\Compatibilidad\Redbars\31.png" />
+    <Content Include="Images\Compatibilidad\Redbars\33.png" />
+    <Content Include="Images\Compatibilidad\Redbars\35.png" />
+    <Content Include="Images\Compatibilidad\Redbars\37.png" />
+    <Content Include="Images\Compatibilidad\Redbars\39.png" />
+    <Content Include="Images\Compatibilidad\Redbars\41.png" />
+    <Content Include="Images\Compatibilidad\Redbars\43.png" />
+    <Content Include="Images\Compatibilidad\Redbars\45.png" />
+    <Content Include="Images\Compatibilidad\Redbars\47.png" />
+    <Content Include="Images\Compatibilidad\Redbars\49.png" />
+    <Content Include="Images\Compatibilidad\Redbars\5.png" />
+    <Content Include="Images\Compatibilidad\Redbars\51.png" />
+    <Content Include="Images\Compatibilidad\Redbars\53.png" />
+    <Content Include="Images\Compatibilidad\Redbars\55.png" />
+    <Content Include="Images\Compatibilidad\Redbars\57.png" />
+    <Content Include="Images\Compatibilidad\Redbars\59.png" />
+    <Content Include="Images\Compatibilidad\Redbars\61.png" />
+    <Content Include="Images\Compatibilidad\Redbars\63.png" />
+    <Content Include="Images\Compatibilidad\Redbars\65.png" />
+    <Content Include="Images\Compatibilidad\Redbars\67.png" />
+    <Content Include="Images\Compatibilidad\Redbars\69.png" />
+    <Content Include="Images\Compatibilidad\Redbars\7.png" />
+    <Content Include="Images\Compatibilidad\Redbars\71.png" />
+    <Content Include="Images\Compatibilidad\Redbars\73.png" />
+    <Content Include="Images\Compatibilidad\Redbars\75.png" />
+    <Content Include="Images\Compatibilidad\Redbars\77.png" />
+    <Content Include="Images\Compatibilidad\Redbars\79.png" />
+    <Content Include="Images\Compatibilidad\Redbars\81.png" />
+    <Content Include="Images\Compatibilidad\Redbars\83.png" />
+    <Content Include="Images\Compatibilidad\Redbars\85.png" />
+    <Content Include="Images\Compatibilidad\Redbars\87.png" />
+    <Content Include="Images\Compatibilidad\Redbars\89.png" />
+    <Content Include="Images\Compatibilidad\Redbars\9.png" />
+    <Content Include="Images\Compatibilidad\Redbars\91.png" />
+    <Content Include="Images\Compatibilidad\Redbars\93.png" />
+    <Content Include="Images\Compatibilidad\Redbars\95.png" />
+    <Content Include="Images\Compatibilidad\Redbars\97.png" />
+    <Content Include="Images\Compatibilidad\Redbars\99.png" />
+    <Content Include="Images\SuperRueda\C0.png" />
+    <Content Include="Images\SuperRueda\C1.png" />
+    <Content Include="Images\SuperRueda\C2.png" />
+    <Content Include="Images\SuperRueda\C3.png" />
+    <Content Include="Images\SuperRueda\c_min_0.png" />
+    <Content Include="Images\SuperRueda\c_min_1.png" />
+    <Content Include="Images\SuperRueda\c_min_2.png" />
+    <Content Include="Images\SuperRueda\c_min_3.png" />
+    <Content Include="Images\SuperRueda\E4.png" />
+    <Content Include="Images\SuperRueda\E5.png" />
+    <Content Include="Images\SuperRueda\E6.png" />
+    <Content Include="Images\SuperRueda\E7.png" />
+    <Content Include="Images\SuperRueda\e_min_4.png" />
+    <Content Include="Images\SuperRueda\e_min_5.png" />
+    <Content Include="Images\SuperRueda\e_min_6.png" />
+    <Content Include="Images\SuperRueda\e_min_7.png" />
+    <Content Include="Images\SuperRueda\I0.png" />
+    <Content Include="Images\SuperRueda\I1.png" />
+    <Content Include="Images\SuperRueda\I2.png" />
+    <Content Include="Images\SuperRueda\I3.png" />
+    <Content Include="Images\SuperRueda\i_min_0.png" />
+    <Content Include="Images\SuperRueda\i_min_1.png" />
+    <Content Include="Images\SuperRueda\i_min_2.png" />
+    <Content Include="Images\SuperRueda\i_min_3.png" />
+    <Content Include="Images\SuperRueda\M0.png" />
+    <Content Include="Images\SuperRueda\M1.png" />
+    <Content Include="Images\SuperRueda\M2.png" />
+    <Content Include="Images\SuperRueda\M3.png" />
+    <Content Include="Images\SuperRueda\m_min_0.png" />
+    <Content Include="Images\SuperRueda\m_min_1.png" />
+    <Content Include="Images\SuperRueda\m_min_2.png" />
+    <Content Include="Images\SuperRueda\m_min_3.png" />
+    <Content Include="Images\SuperRueda\N4.png" />
+    <Content Include="Images\SuperRueda\N5.png" />
+    <Content Include="Images\SuperRueda\N6.png" />
+    <Content Include="Images\SuperRueda\N7.png" />
+    <Content Include="Images\SuperRueda\n_min_4.png" />
+    <Content Include="Images\SuperRueda\n_min_5.png" />
+    <Content Include="Images\SuperRueda\n_min_6.png" />
+    <Content Include="Images\SuperRueda\n_min_7.png" />
+    <Content Include="Images\SuperRueda\O4.png" />
+    <Content Include="Images\SuperRueda\O5.png" />
+    <Content Include="Images\SuperRueda\O6.png" />
+    <Content Include="Images\SuperRueda\O7.png" />
+    <Content Include="Images\SuperRueda\o_min_4.png" />
+    <Content Include="Images\SuperRueda\o_min_5.png" />
+    <Content Include="Images\SuperRueda\o_min_6.png" />
+    <Content Include="Images\SuperRueda\o_min_7.png" />
+    <Content Include="Images\SuperRueda\R4.png" />
+    <Content Include="Images\SuperRueda\R5.png" />
+    <Content Include="Images\SuperRueda\R6.png" />
+    <Content Include="Images\SuperRueda\R7.png" />
+    <Content Include="Images\SuperRueda\r_min_4.png" />
+    <Content Include="Images\SuperRueda\r_min_5.png" />
+    <Content Include="Images\SuperRueda\r_min_6.png" />
+    <Content Include="Images\SuperRueda\r_min_7.png" />
+    <Content Include="Images\SuperRueda\S0.png" />
+    <Content Include="Images\SuperRueda\S1.png" />
+    <Content Include="Images\SuperRueda\S2.png" />
+    <Content Include="Images\SuperRueda\S3.png" />
+    <Content Include="Images\SuperRueda\s_min_0.png" />
+    <Content Include="Images\SuperRueda\s_min_1.png" />
+    <Content Include="Images\SuperRueda\s_min_2.png" />
+    <Content Include="Images\SuperRueda\s_min_3.png" />
+    <Content Include="Images\Talentos\Abierto a los demas.png" />
+    <Content Include="Images\Talentos\Analitico.png" />
+    <Content Include="Images\Talentos\Anticipado.png" />
+    <Content Include="Images\Talentos\Aprendiz.png" />
+    <Content Include="Images\Talentos\Argumentador.png" />
+    <Content Include="Images\Talentos\Armonizador.png" />
+    <Content Include="Images\Talentos\Artistico.png" />
+    <Content Include="Images\Talentos\Asertivo.png" />
+    <Content Include="Images\Talentos\Autodidacta.png" />
+    <Content Include="Images\Talentos\Buen oido.png" />
+    <Content Include="Images\Talentos\Calido.png" />
+    <Content Include="Images\Talentos\Ciencias naturales.png" />
+    <Content Include="Images\Talentos\Cientifico.png" />
+    <Content Include="Images\Talentos\Coherente.png" />
+    <Content Include="Images\Talentos\Comercial.png" />
+    <Content Include="Images\Talentos\Comunicador escrito.png" />
+    <Content Include="Images\Talentos\Comunicador verbal.png" />
+    <Content Include="Images\Talentos\Con coraje.png" />
+    <Content Include="Images\Talentos\Con iniciativa.png" />
+    <Content Include="Images\Talentos\Creativo.png" />
+    <Content Include="Images\Talentos\Critico.png" />
+    <Content Include="Images\Talentos\Curioso intelectual.png" />
+    <Content Include="Images\Talentos\Deportivo.png" />
+    <Content Include="Images\Talentos\Detallista.png" />
+    <Content Include="Images\Talentos\Director.png" />
+    <Content Include="Images\Talentos\Disciplinado.png" />
+    <Content Include="Images\Talentos\Ecuanime.png" />
+    <Content Include="Images\Talentos\Ejecutor.png" />
+    <Content Include="Images\Talentos\Empatico.png" />
+    <Content Include="Images\Talentos\Emprendedor.png" />
+    <Content Include="Images\Talentos\Enfocado.png" />
+    <Content Include="Images\Talentos\Entusiasta.png" />
+    <Content Include="Images\Talentos\Espacial.png" />
+    <Content Include="Images\Talentos\Estetico.png" />
+    <Content Include="Images\Talentos\Estrategico.png" />
+    <Content Include="Images\Talentos\Expresivo.png" />
+    <Content Include="Images\Talentos\Facilidad con los idiomas.png" />
+    <Content Include="Images\Talentos\Flexible.png" />
+    <Content Include="Images\Talentos\Informado.png" />
+    <Content Include="Images\Talentos\Ingenioso.png" />
+    <Content Include="Images\Talentos\Intuitivo.png" />
+    <Content Include="Images\Talentos\Investigador.png" />
+    <Content Include="Images\Talentos\Monitor.png" />
+    <Content Include="Images\Talentos\Motriz.png" />
+    <Content Include="Images\Talentos\Negociador.png" />
+    <Content Include="Images\Talentos\Numerico.png" />
+    <Content Include="Images\Talentos\Ordenado.png" />
+    <Content Include="Images\Talentos\Organizado.png" />
+    <Content Include="Images\Talentos\Orientado al logro.png" />
+    <Content Include="Images\Talentos\Orientador.png" />
+    <Content Include="Images\Talentos\Original.png" />
+    <Content Include="Images\Talentos\Persuasivo.png" />
+    <Content Include="Images\Talentos\Planificado.png" />
+    <Content Include="Images\Talentos\Positivo.png" />
+    <Content Include="Images\Talentos\Prefiere la novedad.png" />
+    <Content Include="Images\Talentos\Reflexivo.png" />
+    <Content Include="Images\Talentos\Sabe escuchar.png" />
+    <Content Include="Images\Talentos\Sensible.png" />
+    <Content Include="Images\Talentos\Sentido del humor.png" />
+    <Content Include="Images\Talentos\Servicial.png" />
+    <Content Include="Images\Talentos\Sociable.png" />
+    <Content Include="Images\Talentos\Visionario.png" />
+    <Content Include="Images\Talentos\Visual.png" />
+    <Content Include="Images\Temperamentos\1.png" />
+    <Content Include="Images\Temperamentos\2.png" />
+    <Content Include="Images\Temperamentos\3.png" />
+    <Content Include="Images\Temperamentos\4.png" />
+    <Content Include="Images\Temperamentos\5.png" />
+    <Content Include="Images\Temperamentos\6.png" />
+    <Content Include="Images\Temperamentos\7.png" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="wsCompatibilityReport.asmx" />
+    <Content Include="wsConsolidatedReport.asmx" />
+    <Content Include="wsGeneralReport.asmx" />
+    <Content Include="wsInteres.asmx" />
+    <Content Include="wsReporte.asmx" />
+    <Content Include="wsTemperamentos.asmx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConvertApi.cs" />
+    <Compile Include="FormUpload.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wsCompatibilityReport.asmx.cs">
+      <DependentUpon>wsCompatibilityReport.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsConsolidatedReport.asmx.cs">
+      <DependentUpon>wsConsolidatedReport.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsGeneralReport.asmx.cs">
+      <DependentUpon>wsGeneralReport.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsInteres.asmx.cs">
+      <DependentUpon>wsInteres.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsReporte.asmx.cs">
+      <DependentUpon>wsReporte.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsTemperamentos.asmx.cs">
+      <DependentUpon>wsTemperamentos.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UPC.Talentos.BL.BC\UPC.Talentos.BL.BC.csproj">
+      <Project>{6C0EE4F5-9B39-48F7-BE31-43274EFE9C5F}</Project>
+      <Name>UPC.Talentos.BL.BC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPC.Talentos.BL.BE\UPC.Talentos.BL.BE.csproj">
+      <Project>{25E4FFC2-6F76-4225-9909-63E17B09177D}</Project>
+      <Name>UPC.Talentos.BL.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPC.Talentos.DL.DALC\UPC.Talentos.DL.DALC.csproj">
+      <Project>{03C69B2B-95B4-4D64-A405-A900F5CC828B}</Project>
+      <Name>UPC.Talentos.DL.DALC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPC.Talentos.Reporte.BL.BC\UPC.Talentos.Reporte.BL.BC.csproj">
+      <Project>{4AF43FC4-348D-42D7-AF35-7512F5CC0D2E}</Project>
+      <Name>UPC.Talentos.Reporte.BL.BC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPC.Talentos.Reporte.BL.BE\UPC.Talentos.Reporte.BL.BE.csproj">
+      <Project>{579484B5-C9F9-4762-879F-6BB601793B50}</Project>
+      <Name>UPC.Talentos.Reporte.BL.BE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reporte\Plantilla\Datos Usuarios Resultado.xlsx" />
+    <None Include="Reporte\Plantilla\Pantilla_Intereses.docx" />
+    <None Include="Reporte\Plantilla\Plantilla_Reporte_Consolidado.docx" />
+    <None Include="Reporte\Plantilla\Plantilla_Reporte_General.docx" />
+    <None Include="Reporte\Plantilla\Plantilla_Reporte_Talentos_Admin.docx" />
+    <None Include="Reporte\Plantilla\Plantilla_Reporte_Talentos_Alum.docx" />
+    <None Include="Reporte\Plantilla\Plantilla_Reporte_Temperamentos_joven.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>11365</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

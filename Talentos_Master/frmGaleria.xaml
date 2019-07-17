@@ -1,0 +1,34 @@
+﻿<UserControl xmlns:controlsToolkit="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Toolkit" 
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:my="clr-namespace:Talentos_Master"
+    
+	mc:Ignorable="d"
+	x:Class="Talentos_Master.frmGaleria"
+	d:DesignWidth="640" d:DesignHeight="480"> 
+
+	<Grid x:Name="LayoutRoot">
+        <Grid.Resources>
+            <ItemsPanelTemplate x:Key="CatalogItemsPaneltemplate">
+                <controlsToolkit:WrapPanel></controlsToolkit:WrapPanel>
+            </ItemsPanelTemplate>
+        </Grid.Resources>
+	<ListBox x:Name="talentosListBox2" Canvas.Left="100"  Background="#C0FFFFFF" BorderBrush="Transparent"
+		Visibility="Visible"
+        Width="830"  Height="760"
+        ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"   >
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                   <controlsToolkit:WrapPanel></controlsToolkit:WrapPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <my:ucItemGaleria Cursor="Hand" Width="190" Height="250" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+	</Grid>
+</UserControl>

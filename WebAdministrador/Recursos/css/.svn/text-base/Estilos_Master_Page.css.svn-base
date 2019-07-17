@@ -1,0 +1,729 @@
+
+/*---------------------------------------------------------------------------*/
+/*--------------------------Estilo Master Page-------------------------------*/
+/*---------------------------------------------------------------------------*/
+Body /* Toda la pantalla (blanco a rallas grises */
+{ 
+font: 8pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
+margin: 0 0 0 0px; 
+text-align: center; 
+background-color:#F8F4DC;
+} 
+
+#Contenedor /* Pantalla interior (beige) */
+{ 
+text-align: left; 
+width:1024px;
+margin: auto; 
+padding:0px;
+background-color:#F8F4DC;
+} 
+#Cabecera /* Cabecera Logo CoSAC */
+{ 
+color: #333300; 
+font-size:12pt; 
+font-weight: bold; 
+padding: 0px; 
+background-image:url(images/banner7.png);
+height:105px;
+width:1024px;
+
+} 
+/*---------------------------Botones Menu---------------------------------*/
+.Botones
+{
+    background-color:#2A2E2E;
+    width:100px;
+    height:31px;
+    color: White;
+    font-weight: bold;
+    border-style: none;
+    }
+
+td img 
+{
+/* Another Mozilla/Netscape bug with making sure our images display correctly */
+	display: block;
+}
+
+#FWTableContainer1482605412 
+{
+/* The master div to make sure that our popup menus get aligned correctly.  Be careful when playing with this one. */
+	position:relative;
+	margin:0px;
+	width:454px;
+	height:30px;
+	text-align:left;
+}
+
+#MMMenuContainer0823110217_0 
+{
+/* This ID is related to the master menu div for menu MMMenuContainer0823110217_0 and contains the important positioning information for the menu as a whole */
+	position:absolute;
+	left:0px;
+	top:30px;
+	visibility:hidden;
+	z-index:300;
+}
+
+#MMMenu0823110217_0 
+{
+/* This class defines things about menu MMMenu0823110217_0's div. */
+	position:absolute;
+	left:0px;
+	top:0px;
+	visibility:hidden;
+	background-color:#cccccc;
+	border:1px solid #cccccc;
+	width:150px;
+	height:89px;
+}
+
+.MMMIFVStyleMMMenu0823110217_0 
+{
+/* This class determines the general characteristics of the menu items in menu MMMenu0823110217_0 */
+	border-top:1px solid #ffffff;
+	border-left:1px solid #ffffff;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:150px;
+	height:23px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:142px;
+	height:15px;
+}
+
+.MMMIVStyleMMMenu0823110217_0 
+{
+/* This class determines the general characteristics of the menu items in menu MMMenu0823110217_0 */
+	border-top:0px;
+	border-left:1px solid #ffffff;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:150px;
+	height:22px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:142px;
+	height:15px;
+}
+
+#MMMenu0823110217_0_Item_0 
+{
+/* Unique ID for item 0 of menu MMMenu0823110217_0 so we can set its position */
+	left:0px;
+	top:0px;
+}
+
+#MMMenu0823110217_0_Item_1 
+{
+/* Unique ID for item 1 of menu MMMenu0823110217_0 so we can set its position */
+	left:0px;
+	top:23px;
+}
+
+#MMMenu0823110217_0_Item_2 
+{
+/* Unique ID for item 2 of menu MMMenu0823110217_0 so we can set its position */
+	left:0px;
+	top:45px;
+}
+
+#MMMenu0823110217_0_Item_3 
+{
+/* Unique ID for item 3 of menu MMMenu0823110217_0 so we can set its position */
+	left:0px;
+	top:67px;
+}
+
+#MMMenuContainer0823110217_0 img 
+{
+/* needed for Mozilla/Camino/Netscape */
+	border:0px;
+}
+
+#MMMenuContainer0823110217_0 a 
+{
+/* Controls the general apperance for menu MMMenuContainer0823110217_0's items, including color and font */
+	text-decoration:none;
+	font-family:MS UI Gothic, Osaka;
+	font-size:11px;
+	color:#330000;
+	text-align:center;
+	vertical-align:middle;
+	padding:3px;
+	background-color:#ffffcc;
+	font-weight:normal;
+	font-style:normal;
+	display:block;
+	position:absolute;
+}
+
+#MMMenuContainer0823110217_0 a:hover 
+{
+/* Controls the mouse over effects for menu MMMenuContainer0823110217_0 */
+	color:#993300;
+	background-color:#ffff99;
+}
+#MMMenuContainer0823110514_1 
+{
+/* This ID is related to the master menu div for menu MMMenuContainer0823110514_1 and contains the important positioning information for the menu as a whole */
+	position:absolute;
+	left:152px;
+	top:30px;
+	visibility:hidden;
+	z-index:300;
+}
+
+#MMMenu0823110514_1 
+{
+/* This class defines things about menu MMMenu0823110514_1's div. */
+	position:absolute;
+	left:0px;
+	top:0px;
+	visibility:hidden;
+	background-color:#cccccc;
+	border:1px solid #cccccc;
+	width:150px;
+	height:67px;
+}
+
+.MMMIFVStyleMMMenu0823110514_1 
+{
+/* This class determines the general characteristics of the menu items in menu MMMenu0823110514_1 */
+	border-top:1px solid #ffffff;
+	border-left:1px solid #ffffff;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:150px;
+	height:23px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:142px;
+	height:15px;
+}
+
+.MMMIVStyleMMMenu0823110514_1 
+{
+/* This class determines the general characteristics of the menu items in menu MMMenu0823110514_1 */
+	border-top:0px;
+	border-left:1px solid #ffffff;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:150px;
+	height:22px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:142px;
+	height:15px;
+}
+
+#MMMenu0823110514_1_Item_0 
+{
+/* Unique ID for item 0 of menu MMMenu0823110514_1 so we can set its position */
+	left:0px;
+	top:0px;
+}
+
+#MMMenu0823110514_1_Item_1 
+{
+/* Unique ID for item 1 of menu MMMenu0823110514_1 so we can set its position */
+	left:0px;
+	top:23px;
+}
+
+#MMMenu0823110514_1_Item_2 
+{
+/* Unique ID for item 2 of menu MMMenu0823110514_1 so we can set its position */
+	left:0px;
+	top:45px;
+}
+
+#MMMenuContainer0823110514_1 img 
+{
+/* needed for Mozilla/Camino/Netscape */
+	border:0px;
+}
+
+#MMMenuContainer0823110514_1 a 
+{
+/* Controls the general apperance for menu MMMenuContainer0823110514_1's items, including color and font */
+	text-decoration:none;
+	font-family:MS UI Gothic, Osaka;
+	font-size:11px;
+	color:#330000;
+	text-align:center;
+	vertical-align:middle;
+	padding:3px;
+	background-color:#ffffcc;
+	font-weight:normal;
+	font-style:normal;
+	display:block;
+	position:absolute;
+}
+
+#MMMenuContainer0823110514_1 a:hover 
+{
+/* Controls the mouse over effects for menu MMMenuContainer0823110514_1 */
+	color:#993300;
+	background-color:#ffff99;
+}
+#MMMenuContainer0823110655_2 
+{
+/* This ID is related to the master menu div for menu MMMenuContainer0823110655_2 and contains the important positioning information for the menu as a whole */
+	position:absolute;
+	left:304px;
+	top:30px;
+	visibility:hidden;
+	z-index:300;
+}
+
+#MMMenu0823110655_2 
+{
+/* This class defines things about menu MMMenu0823110655_2's div. */
+	position:absolute;
+	left:0px;
+	top:0px;
+	visibility:hidden;
+	background-color:#cccccc;
+	border:1px solid #cccccc;
+	width:150px;
+	height:45px;
+}
+
+.MMMIFVStyleMMMenu0823110655_2 
+{
+/* This class determines the general characteristics of the menu items in menu MMMenu0823110655_2 */
+	border-top:1px solid #ffffff;
+	border-left:1px solid #ffffff;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:150px;
+	height:23px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:142px;
+	height:15px;
+}
+
+.MMMIVStyleMMMenu0823110655_2 
+{
+/* This class determines the general characteristics of the menu items in menu MMMenu0823110655_2 */
+	border-top:0px;
+	border-left:1px solid #ffffff;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	width:150px;
+	height:22px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:142px;
+	height:15px;
+}
+
+#MMMenu0823110655_2_Item_0 
+{
+/* Unique ID for item 0 of menu MMMenu0823110655_2 so we can set its position */
+	left:0px;
+	top:0px;
+}
+
+#MMMenu0823110655_2_Item_1 
+{
+/* Unique ID for item 1 of menu MMMenu0823110655_2 so we can set its position */
+	left:0px;
+	top:23px;
+}
+
+#MMMenuContainer0823110655_2 img 
+{
+/* needed for Mozilla/Camino/Netscape */
+	border:0px;
+}
+
+#MMMenuContainer0823110655_2 a 
+{
+/* Controls the general apperance for menu MMMenuContainer0823110655_2's items, including color and font */
+	text-decoration:none;
+	font-family:MS UI Gothic, Osaka;
+	font-size:11px;
+	color:#330000;
+	text-align:center;
+	vertical-align:middle;
+	padding:3px;
+	background-color:#ffffcc;
+	font-weight:normal;
+	font-style:normal;
+	display:block;
+	position:absolute;
+}
+
+#MMMenuContainer0823110655_2 a:hover 
+{
+/* Controls the mouse over effects for menu MMMenuContainer0823110655_2 */
+	color:#993300;
+	background-color:#ffff99;
+}
+		
+/*------------------------------------------------------------------------*/ 
+#Cuerpo
+{
+	background: #F8F4DC;
+	/*height:430px;
+      overflow:auto;*/
+}
+
+td.Izq
+{
+	width:200px;
+    background-image: url(images/img03.jpg) ;
+    height:300px;
+    vertical-align:top;
+    padding-top:10px;
+    padding-left:10px;
+}
+    
+td.Der
+{
+	width: 600px
+}
+
+#pie /* Pie de Página (Direccion UPC)*/
+{
+	clear: both;
+	width: 1024px;
+	margin: 0px;
+	padding-top: 10px;
+	background-image: url(images/img02.jpg) ;
+	color: #B85212;
+}
+
+#pie p 
+{
+	margin: 4px 0 5px 0;
+	text-align: center;
+	line-height: normal;
+	font-size: .9em;
+}
+#pie a 
+{
+	background: #E8922B;
+	padding: 1px 6px;
+	border-right: 2px solid #B24100;
+	border-bottom: 1px solid #B24100;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a 
+{
+	color: #B85212;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	text-decoration: none;
+	color: #FF5134;
+}
+/*---------------------------------------------------------------------------*/
+
+
+/*---------------------------------------------------------------------------*/
+/*--------------------------Estilo Hojas Default-----------------------------*/
+/*---------------------------------------------------------------------------*/
+
+td.titulo
+{
+    font: 15pt Verdana, Geneva, Arial, Helvetica, sans-serif; 
+    color:Maroon;
+}
+/*--------*/
+
+.post 
+{
+	margin-top:25px;
+    margin-bottom:20px;
+	border-bottom: 1px #A90000 dashed;
+	border-top:1px #A90000 dashed;
+	padding:15px;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+h2,h4
+{	
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 2.2em;
+	color: #CF3822;
+}
+
+.post .title p 
+{
+	margin: 0;
+	line-height: normal;
+	color: #BABABA;
+}
+.entry
+{
+    padding:20px;
+    text-align:justify;
+
+    font-family:Times New Roman;
+    font-size:11pt;
+
+}
+
+.entry2
+{
+    padding:10px;
+    text-align:justify;
+}
+
+#image
+{
+    float:left;
+}
+
+#image2 
+{
+    text-align:center;
+    padding:0px;
+}
+
+h1, h1 a, h2, h2 a, h3, h3 a 
+{
+	margin: 0;
+	text-decoration: none;
+	font-weight: normal;
+	color: #CF3822;
+}
+
+h2, h4 
+{
+	letter-spacing: -2px;
+	font-size: 2em;
+}
+
+ul
+{
+	list-style-image: url(images/viñetas.png);
+}
+
+#botones
+{
+    text-align:right;
+}
+
+table.piramide
+{
+    background-image:url(images/piramide.png);
+
+    width:427px;
+    text-align:center;
+}
+
+tr.piramide1
+{
+	height:58px;
+    vertical-align:bottom;
+}  
+    
+tr.piramide2
+{
+	height:50px;
+}
+    
+tr.piramide
+{
+        height:38px;
+}
+
+#cuerpohome
+{
+    margin:10px;
+    text-align:center;
+}
+
+#botones_form
+{ 
+    text-align:right;
+    margin:30px;
+}
+
+td.derecha
+{
+	text-align:right;
+    padding-right:15px;
+}
+
+td.izquierda
+{
+        text-align:left;
+        padding-left:15px;
+}
+
+table.forma_principal
+{
+    padding-top:8px;
+    padding-bottom:8px;
+    border-collapse:collapse;
+}
+
+table.forma
+{
+    background: white;
+	border: 1px dashed #F5E0B7;
+	padding-left:15px;
+	padding-right:15px;
+	border-collapse:collapse;
+} 
+
+td.titulo_forma
+{
+	border: 1px dashed #F5E0B7;
+    font-family:Times New Roman;
+    font-style:oblique;
+    font-style:italic;
+    font-weight:bold;
+    letter-spacing: 0px;
+  	font-size: 11pt;
+  	text-align:left;
+    color: #585858;
+    background:#F6E3CE;
+    padding-left:15px;
+    border-collapse:collapse;
+}    
+
+tr.subtitulo
+{
+	vertical-align:top;
+} 
+
+td.subtitulo2
+{
+    padding-top:0px;
+    padding-left:30px;
+    vertical-align:bottom;
+}
+
+td.rojo
+{
+	height:18px;
+    width:18px;
+    background-color:Red;
+    border-style:solid;
+    border-color:#804000;
+}
+
+td.ambar
+{
+    height:18px;
+    width:18px;
+    background-color:Yellow;
+    border-style:solid;border-color:#804000;
+}
+td.verde
+{
+	height:18px;
+    width:18px;
+    background-color:Green;
+    border-style:solid;border-color:#804000;
+}
+td.instrumentos
+{
+	color: #B85212;
+    font-size:9pt;
+    font-family:@Arial Unicode MS;
+    width:200px;
+    background-image: url(images/img03.jpg) ;
+    height:300px;
+    vertical-align:top;
+    padding-top:15px;
+    padding-left:8px;
+    padding-right: 18px;
+}
+
+table.semaforo
+{
+	font-weight:bold;
+    color: #B85212;
+    border-collapse:collapse;
+    border-style:solid;
+    border-color:#804000;
+    width:500px;
+    /*border: 1px dashed #804000;*/
+}
+
+table.semaforo2
+{
+        border-collapse:collapse;
+        border-style:solid;
+        border-color:#804000; 
+        text-align:justify;
+}
+
+td.semaforo2
+{
+	border-style:solid;
+    border-color:#804000; 
+}
+ 
+table.semaf
+{
+	background: #faf2db;
+	border: 100px inherit #ffbf80;
+	padding-left:15px;
+	padding-right:15px;
+	border-collapse:separate;	
+	color: #766a54;
+	font-family:normal;
+	font-size: 9pt;
+	font-weight: bold;	
+} 
+
+td.tit_
+{
+     color: #000000;
+     background: white;        
+}    
+
+tr.tit_semaforo
+{
+	border: 1px dashed #F5E0B7;
+    font-family:Times New Roman;
+    font-style:oblique;        
+    font-weight:bold;
+    letter-spacing: 0px;
+  	font-size: 11pt;
+  	text-align:left;
+    color: #fff2dd;
+    background:#9c4405;
+    padding-left:15px;
+    border-collapse:collapse;
+} 
+table.tableDefault
+{
+	background: #F8F3DD;
+	border:  100px inherit #FFC69A;	
+	padding-left:15px;
+	padding-right:15px;
+	border-collapse:separate;	
+	border-color:#FFC69A;
+	color: #914A0C;
+	font-family:Calibri;
+	font-size: 9pt;
+	font-weight: bold;	
+}
+td.tdDefault
+{
+	color:#914A0C;
+
+}
+tr.trDefault
+{
+	color:#FAF2DF;
+	background:#914A0C;
+	
+}

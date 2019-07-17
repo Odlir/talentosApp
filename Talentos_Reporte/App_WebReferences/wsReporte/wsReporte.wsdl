@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Resultado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obj" type="tns:ResultadoFinalBE" />
+            <s:element minOccurs="0" maxOccurs="1" name="tal" type="tns:TalentoComplexBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ResultadoFinalBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Participante_Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="NombreParticipante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DNI" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FechaNacimiento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FechaTest" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NivelInstruccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CargoEmpresa" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CorreoElectronico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Talentos" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstTalentosMasDesarrollados" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstTalentosMenosDesarrollados" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstTalentosIntermedioDesarrollados" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstTEMasDesarrollados" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstTEMenosDesarrollados" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstVirtudes" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="lstTalentosTotales" type="tns:ArrayOfTalentoComplexBE" />
+          <s:element minOccurs="1" maxOccurs="1" name="Puntaje" type="s:double" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoEvaluacion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfTalentoComplexBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TalentoComplexBE" nillable="true" type="tns:TalentoComplexBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TalentoComplexBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="idTalento" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="idTendencia" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="idTipoTalento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="descripcion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="tendencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="tipoTalento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="image" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Seleccionado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Buzon_Id" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ResultadoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="CargarResultadosMasivos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lstResultados" type="tns:ArrayOfResultadoFinalBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfResultadoFinalBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ResultadoFinalBE" nillable="true" type="tns:ResultadoFinalBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CargarResultadosMasivosResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="EnviarMailResultado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodEvaluacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarMailResultadoResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="CalcularReporte">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DNI" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="administrador" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CalcularReporteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CalcularReporteResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CuadroResultadoListar">
+        <s:complexType />
+      </s:element>
+      <s:element name="CuadroResultadoListarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CuadroResultadoListarResult" type="tns:ArrayOfCuadroResultadoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfCuadroResultadoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="CuadroResultadoBE" nillable="true" type="tns:CuadroResultadoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="CuadroResultadoBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CuadroResultado_Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Texto" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Talento_Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Talento" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Tendencia_Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tendencia" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TipoTalento_Id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Seleccionado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="TipoDesarrollo" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ResultadosParticipantesImportar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FechaInicio" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="FechaFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResultadosParticipantesImportarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ResultadosParticipantesImportarResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ResultadoSoapIn">
+    <wsdl:part name="parameters" element="tns:Resultado" />
+  </wsdl:message>
+  <wsdl:message name="ResultadoSoapOut">
+    <wsdl:part name="parameters" element="tns:ResultadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="CargarResultadosMasivosSoapIn">
+    <wsdl:part name="parameters" element="tns:CargarResultadosMasivos" />
+  </wsdl:message>
+  <wsdl:message name="CargarResultadosMasivosSoapOut">
+    <wsdl:part name="parameters" element="tns:CargarResultadosMasivosResponse" />
+  </wsdl:message>
+  <wsdl:message name="EnviarMailResultadoSoapIn">
+    <wsdl:part name="parameters" element="tns:EnviarMailResultado" />
+  </wsdl:message>
+  <wsdl:message name="EnviarMailResultadoSoapOut">
+    <wsdl:part name="parameters" element="tns:EnviarMailResultadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="CalcularReporteSoapIn">
+    <wsdl:part name="parameters" element="tns:CalcularReporte" />
+  </wsdl:message>
+  <wsdl:message name="CalcularReporteSoapOut">
+    <wsdl:part name="parameters" element="tns:CalcularReporteResponse" />
+  </wsdl:message>
+  <wsdl:message name="CuadroResultadoListarSoapIn">
+    <wsdl:part name="parameters" element="tns:CuadroResultadoListar" />
+  </wsdl:message>
+  <wsdl:message name="CuadroResultadoListarSoapOut">
+    <wsdl:part name="parameters" element="tns:CuadroResultadoListarResponse" />
+  </wsdl:message>
+  <wsdl:message name="ResultadosParticipantesImportarSoapIn">
+    <wsdl:part name="parameters" element="tns:ResultadosParticipantesImportar" />
+  </wsdl:message>
+  <wsdl:message name="ResultadosParticipantesImportarSoapOut">
+    <wsdl:part name="parameters" element="tns:ResultadosParticipantesImportarResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsReporteSoap">
+    <wsdl:operation name="Resultado">
+      <wsdl:input message="tns:ResultadoSoapIn" />
+      <wsdl:output message="tns:ResultadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CargarResultadosMasivos">
+      <wsdl:input message="tns:CargarResultadosMasivosSoapIn" />
+      <wsdl:output message="tns:CargarResultadosMasivosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMailResultado">
+      <wsdl:input message="tns:EnviarMailResultadoSoapIn" />
+      <wsdl:output message="tns:EnviarMailResultadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CalcularReporte">
+      <wsdl:input message="tns:CalcularReporteSoapIn" />
+      <wsdl:output message="tns:CalcularReporteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CuadroResultadoListar">
+      <wsdl:input message="tns:CuadroResultadoListarSoapIn" />
+      <wsdl:output message="tns:CuadroResultadoListarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ResultadosParticipantesImportar">
+      <wsdl:input message="tns:ResultadosParticipantesImportarSoapIn" />
+      <wsdl:output message="tns:ResultadosParticipantesImportarSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsReporteSoap" type="tns:wsReporteSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Resultado">
+      <soap:operation soapAction="http://tempuri.org/Resultado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CargarResultadosMasivos">
+      <soap:operation soapAction="http://tempuri.org/CargarResultadosMasivos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMailResultado">
+      <soap:operation soapAction="http://tempuri.org/EnviarMailResultado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalcularReporte">
+      <soap:operation soapAction="http://tempuri.org/CalcularReporte" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CuadroResultadoListar">
+      <soap:operation soapAction="http://tempuri.org/CuadroResultadoListar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResultadosParticipantesImportar">
+      <soap:operation soapAction="http://tempuri.org/ResultadosParticipantesImportar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsReporteSoap12" type="tns:wsReporteSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Resultado">
+      <soap12:operation soapAction="http://tempuri.org/Resultado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CargarResultadosMasivos">
+      <soap12:operation soapAction="http://tempuri.org/CargarResultadosMasivos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMailResultado">
+      <soap12:operation soapAction="http://tempuri.org/EnviarMailResultado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalcularReporte">
+      <soap12:operation soapAction="http://tempuri.org/CalcularReporte" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CuadroResultadoListar">
+      <soap12:operation soapAction="http://tempuri.org/CuadroResultadoListar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResultadosParticipantesImportar">
+      <soap12:operation soapAction="http://tempuri.org/ResultadosParticipantesImportar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsReporte">
+    <wsdl:port name="wsReporteSoap" binding="tns:wsReporteSoap">
+      <soap:address location="http://talentoswin.eastus2.cloudapp.azure.com/WSReportesConsolidado/wsReporte.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsReporteSoap12" binding="tns:wsReporteSoap12">
+      <soap12:address location="http://talentoswin.eastus2.cloudapp.azure.com/WSReportesConsolidado/wsReporte.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

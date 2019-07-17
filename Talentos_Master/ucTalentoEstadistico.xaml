@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="Talentos_Master.ucTalentoEstadistico"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="120" Height="120">
+    <Canvas x:Name="LayoutRoot"  Style="{StaticResource FondoMaster}" Width="120" Height="120" Background="Transparent">
+        <Canvas Width="Auto" Height="Auto">
+            <Border x:Name="recomendacionBorder"  BorderThickness="1" Background="Transparent" CornerRadius="12" BorderBrush="Transparent" Cursor="Hand" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Height="120">
+                <Grid x:Name="grd" VerticalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.05*"></RowDefinition>
+                        <RowDefinition Height="0.9*"></RowDefinition>
+                        <RowDefinition Height="0.05*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Image x:Name="img" Source="{Binding Path=source}" Tag="{Binding Path=source}" VerticalAlignment="Center" Width="95" Height="100" Stretch="Fill"  Grid.Row="1"></Image>
+
+                </Grid>
+
+            </Border>
+        </Canvas>
+    </Canvas>
+</UserControl>

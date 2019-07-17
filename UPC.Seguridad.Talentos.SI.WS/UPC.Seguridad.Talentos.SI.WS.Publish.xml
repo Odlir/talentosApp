@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Iteracion 12\Compilados\WSSeguridad" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/UPC.Seguridad.Talentos.BL.BC.dll" publishTime="11/07/2010 00:20:06" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.BL.BE.pdb" publishTime="11/07/2010 00:20:02" />
+    <file relUrl="WebServiceTalentos.asmx" publishTime="11/23/2009 23:22:44" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.DL.DALC.dll" publishTime="11/07/2010 00:20:06" />
+    <file relUrl="Web.config" publishTime="11/08/2010 17:58:26" />
+    <file relUrl="clientaccesspolicy.xml" publishTime="11/23/2009 23:22:44" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.SI.WS.pdb" publishTime="11/07/2010 00:20:08" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.DL.DALC.pdb" publishTime="11/07/2010 00:20:06" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.BL.BE.dll" publishTime="11/07/2010 00:20:02" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.SI.WS.dll" publishTime="11/07/2010 00:20:08" />
+    <file relUrl="bin/UPC.Seguridad.Talentos.BL.BC.pdb" publishTime="11/07/2010 00:20:06" />
+  </publishProfile>
+</publishData>

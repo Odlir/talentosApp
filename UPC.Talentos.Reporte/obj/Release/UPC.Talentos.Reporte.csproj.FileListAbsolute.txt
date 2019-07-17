@@ -1,0 +1,40 @@
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\DocumentFormat.OpenXml.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\WindowsBase.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.DL.DALC.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\DocumentFormat.OpenXml.xml
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.DL.DALC.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\obj\Release\UPC.Talentos.Reporte.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\obj\Release\UPC.Talentos.Reporte.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte\obj\Release\UPC.Talentos.Reporte.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\DocumentFormat.OpenXml.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BC.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BE.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.DL.DALC.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BC.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BE.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\WindowsBase.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.DL.DALC.dll
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BC.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.BL.BE.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.DL.DALC.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BC.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.BL.BE.pdb
+D:\Talentos\UPC.Talentos.Reporte\bin\DocumentFormat.OpenXml.xml
+D:\Talentos\UPC.Talentos.Reporte\bin\UPC.Talentos.Reporte.DL.DALC.pdb
+D:\Talentos\UPC.Talentos.Reporte\obj\Release\UPC.Talentos.Reporte.csprojResolveAssemblyReference.cache
+D:\Talentos\UPC.Talentos.Reporte\obj\Release\UPC.Talentos.Reporte.dll
+D:\Talentos\UPC.Talentos.Reporte\obj\Release\UPC.Talentos.Reporte.pdb

@@ -1,0 +1,27 @@
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BC.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.DL.DALC.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.DL.DALC.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.pdb
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BC.dll
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BC.pdb
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.DL.DALC.dll
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\bin\Release\UPC.Seguridad.Talentos.DL.DALC.pdb
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.csprojResolveAssemblyReference.cache
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.dll
+D:\Talentos\UPC.Seguridad.Talentos.BL.BC\obj\Release\UPC.Seguridad.Talentos.BL.BC.pdb

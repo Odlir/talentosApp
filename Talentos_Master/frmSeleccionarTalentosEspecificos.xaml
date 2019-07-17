@@ -1,0 +1,159 @@
+﻿<my:IPaginaContenida x:Class="Talentos_Master.frmSeleccionarTalentosEspecificos"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:controlsToolkit="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Toolkit"
+    mc:Ignorable="d"
+    xmlns:my="clr-namespace:Talentos_Master"
+    Width="650" Height="520">
+    <Grid x:Name="Contenedor" Background="Transparent"  Width="650" Height="520" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Canvas x:Name="LayoutRoot" Visibility="Visible">
+            <Image Source="images/auxiliares/up.png" Width="40" Height="40" Canvas.Left="150" Canvas.Top="279" x:Name="MoveLeftButton" Cursor="Hand" MouseLeftButtonDown="izquierdaBuzon_MouseLeftButtonDown">
+                <Image.RenderTransform>
+                    <RotateTransform Angle="-180"></RotateTransform>
+                </Image.RenderTransform>
+            </Image>
+            <Border x:Name="popup1" Canvas.Left="385" Canvas.Top="224"  BorderBrush="Black" BorderThickness="1" Height="56" VerticalAlignment="Center" CornerRadius="5" HorizontalAlignment="Center"  Width="130" Visibility="Collapsed">
+                <Border.Effect>
+                    <DropShadowEffect/>
+                </Border.Effect>
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFFFFFF0" Offset="0.969"/>
+                        <GradientStop Color="#FFFFFFF0" Offset="0.944"/>
+                        <GradientStop Color="#FFFFFFF0" Offset="0.053"/>
+                        <GradientStop Color="#FFFFFFF0" Offset="0.031"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <TextBlock Text="Arrastra este talento a uno de los buzones inferiores" TextWrapping="Wrap" FontSize="10" TextAlignment="Center" Foreground="Black" FontFamily="Arial" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100"></TextBlock>
+            </Border>
+            <TextBlock x:Name="txtCantidad" Text="0 clasificados de 42" Canvas.Left="225" Canvas.Top="-47" FontWeight="Bold" FontFamily="Arial" FontSize="18" Foreground="Black"></TextBlock>
+            <StackPanel x:Name="buttseven" Orientation="Horizontal"  Height="60" Canvas.Left="300" Canvas.Top="280" Background="Transparent" >
+            </StackPanel>
+            <Image Source="images/auxiliares/up.png" Width="40" Height="40" Canvas.Left="500" Canvas.Top="239"  x:Name="MoveRightButton" Cursor="Hand" MouseLeftButtonDown="derechaBuzon_MouseLeftButtonDown">
+            </Image>
+            <Canvas x:Name="canvasBuzonesSelva" VerticalAlignment="Top">
+                <Grid Canvas.Top="350" Width="600">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.3*" />
+                        <ColumnDefinition Width="0.4*" />
+                        <ColumnDefinition Width="0.3*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Border x:Name="imgBuzon1" CornerRadius="5" Style="{StaticResource GlassBorderStyle}" Grid.Column="0" Height="75" Width="145"  MouseLeftButtonDown="buzon1_MouseLeftButtonDown" MouseEnter="imgBuzon1_MouseEnter" MouseLeave="imgBuzon1_MouseLeave" ToolTipService.ToolTip="En este buzón, coloca tus talentos más desarrollados." >
+                        <Grid>
+                            <Grid.RowDefinitions>
+								<RowDefinition Height="0.05*"></RowDefinition>
+		                        <RowDefinition Height="0.250*"></RowDefinition>
+		                        <RowDefinition Height="0.295*"></RowDefinition>
+		                        <RowDefinition Height="0.295*"></RowDefinition>
+		                        <RowDefinition Height="0.07*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock x:Name="txt11" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" + " FontSize="24" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                            <TextBlock x:Name="txt21" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento más  " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                            <TextBlock x:Name="txt31" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" desarrollado " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                        </Grid>
+                    </Border>
+                    <Border x:Name="imgBuzon2"  Height="75" Width="145" CornerRadius="5" Style="{StaticResource GlassBorderStyle}" Grid.Column="1" MouseLeftButtonDown="buzon2_MouseLeftButtonDown" MouseEnter="imgBuzon2_MouseEnter" MouseLeave="imgBuzon2_MouseLeave" ToolTipService.ToolTip="En ese buzón, coloca tus talentos medianamente desarrollados." >
+                        <Grid>
+                            <Grid.RowDefinitions>
+								<RowDefinition Height="0.05*"></RowDefinition>
+		                        <RowDefinition Height="0.050*"></RowDefinition>
+		                        <RowDefinition Height="0.295*"></RowDefinition>
+		                        <RowDefinition Height="0.295*"></RowDefinition>
+		                        <RowDefinition Height="0.07*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock x:Name="txt12" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text="  " FontSize="19" FontFamily="Arial" FontWeight="ExtraBold" >
+                            </TextBlock>
+                            <TextBlock x:Name="txt22" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                            <TextBlock x:Name="txt32" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" intermedio " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                        </Grid>
+                    </Border>
+                    <Border x:Name="imgBuzon3" Height="75" Width="145" CornerRadius="5" Style="{StaticResource GlassBorderStyle}" Grid.Column="2" MouseLeftButtonDown="buzon3_MouseLeftButtonDown" MouseEnter="imgBuzon3_MouseEnter" MouseLeave="imgBuzon3_MouseLeave" ToolTipService.ToolTip="En este buzón, coloca tus talentos menos desarrollados."  >
+                        <Grid>
+                            <Grid.RowDefinitions>
+								<RowDefinition Height="0.03*"></RowDefinition>
+		                        <RowDefinition Height="0.2*"></RowDefinition>
+		                        <RowDefinition Height="0.33*"></RowDefinition>
+		                        <RowDefinition Height="0.33*"></RowDefinition>
+		                        <RowDefinition Height="0.07*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock x:Name="txt13" Grid.Column="1" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" - " FontSize="24" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                            <TextBlock x:Name="txt23" Grid.Column="1" Grid.Row="2" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" Talento menos " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                            <TextBlock x:Name="txt33" Grid.Column="1" Grid.Row="3" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Text=" desarrollado " FontSize="18" FontFamily="Arial" FontWeight="ExtraBold">
+                            </TextBlock>
+                        </Grid>
+                    </Border>
+                </Grid>
+                <TextBlock x:Name="txtInstruc" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="2" Text=""  Height="25" TextWrapping="Wrap"  TextAlignment="Center" FontSize="15.667" Margin="3,490" Grid.ColumnSpan="3">
+                </TextBlock>
+            </Canvas>  
+        </Canvas>
+        
+        <controlsToolkit:BusyIndicator x:Name="BusyWindow" Content="" BusyContent="Por favor, espere mientras se cargan los talentos..."  Margin="0,-60,0,0"/>
+        
+        <Border x:Name="ppVerificarCantidad" Grid.Row="0" Margin="0,-98,0,0"  Width="550" Height="250"  Visibility="Collapsed" Background="Transparent" >
+            <Canvas>
+                <Canvas.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                </Canvas.RenderTransform>
+                <Grid x:Name="grdVerificar" Width="550" Height="250" Background="Transparent">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.388*"></RowDefinition>
+                    <RowDefinition Height="0.612*"></RowDefinition>
+                </Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="0.3*" />
+					<ColumnDefinition Width="0.7*" />
+				</Grid.ColumnDefinitions>
+                <Image Source="images/auxiliares/exclamation.png"  Stretch="Fill" Grid.Column="0" Height="70" Width="160"  VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2"  >
+                    <Image.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleY="3"/>
+                            <SkewTransform />
+                            <RotateTransform/>
+                            <TranslateTransform Y="0.4"/>
+                        </TransformGroup>
+                    </Image.RenderTransform>
+                </Image>
+                <TextBlock x:Name="txtppVerificarCantidad" Grid.Column="1" Text="El buzón &quot;Talento más desarrollado&quot; debe contener un mínimo de 10 talentos y el buzón &quot;Talento menos desarrollado&quot;, un mínimo de 5 talentos." Grid.Row="0" FontFamily="Arial" FontSize="14" TextWrapping="Wrap" TextAlignment="Left" HorizontalAlignment="Right" LineHeight="20"
+                           Foreground="#FF6B6B6B" Margin="0,5,24,6" d:LayoutOverrides="VerticalAlignment"    />
+                <Border Grid.Row="1" Grid.Column="1" x:Name="btnAceptarCorregir" Width="120" Height="30"  Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand" HorizontalAlignment="Center"  MouseLeftButtonDown="btnAceptarCorregir_MouseLeftButtonDown" Margin="0,6,0,0"  VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment"  >
+                    <TextBlock  Text="Aceptar" Foreground="White" FontSize="16" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                </Border>
+            </Grid>
+            </Canvas>
+        </Border>
+
+        <Border x:Name="ppSeAcabo" Grid.Row="0" CornerRadius="10" Background="Transparent"  Width="550" Height="250" Margin="0,-100,0,0" Visibility="Collapsed"  >
+            <Grid x:Name="grdSeAcabo" Width="550" Height="250" Background="Transparent" >
+                <Canvas>
+                    <Canvas.RenderTransform>
+                        <ScaleTransform ScaleX="1" ScaleY="1" />
+                    </Canvas.RenderTransform>
+                    <TextBlock  Text="Has terminado de clasificar los talentos especificos. ¿Deseas revisar algún buzón?" LineHeight="20"
+                           FontFamily="Arial" FontSize="14" TextWrapping="Wrap" TextAlignment="Left"
+                           Foreground="#FF6B6B6B"  Margin="49,11,104,0" VerticalAlignment="Top" />
+                </Canvas>
+                   <Border x:Name="btnAceptarSeAcabo" Width="100" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand" Margin="138,96,312,119"    MouseLeftButtonDown="btnAceptarSeAcabo_MouseLeftButtonDown" >
+                    <TextBlock  Text="Sí" Foreground="White" FontSize="19" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                </Border>
+                <Border x:Name="btnCancelarSeAcabo" Width="100" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand" Margin="277,96,0,119"  MouseLeftButtonDown="btnCancelarSeAcabo_MouseLeftButtonDown" HorizontalAlignment="Left" d:LayoutOverrides="GridBox"  >
+                    <TextBlock  Text="No" Foreground="White" FontSize="19" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                </Border>
+                
+            </Grid>
+        </Border>
+    </Grid>
+</my:IPaginaContenida>

@@ -1,0 +1,40 @@
+﻿<swc:Window x:Class="Talentos_Master.wAgradecimiento"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+xmlns:input="clr-namespace:System.Windows.Input;assembly=Sincorde.Library"        
+    xmlns:swc="clr-namespace:System.Windows.Controls;assembly=Sincorde.Library"   
+    FontSize="11" 
+	Padding="15,10,15,10"
+	MinWidth="185" MinHeight="85" CanMaximize="False" CanResize="False" CanDrag="False" >
+    <swc:Window.IconContent  >
+        <Image Stretch="None" Source="Resources/Silverlight.png"  />
+    </swc:Window.IconContent>
+    <swc:Window.TitleContent   >
+        <TextBlock Text="Test de Talentos " FontFamily="Arial" FontSize="14"  />
+    </swc:Window.TitleContent>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <TextBlock FontFamily="Arial" FontSize="14" LineHeight="20" x:Name="mensaje" HorizontalAlignment="Center" Margin="0,6" Width="500" TextWrapping="Wrap" VerticalAlignment="Center">
+        <Run Text="Agradecimientos" FontFamily="Arial" FontWeight="Bold"  FontSize="14" />
+        <LineBreak />      
+        <LineBreak />      
+        <Run Text="A las alumnas Malena Castillo, Emiko Chara y a los profesores Miguel Arrunátegui, Víctor Parasi y Jaime Urbina, de la Carrera de Ingeniería de Software de la UPC, por elaborar el diseño y la programación del Juego de Talentos on line."  FontFamily="Arial" FontSize="12"   />    
+        <LineBreak />   
+        <LineBreak />  
+        <Run Text="A Lennia Matos, Karla Rodríguez y Liliana Galván, por el apoyo en la investigación y desarrollo del Juego de Talentos." FontFamily="Arial" FontSize="12"  />    
+        <LineBreak />  
+        <LineBreak />  
+        <Run Text="A Sandra Uehara, por la realización de las ilustraciones de las tarjetas de talentos." FontFamily="Arial" FontSize="12"  />
+        </TextBlock>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Row="1">
+            <Button x:Name="BtnOk" Content="Ok" MinWidth="75" Margin="220,0,240,0"
+				input:Commanding.Command="{Binding CloseCommand}"
+				input:Commanding.Parameter="Ok" />
+        </StackPanel>
+    </Grid>
+</swc:Window>

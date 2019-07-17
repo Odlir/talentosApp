@@ -1,0 +1,21 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Talentos_Master" EntryPointType="Talentos_Master.App" RuntimeVersion="3.0.40624.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Talentos_Master" Source="Talentos_Master.dll" />
+    <AssemblyPart x:Name="FJ.Core" Source="FJ.Core.dll" />
+    <AssemblyPart x:Name="Sincorde.Library" Source="Sincorde.Library.dll" />
+    <AssemblyPart x:Name="SLVisifire.Charts" Source="SLVisifire.Charts.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data" Source="System.Windows.Controls.Data.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data.Input" Source="System.Windows.Controls.Data.Input.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.DataVisualization.Toolkit" Source="System.Windows.Controls.DataVisualization.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Navigation" Source="System.Windows.Controls.Navigation.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Theming.Toolkit" Source="System.Windows.Controls.Theming.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Toolkit" Source="System.Windows.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="UPC.Seguridad.Talentos.BL.BE" Source="UPC.Seguridad.Talentos.BL.BE.dll" />
+    <AssemblyPart x:Name="UPC.Talentos.BL.BE" Source="UPC.Talentos.BL.BE.dll" />
+    <AssemblyPart x:Name="System.Reactive" Source="System.Reactive.dll" />
+    <AssemblyPart x:Name="System.Windows.Data" Source="System.Windows.Data.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+</Deployment>

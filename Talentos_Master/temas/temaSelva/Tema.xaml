@@ -1,0 +1,379 @@
+﻿<ResourceDictionary x:Class="Talentos_Master.temas.temaSelva.Tema"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <Style x:Key="Subtitulo" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Arial" />
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="TextAlignment" Value="Left" />
+    </Style>
+
+    <Style x:Key="Recomendacion" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="16" />
+        <Setter Property="TextAlignment" Value="Left" />
+        <Setter Property="FontWeight" Value="Bold" />
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+
+    <Style x:Key="Registro" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Arial" />
+        <Setter Property="FontSize" Value="17" />
+        <Setter Property="TextAlignment" Value="Left" />
+        <Setter Property="FontWeight" Value="Bold" />
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="15"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="Bienvenida" TargetType="TextBlock">
+		<Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="14" />
+		<Setter Property="FontStyle" Value="Italic" />
+        <Setter Property="TextAlignment" Value="Center" />
+	    <Setter Property="Foreground" Value="#FFFFFFFF" />
+    </Style>
+	
+	<Style x:Key="FullName" TargetType="TextBlock">
+		<Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="20" />
+        <Setter Property="TextAlignment" Value="Center" />
+	    <Setter Property="Foreground" Value="White" />
+    </Style>
+    
+    <Style x:Key="NavegacionStyle" TargetType="TextBlock">
+		<Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="FontSize" Value="14" />
+        <Setter Property="TextAlignment" Value="Center" />
+        <Setter Property="FontWeight" Value="Bold" />
+		<Setter Property="Foreground" Value="Black" />    
+    </Style>
+	
+    <Style x:Key="Texto" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Arial" />
+        <Setter Property="FontSize" Value="28" />
+        <Setter Property="TextAlignment" Value="Left" />
+        <Setter Property="FontWeight" Value="Bold" />
+    </Style>
+    
+    <Style x:Key="txtInstrucciones" TargetType="TextBlock">
+        <Setter Property="FontFamily" Value="Arial" />
+        <Setter Property="FontSize" Value="12" />
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="TextWrapping" Value="Wrap" />
+        <Setter Property="Width" Value="250" />
+    </Style>
+
+    <!-- Fondo en donde se mueven las cartas -->
+    <Style x:Key="FondoCartas" TargetType="Border">
+        <Setter Property="CornerRadius" Value="20" />
+        <Setter Property="Opacity" Value="0.7" />
+        <Setter Property="Background" Value="Transparent" />
+    </Style>
+
+    <Style x:Key="FondoBuzon" TargetType="Border">
+        <Setter Property="CornerRadius" Value="20" />
+        <Setter Property="BorderThickness" Value="2" />
+        <Setter Property="Width" Value="160" />
+        <Setter Property="Height" Value="140" />
+        <Setter Property="Opacity" Value="1" />
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF6D8061" Offset="1"/>
+                    <GradientStop Color="#FF7D8C69" Offset="0.939"/>
+                    <GradientStop Color="#FF7D8C69" Offset="0.052"/>
+                    <GradientStop Color="#FF6D8061" Offset="0.035"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="15"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="imgInicio"  TargetType="Rectangle">
+        <Setter Property="Cursor" Value="Hand" />
+        <Setter Property="Width" Value="150" />
+        <Setter Property="HorizontalAlignment" Value="Left" />
+        <Setter Property="Height" Value="45" />
+        <Setter Property="Fill">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/auxiliares/Inicio_Selva.png" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="imgIngresar"  TargetType="Rectangle">
+        <Setter Property="Cursor" Value="Hand" />
+        <Setter Property="Width" Value="160" />
+        <Setter Property="HorizontalAlignment" Value="Left" />
+        <Setter Property="Height" Value="30" />
+        <Setter Property="Fill">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/auxiliares/Ingresar_Selva.png" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="imgRegistrarse"  TargetType="Rectangle">
+        <Setter Property="Cursor" Value="Hand" />
+        <Setter Property="Width" Value="160" />
+        <Setter Property="HorizontalAlignment" Value="Left" />
+        <Setter Property="Height" Value="30" />
+        <Setter Property="Fill">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/auxiliares/Registrar_Selva.png" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <!--Fondo de los pequenios popups-->
+    <Style x:Key="FondoPopup" TargetType="Border">
+        <Setter Property="Margin" Value="-38,-20,0,0" />
+        <Setter Property="BorderThickness" Value="1" />
+        <Setter Property="VerticalAlignment" Value="Top" />
+        <Setter Property="Height" Value="56" />
+        <Setter Property="CornerRadius" Value="5" />
+        <Setter Property="HorizontalAlignment" Value="Left" />
+        <Setter Property="Width" Value="80" />
+        <Setter Property="Visibility" Value="Collapsed" />
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF1F2DF" Offset="0.969"/>
+                    <GradientStop Color="#FFD6B825" Offset="0.926"/>
+                    <GradientStop Color="#FFD6B825" Offset="0.926"/>
+                    <GradientStop Color="#FFF4F11B" Offset="0.031"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="2"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="FondoMaster" TargetType="Canvas">
+        <Setter Property="Background">
+            <Setter.Value>
+                    <ImageBrush ImageSource="images/fondo/FondoSelva2.jpg" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="FondoRecomendaciones" TargetType="ListBox">
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/fondo/FondoSelva.jpg" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="TituloPequenio" TargetType="Rectangle">
+        <Setter Property="Height" Value="100"/>
+        <Setter Property="Width" Value="990"/>
+        <Setter Property="Fill">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/logos/banner_upc.png" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="TituloMediano" TargetType="Rectangle">
+        <Setter Property="Height" Value="100"/>
+        <Setter Property="Width" Value="400"/>
+        <Setter Property="Fill">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/logos/Talentos_Titulo_Selva.png" />
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="TituloGrande" TargetType="Rectangle">
+        <Setter Property="Height" Value="152"/>
+        <Setter Property="Width" Value="600"/>
+        <Setter Property="Fill">
+            <Setter.Value>
+                <ImageBrush ImageSource="images/logos/Talentos_Titulo_Selva.png"></ImageBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <!--Fondo de los popups grandes-->
+    <Style x:Key="FondoPopupGrande" TargetType="Border">
+        <Setter Property="BorderThickness" Value="2" />
+        <Setter Property="BorderBrush" Value="#FFB3B3B3" />
+        <Setter Property="CornerRadius" Value="20" />
+        <Setter Property="Background" Value="Transparent">
+        </Setter>
+    </Style>
+
+    <Style x:Key="LetraPopUp" TargetType="TextBlock">
+        <Setter Property="Foreground" Value="Gray"></Setter>
+		<Setter Property="FontFamily" Value="Arial"></Setter>
+    </Style>
+    
+    <Style x:Key="GlassBorderStyleEfecto" TargetType="Border">
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="White" >
+            </Setter>
+            <Setter Property="BorderBrush">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#5811322D" Offset="0"/>
+                        <GradientStop Color="#3EFFFFFF" Offset="0.25"/>
+                        <GradientStop Color="#FFFFFFFF" Offset="0.5"/>
+                        <GradientStop Color="#3EFFFFFF" Offset="0.75"/>
+                        <GradientStop Color="#BFFFFFFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="3" ShadowDepth="3" Opacity="0.5"/>
+                </Setter.Value>
+            </Setter>
+
+        </Style>
+
+    <Style x:Key="GlassBorderStyle" TargetType="Border">
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="#FF8C9090">
+            </Setter>
+            <Setter Property="BorderBrush">
+                <Setter.Value>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#5811322D" Offset="0"/>
+                        <GradientStop Color="#3EFFFFFF" Offset="0.25"/>
+                        <GradientStop Color="#FFFFFFFF" Offset="0.5"/>
+                        <GradientStop Color="#3EFFFFFF" Offset="0.75"/>
+                        <GradientStop Color="#BFFFFFFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="3" ShadowDepth="3" Opacity="0.5"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    <Style x:Key="GlassBorderStyleBrillo" TargetType="Border">
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="Background" Value="#FFC9CECF">
+        </Setter>
+        <Setter Property="BorderBrush">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#5811322D" Offset="0"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.25"/>
+                    <GradientStop Color="#FFFFFFFF" Offset="0.5"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.75"/>
+                    <GradientStop Color="#BFFFFFFF" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="3" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="GlassBorderStyleBlack" TargetType="Border">
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.75,1" StartPoint="0.25,0">
+                    <GradientStop Color="#FF8C8C8C" Offset="0"/>
+                    <GradientStop Color="#FF606060" Offset="0.287"/>
+                    <GradientStop Color="#FF191919" Offset="0.683"/>
+                    <GradientStop Color="#FF101010" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="BorderBrush">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#5811322D" Offset="0"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.25"/>
+                    <GradientStop Color="#FFFFFFFF" Offset="0.5"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.75"/>
+                    <GradientStop Color="#BFFFFFFF" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="3" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+     
+    </Style>
+
+    <Style x:Key="GlassBorderStyleGray" TargetType="Border">
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.75,1" StartPoint="0.25,0">
+                    <GradientStop Color="#33FFFFFF" Offset="0"/>
+                    <GradientStop Color="#C0FFFFFF" Offset="0.287"/>
+                    <GradientStop Color="#41FFFFFF" Offset="0.683"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="BorderBrush">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#5811322D" Offset="0"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.25"/>
+                    <GradientStop Color="#FFFFFFFF" Offset="0.5"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.75"/>
+                    <GradientStop Color="#FF8B8B8B" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="GlassBorderStyleMarron" TargetType="Border">
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="Background" Value="#FF414141" >
+        </Setter>
+        <Setter Property="BorderBrush">
+            <Setter.Value>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#58110000" Offset="0"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.25"/>
+                    <GradientStop Color="#FFFFFFFF" Offset="0.5"/>
+                    <GradientStop Color="#3EFFFFFF" Offset="0.75"/>
+                    <GradientStop Color="#BFFFFFFF" Offset="1"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect BlurRadius="3" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="GlassBorderFondo" TargetType="Border">
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="Background" Value="#FFFFFFFF">
+        </Setter>
+    </Style>
+
+
+</ResourceDictionary>

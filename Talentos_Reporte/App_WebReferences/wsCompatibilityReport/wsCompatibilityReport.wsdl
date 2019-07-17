@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GenerarReporte">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="codUser" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="objTemperamento" type="tns:ReporteTemperamentoBE" />
+            <s:element minOccurs="0" maxOccurs="1" name="objInteresBE" type="tns:ReporteBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ReporteTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="report" type="tns:TemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="evaluated" type="tns:PersonaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="evaluator" type="tns:PersonaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="initdate" type="tns:FechaEvaluacionBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="enddate" type="tns:FechaEvaluacionBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="temperamentos_id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="intereses_id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="tns:ResultadoTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PersonaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="code" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="FechaEvaluacionBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="date" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="timezone_type" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="timezone" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ResultadoTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="percentage" type="tns:ConsolidadoTemperamentoBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="sections" type="tns:ArrayOfSectionTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ConsolidadoTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="consolidate" type="s:double" />
+          <s:element minOccurs="1" maxOccurs="1" name="count" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfSectionTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SectionTemperamentoBE" nillable="true" type="tns:SectionTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SectionTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="percentage" type="tns:ConsolidadoTemperamentoBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="title" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="description" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="sections" type="tns:ArrayOfSubSectionTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfSubSectionTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SubSectionTemperamentoBE" nillable="true" type="tns:SubSectionTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SubSectionTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="percentage" type="tns:ConsolidadoTemperamentoBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="title" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="description" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="questions" type="tns:ArrayOfPreguntaTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfPreguntaTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="PreguntaTemperamentoBE" nillable="true" type="tns:PreguntaTemperamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PreguntaTemperamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="question_number" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="question" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="sequence" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="score" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="answer" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ceil_score" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="result_score" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ReporteBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="report" type="tns:InteresBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InteresBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="evaluated" type="tns:PersonaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="encuesta" type="tns:EncuestaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="evaluator" type="tns:PersonaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="initdate" type="tns:FechaEvaluacionBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="enddate" type="tns:FechaEvaluacionBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="tns:ArrayOfPreguntaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="intereses_id" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="EncuestaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfPreguntaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="PreguntaBE" nillable="true" type="tns:PreguntaBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PreguntaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="section" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="question_number" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="question" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="sequence" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="score" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="answer" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ceil_score" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="result_score" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GenerarReporteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GenerarReporteResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GenerarReporteSoapIn">
+    <wsdl:part name="parameters" element="tns:GenerarReporte" />
+  </wsdl:message>
+  <wsdl:message name="GenerarReporteSoapOut">
+    <wsdl:part name="parameters" element="tns:GenerarReporteResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsCompatibilityReportSoap">
+    <wsdl:operation name="GenerarReporte">
+      <wsdl:input message="tns:GenerarReporteSoapIn" />
+      <wsdl:output message="tns:GenerarReporteSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsCompatibilityReportSoap" type="tns:wsCompatibilityReportSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GenerarReporte">
+      <soap:operation soapAction="http://tempuri.org/GenerarReporte" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsCompatibilityReportSoap12" type="tns:wsCompatibilityReportSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GenerarReporte">
+      <soap12:operation soapAction="http://tempuri.org/GenerarReporte" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsCompatibilityReport">
+    <wsdl:port name="wsCompatibilityReportSoap" binding="tns:wsCompatibilityReportSoap">
+      <soap:address location="http://talentoswin.eastus2.cloudapp.azure.com/WSReportesConsolidado/wsCompatibilityReport.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsCompatibilityReportSoap12" binding="tns:wsCompatibilityReportSoap12">
+      <soap12:address location="http://talentoswin.eastus2.cloudapp.azure.com/WSReportesConsolidado/wsCompatibilityReport.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

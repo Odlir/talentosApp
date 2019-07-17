@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://localhost/soap/servidor.php" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap-enc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/wsdl/" name="miWebService" targetNamespace="http://localhost/soap/servidor.php" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://localhost/soap/servidor.php">
+      <xsd:complexType name="Usuario">
+        <xsd:all>
+          <xsd:element name="id" type="xsd:string" />
+          <xsd:element name="nombre" type="xsd:string" />
+          <xsd:element name="apellido" type="xsd:string" />
+          <xsd:element name="sexo" type="xsd:int" />
+          <xsd:element name="email" type="xsd:string" />
+          <xsd:element name="pwd" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="Respuesta">
+        <xsd:all>
+          <xsd:element name="usuario" type="tns:Usuario" />
+          <xsd:element name="mensaje" type="xsd:string" />
+          <xsd:element name="valor" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="generallaveIn">
+    <wsdl:part name="palabra" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="generallaveOut">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="encriptarIn">
+    <wsdl:part name="cadena" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="encriptarOut">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="desencriptarIn">
+    <wsdl:part name="cadena" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="desencriptarOut">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="anti_injectionIn">
+    <wsdl:part name="sql" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="anti_injectionOut">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="validaremailIn">
+    <wsdl:part name="valor" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="validaremailOut">
+    <wsdl:part name="return" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="LoginIn">
+    <wsdl:part name="user" type="tns:Usuario" />
+  </wsdl:message>
+  <wsdl:message name="LoginOut">
+    <wsdl:part name="return" type="tns:Respuesta" />
+  </wsdl:message>
+  <wsdl:portType name="miWebServicePort">
+    <wsdl:operation name="generallave">
+      <documentation>Genera llave</documentation>
+      <wsdl:input message="tns:generallaveIn" />
+      <wsdl:output message="tns:generallaveOut" />
+    </wsdl:operation>
+    <wsdl:operation name="encriptar">
+      <documentation>Encripta</documentation>
+      <wsdl:input message="tns:encriptarIn" />
+      <wsdl:output message="tns:encriptarOut" />
+    </wsdl:operation>
+    <wsdl:operation name="desencriptar">
+      <documentation>Desencripta</documentation>
+      <wsdl:input message="tns:desencriptarIn" />
+      <wsdl:output message="tns:desencriptarOut" />
+    </wsdl:operation>
+    <wsdl:operation name="anti_injection">
+      <wsdl:input message="tns:anti_injectionIn" />
+      <wsdl:output message="tns:anti_injectionOut" />
+    </wsdl:operation>
+    <wsdl:operation name="validaremail">
+      <wsdl:input message="tns:validaremailIn" />
+      <wsdl:output message="tns:validaremailOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <documentation>Devuelve el usuario de base de datos</documentation>
+      <wsdl:input message="tns:LoginIn" />
+      <wsdl:output message="tns:LoginOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="miWebServiceBinding" type="tns:miWebServicePort">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="generallave">
+      <soap:operation soapAction="http://localhost/soap/servidor.php#generallave" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="encriptar">
+      <soap:operation soapAction="http://localhost/soap/servidor.php#encriptar" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="desencriptar">
+      <soap:operation soapAction="http://localhost/soap/servidor.php#desencriptar" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="anti_injection">
+      <soap:operation soapAction="http://localhost/soap/servidor.php#anti_injection" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validaremail">
+      <soap:operation soapAction="http://localhost/soap/servidor.php#validaremail" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://localhost/soap/servidor.php#Login" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="http://localhost/soap/servidor.php" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="miWebServiceService">
+    <wsdl:port name="miWebServicePort" binding="tns:miWebServiceBinding">
+      <soap:address location="http://localhost/soap/servidor.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

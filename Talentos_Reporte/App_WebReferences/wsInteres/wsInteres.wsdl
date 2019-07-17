@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CalcularReporteIntereses">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objInteresBE" type="tns:ReporteBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ReporteBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="report" type="tns:InteresBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="InteresBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="evaluated" type="tns:PersonaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="encuesta" type="tns:EncuestaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="evaluator" type="tns:PersonaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="initdate" type="tns:FechaEvaluacionBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="enddate" type="tns:FechaEvaluacionBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="result" type="tns:ArrayOfPreguntaBE" />
+          <s:element minOccurs="0" maxOccurs="1" name="intereses_id" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PersonaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="code" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="EncuestaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="FechaEvaluacionBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="date" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="timezone_type" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="timezone" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfPreguntaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="PreguntaBE" nillable="true" type="tns:PreguntaBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PreguntaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="section" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="question_number" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="question" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="sequence" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="score" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="answer" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ceil_score" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="result_score" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CalcularReporteInteresesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CalcularReporteInteresesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CalcularReporteInteresesSoapIn">
+    <wsdl:part name="parameters" element="tns:CalcularReporteIntereses" />
+  </wsdl:message>
+  <wsdl:message name="CalcularReporteInteresesSoapOut">
+    <wsdl:part name="parameters" element="tns:CalcularReporteInteresesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsInteresSoap">
+    <wsdl:operation name="CalcularReporteIntereses">
+      <wsdl:input message="tns:CalcularReporteInteresesSoapIn" />
+      <wsdl:output message="tns:CalcularReporteInteresesSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsInteresSoap" type="tns:wsInteresSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CalcularReporteIntereses">
+      <soap:operation soapAction="http://tempuri.org/CalcularReporteIntereses" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsInteresSoap12" type="tns:wsInteresSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CalcularReporteIntereses">
+      <soap12:operation soapAction="http://tempuri.org/CalcularReporteIntereses" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsInteres">
+    <wsdl:port name="wsInteresSoap" binding="tns:wsInteresSoap">
+      <soap:address location="http://talentoswin.eastus2.cloudapp.azure.com/WSReportesConsolidado/wsInteres.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsInteresSoap12" binding="tns:wsInteresSoap12">
+      <soap12:address location="http://talentoswin.eastus2.cloudapp.azure.com/WSReportesConsolidado/wsInteres.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

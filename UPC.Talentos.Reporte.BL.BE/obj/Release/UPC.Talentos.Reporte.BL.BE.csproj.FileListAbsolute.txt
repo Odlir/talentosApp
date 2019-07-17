@@ -1,0 +1,24 @@
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\Reportes UPC\Talento UPC_VerLocal\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.dll
+C:\Users\Luis\Desktop\TRABAJO\GAF\Reportes - FISCHMAN\Reporte Temperamentos\Fuentes para UPC\Talentos UPC_Release_ACTUAL\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.pdb
+D:\Talentos\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.dll
+D:\Talentos\UPC.Talentos.Reporte.BL.BE\bin\Release\UPC.Talentos.Reporte.BL.BE.pdb
+D:\Talentos\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.dll
+D:\Talentos\UPC.Talentos.Reporte.BL.BE\obj\Release\UPC.Talentos.Reporte.BL.BE.pdb

@@ -1,0 +1,107 @@
+﻿<my:IPaginaContenida x:Class="Talentos_Master.frmInicio"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"         
+    xmlns:my="clr-namespace:Talentos_Master" 
+    xmlns:controlsToolkit="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Toolkit" 
+    mc:Ignorable="d" >
+    <Grid Background="Transparent">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />            
+        </Grid.RowDefinitions>
+        
+		<Canvas Background="#414141" Grid.Column="1" Height="37" Width="982" HorizontalAlignment="Left">
+        </Canvas>
+		
+        <TextBlock Text="" Grid.Column="1" d:LayoutOverrides="GridBox"></TextBlock>
+
+            <Grid Width="982" Height="590" Grid.Row="1" Grid.Column="1" Margin="0,0,39,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.412*" />
+                    <ColumnDefinition Width="0.588*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.250*" />
+                    <RowDefinition Height="0.0*" />
+                    <RowDefinition Height="0.576*" />
+                </Grid.RowDefinitions>
+
+                <Canvas Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Height="100" Width="982" Margin="0,0,0,8">
+                    <Rectangle Style="{StaticResource TituloPequenio}" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                    </Rectangle>
+                </Canvas>
+                <Border Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2" CornerRadius="0" BorderBrush="#FFD7D7D7" Style="{StaticResource GlassBorderFondo}"  BorderThickness="1" Margin="0,0,0,8" >
+
+                    <Grid Margin="0,0,0,0"  Width="982" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.405*"/>
+                            <ColumnDefinition Width="0.595*"/>
+                        </Grid.ColumnDefinitions>
+                      
+                        <Canvas Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="85" />
+                                    <ColumnDefinition Width="400" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="70"/>
+                                    <RowDefinition Height="10"/>
+                                </Grid.RowDefinitions>
+                            </Grid>
+                            <Line  X1="0" Y1="15" X2="965" Y2="15" Stroke="#FFFF1100" StrokeThickness="1"  ></Line>
+                            <Line  X1="0" Y1="18" X2="965" Y2="18" Stroke="#FFFF1100" StrokeThickness="1"  ></Line>
+                        </Canvas>
+
+                    <Border x:Name="ppVerificarCantidad" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="179"  Visibility="Visible" Background="Transparent" Margin="20,104,136,54" >
+
+                            <Grid x:Name="grdVerificar" Background="Transparent" Margin="58,0,218,0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="0.542*"></RowDefinition>
+                                    <RowDefinition Height="0.458*"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="0.3*" />
+                                    <ColumnDefinition Width="0.7*" />
+                                </Grid.ColumnDefinitions>
+                                <Image Source="images/auxiliares/exclamation.png"  Stretch="Fill" Grid.Column="0" Height="40" Width="130"  VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Margin="8,48,7,0"  >
+                                    <Image.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleY="3"/>
+                                            <SkewTransform />
+                                            <RotateTransform/>
+                                            <TranslateTransform Y="0.4"/>
+                                        </TransformGroup>
+                                    </Image.RenderTransform>
+
+                                </Image>
+
+                                <TextBlock x:Name="txtppVerificarCantidad" Grid.Column="1"  Grid.Row="0"   TextWrapping="Wrap" TextAlignment="Left" HorizontalAlignment="Right" LineHeight="20"
+               Foreground="#FF6B6B6B" Margin="0,5,0,6" d:LayoutOverrides="VerticalAlignment"    >
+                    <Run Text="Esta sección es exclusiva para postulantes y alumnos de la UPC." FontSize="14" FontFamily="Arial" />
+					<LineBreak/>
+                    <Run Text="Para continuar haz clic en" FontSize="14" FontFamily="Arial" FontWeight="Bold" />
+                    <Run Text="INICIAR TEST" FontSize="14" FontFamily="Arial" FontWeight="Bold" />
+                    <LineBreak/>
+                                </TextBlock>
+                                <Border Grid.Row="1" Grid.Column="1" x:Name="btnIniciarSession" Width="120" Height="30"  Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand" HorizontalAlignment="Left"   Margin="24,6,0,0"  VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment" MouseLeftButtonDown="btnIniciarSession_MouseLeftButtonDown" >
+                                    <TextBlock Text="iniciar test" Foreground="White" FontSize="18" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center" TextDecorations="Underline" />
+                                </Border>
+                                <TextBlock x:Name="txtSinSesion" Grid.Row="1" Grid.Column="1" Text="No se puede iniciar el Test de Talentos. Verifique que se hayan pasado los parametros correctos." Foreground="Red" Visibility="Collapsed" TextWrapping="Wrap"/>
+                            </Grid>
+                       
+                    </Border>
+                </Grid>
+                </Border>
+            </Grid>
+            <controlsToolkit:BusyIndicator Grid.ColumnSpan="3" Grid.RowSpan="2" x:Name="BusyWindow" Content="" BusyContent="Por favor, espere mientras se cargan los datos..."/>
+            
+        </Grid>
+</my:IPaginaContenida>

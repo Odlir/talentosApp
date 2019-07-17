@@ -1,0 +1,1175 @@
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\Talentos X\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXI\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXII\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIII\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXIV\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXV\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\temas\temaBurbujas\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\temas\temaTrabajo\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-00\MODIFICACIONES-DISEÑO\TalentosXVI\ModificarParaResolucion\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\Users\MALENA\UPC\TALENTOS\2010-01\Versiones\VersionEstable\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ResolveAssemblyReference.cache
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\App.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmResultadoEstadistico.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmResultadosClasificacion.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\MainPage.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\Talentos_Master.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\AppManifest.xaml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\Talentos_Master.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\Talentos_Master.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\Talentos_Master.xap
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\TestPage.html
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Reactive.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Data.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.Input.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Toolkit.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Interactivity.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\UPC.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Data.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Theming.Toolkit.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.ComponentModel.DataAnnotations.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\System.Windows.Controls.Navigation.xml
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\UPC.Seguridad.Talentos.BL.BE.pdb
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\de\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\es\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\fr\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\it\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ja\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\ko\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\Bin\Release\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\ITalent\Iteración 8\Trunk\Implementación\Talentos\Talentos_Master\obj\Release\XapCacheFile.xml
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\Talentos_Master__800x600.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\App.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ButtonSeven.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmAdvertencia.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmAgradecimientoFinal.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmAgradecimientoJuego.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmCalificacion.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmClasificacionDetalleTE.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmGaleria.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmInicio.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmRadar.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmRecomendacionesFinales.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmClasificacionDetalle.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmClasificacionPrincipal.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmSeleccionarPrincipal.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmLogin.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmMaster.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmSeleccionarTalentosEspecificos.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmSeleccionarTalentosEspecificos_2.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\frmSeleccionarVirtudes.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\MainPage.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\temas\temaSelva\Tema.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ucItemGaleria.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ucRecomendacion.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ucTalentitoMapa.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ucTalento.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ucTalentoEstadistico.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\ucTalentoLupita.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\wAgradecimiento.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\wReferencias.g.cs
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\Talentos_Master.g.resources
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\Talentos_Master.dll
+C:\Users\Luis\Desktop\Reporte Temperamentos\VERSION_UPC\Talentos UPC\Talentos_Master\obj\Release\Talentos_Master.pdb

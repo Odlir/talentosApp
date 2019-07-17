@@ -1,0 +1,13 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Class="Talentos_Master.ucTalento" 
+    Width="170" Height="200" >
+	<Canvas x:Name="LayoutRoot"  Width="160" Height="200" Background="Transparent" Tag="{Binding source}">
+		<Canvas x:Name="canvTalento" Width="160" Height="200" Tag="{Binding nombre}">
+			<Border x:Name="recomendacionBorder" BorderThickness="1" Background="Transparent" CornerRadius="12"  Cursor="Hand" Width="160" Height="180" Canvas.Left="0" Canvas.Top="6" Tag="{Binding descripcion}">		
+					<Image x:Name="img" Source="{Binding source}"  Stretch="Fill" Margin="5" Tag="{Binding id}"  />
+			</Border>
+		</Canvas>
+	</Canvas>
+</UserControl>

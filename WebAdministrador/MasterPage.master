@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="Stylesheet" href="Recursos/css/stylemaster.css" type="text/css" />  
+    <link rel="stylesheet" type="text/css" href="Recursos/css/tcal.css" />
+	<script type="text/javascript" src="Recursos/tcal.js"></script> 
+    <style type="text/css">
+        .links
+        {
+        	font-family: Arial;
+        	font-size: small;
+        	
+        }
+        .a {
+	        font-family: Verdana, Arial, Helvetica, sans-serif;
+	        font-size: 12px;
+	        color: #FFFFFF;
+	        font-weight: bold;
+        }
+        .a:link {
+	        text-decoration: none;
+        }
+        .a:visited {
+	        text-decoration: none;
+	        color: #CCCCCC;
+        }
+        .a:hover {
+	        text-decoration: none;
+        }
+        .a:active {
+	        text-decoration: none;
+        }
+                .b {
+	        font-family: Verdana, Arial, Helvetica, sans-serif;
+	        font-size: 11px;
+	        color: #666666;
+	        font-weight: bold;
+        }
+        .b:link {
+	        text-decoration: none;
+        }
+        .b:visited {
+	        text-decoration: none;
+	        color: #CCCCCC;
+        }
+        .b:hover {
+	        text-decoration: none;
+        }
+        .b:active {
+	        text-decoration: none;
+        }
+        .style1
+        {
+            width: 99px;
+        }
+        .style2
+        {
+            width: 84px;
+        }
+        </style> 
+</head>
+<body style="margin:0;background-color: #CCCCCC">
+    <form id="form1" runat="server" >
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    
+<table style="width: 100%;background-image:url(Recursos/images/bgbg.jpg); background-repeat:no-repeat; background-repeat:repeat-x" border="0" cellpadding="0" cellspacing="0" >
+    <tr>
+        <td style="background-image:url(Recursos/images/top__bg.jpg);height:48px">
+        <div align="center">
+            <table style="width:900px;"  border="0" cellpadding="0" cellspacing="0" >
+                <tr>
+                    <td  align="right">
+                         <asp:LinkButton ID="LinkButton5"  runat="server" CssClass="b" 
+                             onclick="LinkButton5_Click">Cerrar Sesión</asp:LinkButton>
+                    </td>
+                </tr>
+                <tr>
+                    <td  align="right">
+                        <i>
+                        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                        </i>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="height:212px">
+        <div align="center">
+            <table style="width:900px;"  border="0" cellpadding="0" cellspacing="0" >
+                <tr>
+                    <td class="style1">
+                        <img alt="" src="Recursos/images/logo_ta.jpg" /></td>
+                </tr>
+            </table>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td><div align="center">
+        <table cellpadding="3" cellspacing="3">
+            <tr>
+                <td>
+             <table style="width:900px;background-image:url(Recursos/images/menumenu.png);height:34px"  border="0" cellpadding="4" cellspacing="4" >
+                 <tr>
+                     <td style="text-align:center; width:60px;" align="center" class="style2">
+                         <asp:LinkButton ID="lnkInicio" runat="server" PostBackUrl="~/Inicio.aspx" CssClass="a">Inicio</asp:LinkButton>
+                     </td>
+                     <td style="width:60px;">
+                         <asp:LinkButton ID="lnkAdministrarTalentos" runat="server" PostBackUrl="~/AdministrarTalentos.aspx" CssClass="a">Talentos</asp:LinkButton>
+                     </td>
+                     <td style="width:40px;">
+                         <asp:LinkButton ID="lnkAdministrarVirtudes" runat="server" PostBackUrl="~/AdministrarVirtudes.aspx" CssClass="a">Virtudes</asp:LinkButton>
+                     </td>
+                     <td style="width:60px;">
+                         <asp:LinkButton ID="lnkAdministrarTendencias" runat="server" CssClass="a" PostBackUrl="~/AdministrarTendencias.aspx">Tendencias</asp:LinkButton>
+                     </td>
+                     <td style="width:60px;">
+                         <asp:LinkButton ID="lnkCargarResultados" runat="server" CssClass="a" PostBackUrl="~/CargarResultados.aspx">Cargar Resultados</asp:LinkButton>
+                     </td>
+                     <td style="width:100px;">
+                         <asp:LinkButton ID="lnkResultados" runat="server" CssClass="a" PostBackUrl="~/Resultados.aspx">Resultados</asp:LinkButton></td>
+                 </tr>
+             </table>
+             </td>
+            </tr>
+             </table>
+             </div>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+        <table style="width:900px;background-color:white"  border="0" cellpadding="0" cellspacing="0" >
+                <tr>
+                    <td align="center">
+                       <asp:ContentPlaceHolder id="cphContenido" runat="server">
+        
+                        </asp:ContentPlaceHolder>  
+                        <br />
+                        </td>
+                </tr>
+            </table>
+           </td>
+    </tr>
+    <tr>
+        <td style="width:100%" align="center">
+            <span 
+                style="font-size: 11px; line-height: 15px; text-align: left; ">
+            <br />
+                        © UPC | Todos 
+            los Derechos Reservados<br />
+            </span></td>
+    </tr>
+</table>
+ 
+</form>
+</body>
+</html>

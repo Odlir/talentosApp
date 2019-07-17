@@ -1,0 +1,69 @@
+﻿<swc:Window x:Class="Talentos_Master.wReferencias"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+   xmlns:input="clr-namespace:System.Windows.Input;assembly=Sincorde.Library"        
+    xmlns:swc="clr-namespace:System.Windows.Controls;assembly=Sincorde.Library"   
+    FontSize="11"
+	Padding="15,10,15,10"
+	MinWidth="185" MinHeight="85" CanMaximize="False" CanResize="False" CanDrag="False" >
+    <swc:Window.IconContent  >
+        <Image Stretch="None" Source="Resources/Silverlight.png"  />
+    </swc:Window.IconContent>
+    <swc:Window.TitleContent   >
+        <TextBlock Text="Test de Talentos" FontFamily="Arial" FontSize="14"  />
+    </swc:Window.TitleContent>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <TextBlock HorizontalAlignment="Center" Margin="0,6" Width="550"  TextWrapping="Wrap" VerticalAlignment="Center"  >
+        <LineBreak />    
+        <Run FontFamily="Arial" FontSize="14"  Text="Referencias bibliográficas" FontWeight="Bold" />
+        <LineBreak />
+         <LineBreak />
+        <Run FontFamily="Arial" FontSize="12"  Text="La información presentada en el Test de Talentos ha sido tomada y/o adaptada de las siguientes referencias:"/>
+		<LineBreak />
+		<LineBreak />
+
+        <Run FontFamily="Arial" FontSize="12"  Text="BUCKINGHAM, Marcus y Coffman, Curt (1999)" />
+		<Run FontFamily="Arial" FontSize="12"   Text="First, break all the rules. What the world's greatest managers do differently." FontStyle="Italic" />
+		<Run FontFamily="Arial" FontSize="12"  x:Name="e1" />
+		<LineBreak />
+		<LineBreak />
+        <Run FontFamily="Arial" FontSize="12"  Text="BUCKINGHAM, Marcus y Clifton, Donald O. (2001)" />
+		<Run FontFamily="Arial" FontSize="12"  Text="Now, Discover Your Strengths." FontStyle="Italic"/>
+		<Run FontFamily="Arial" FontSize="12"   Text="Nueva York: The Free Press."/>
+		<LineBreak />
+		<LineBreak />
+		<Run FontFamily="Arial" FontSize="12"   Text="BUCKINGHAM, Marcus (2007)"/>
+		<Run FontFamily="Arial" FontSize="12"  Text="Go put your strengths to work. 6 powerful steps to achieve outstanding performance." FontStyle="Italic" />
+		<Run FontFamily="Arial" FontSize="12"  Text="Nueva York: Free Press." /> 
+		<LineBreak />
+		<LineBreak />
+		<Run FontFamily="Arial" FontSize="12"  x:Name="l4" />
+		<Run FontFamily="Arial" FontSize="12"  Text="Strengths Quest discover and develop your strengths in academics, career, and beyond." FontStyle="Italic" />
+		<Run FontFamily="Arial" FontSize="12"  Text="Nueva York: Gallup Press." />
+		<LineBreak />
+		<LineBreak />
+		<Run FontFamily="Arial" FontSize="12"  Text="GORDON, Gary y CRABTREE, Steve (2006). " />
+		<Run FontFamily="Arial" FontSize="12"  Text="Building Engaged Schools." FontStyle="Italic"/>
+		<Run FontFamily="Arial" FontSize="12"  Text="Nueva York: Gallup Press." />
+		<LineBreak />
+		<LineBreak />
+		<Run FontFamily="Arial" FontSize="12"  Text="LIESVELD, Rosanne; MILLER, Jo Ann y ROBISON, Jennifer (2005) Teach with Your Strengths: How Great Teachers Inspire Their Students. Nueva York: Gallup Press " />
+		<LineBreak />
+		<LineBreak />
+		<Run FontFamily="Arial" FontSize="12"  Text="PETERSON, Christopher. y SELIGMAN, Martin. (2004). " />
+		<Run FontFamily="Arial" FontSize="12"  Text="Character strengths and virtues." FontStyle="Italic" />
+		<Run FontFamily="Arial" FontSize="12"  Text="Nueva York: Oxford University Press."/>
+        <LineBreak />
+        </TextBlock>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Row="1">
+            <Button x:Name="BtnOk" Content="Ok" MinWidth="75" Margin="220,0,240,0"
+				input:Commanding.Command="{Binding CloseCommand}"
+				input:Commanding.Parameter="Ok" />
+        </StackPanel>
+    </Grid>
+    </swc:Window>

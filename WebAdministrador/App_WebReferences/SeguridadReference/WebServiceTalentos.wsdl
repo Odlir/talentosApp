@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://microsoft.com/webservices/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://microsoft.com/webservices/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/webservices/">
+      <s:element name="LoginPhp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="be" type="tns:UsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="UsuarioBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="UsuarioId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombres" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="APaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AMaterno" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Sexo" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Correo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FechaNac" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Direccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelfFijo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelfMovil" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="NivelInstruccionId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="TipoParticipanteId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CarreraId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Carrera" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CentroEstudio" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DistritoEstudioId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CentroTrabajo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DireccionCentroTrabajo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DistritoTrabajoId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="TelfTrabajo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CorreoTrabajo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CargoTrabajo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="OcupacionId" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="LoginPhpResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoginPhpResult" type="tns:RespuestaBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="RespuestaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="UsuarioLogueado" type="tns:UsuarioBE" />
+          <s:element minOccurs="1" maxOccurs="1" name="Valor" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Mensaje" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ValidarSesion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objSesion" type="tns:SesionBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SesionBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Participante_id" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ValidarSesionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ValidarSesionResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarSesion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objSesion" type="tns:SesionBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarSesionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GuardarSesionResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EliminarSesion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objSesion" type="tns:SesionBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EliminarSesionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EliminarSesionResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EncriptarMd5">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objParticipanteBE" type="tns:UsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EncriptarMd5Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="EncriptarMd5Result" type="tns:UsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerFamososPorCarrera">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idCarrera" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerFamososPorCarreraResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerFamososPorCarreraResult" type="tns:ArrayOfUsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfUsuarioBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="UsuarioBE" nillable="true" type="tns:UsuarioBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ObtenerFamososPorCarrerasId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="idCarreras" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerFamososPorCarrerasIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerFamososPorCarrerasIdResult" type="tns:ArrayOfUsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerParticipante">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerParticipanteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerParticipanteResult" type="tns:UsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarPaises">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarPaisesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarPaisesResult" type="tns:ArrayOfPaisBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPaisBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="PaisBE" nillable="true" type="tns:PaisBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="PaisBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Pais" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="PaisId" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarDepartamentos">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarDepartamentosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDepartamentosResult" type="tns:ArrayOfDepartamentoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfDepartamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DepartamentoBE" nillable="true" type="tns:DepartamentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DepartamentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="DepartamentoId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Departamento" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="PaisId" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarProvincias">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DepartamentoId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarProvinciasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarProvinciasResult" type="tns:ArrayOfProvinciaBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfProvinciaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ProvinciaBE" nillable="true" type="tns:ProvinciaBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ProvinciaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ProvinciaId" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DepartamentoId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Provincia" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarDistritos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ProvinciaId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DepartamentoId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarDistritosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarDistritosResult" type="tns:ArrayOfDistritoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfDistritoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DistritoBE" nillable="true" type="tns:DistritoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DistritoBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="DistritoId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ProvinciaId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Distrito" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertarParticipante">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objParticipanteBE" type="tns:UsuarioBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarParticipanteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertarParticipanteResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GuardarError">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="be" type="tns:LogBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="LogBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="UsuarioId" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GuardarErrorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GuardarErrorResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PutSession">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idUsuario" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PutSessionResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetSession">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetSessionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetSessionResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LimpiarSession">
+        <s:complexType />
+      </s:element>
+      <s:element name="LimpiarSessionResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ValidarEmailUnico">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mail" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidarEmailUnicoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ValidarEmailUnicoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="LoginPhpSoapIn">
+    <wsdl:part name="parameters" element="tns:LoginPhp" />
+  </wsdl:message>
+  <wsdl:message name="LoginPhpSoapOut">
+    <wsdl:part name="parameters" element="tns:LoginPhpResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidarSesionSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidarSesion" />
+  </wsdl:message>
+  <wsdl:message name="ValidarSesionSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidarSesionResponse" />
+  </wsdl:message>
+  <wsdl:message name="GuardarSesionSoapIn">
+    <wsdl:part name="parameters" element="tns:GuardarSesion" />
+  </wsdl:message>
+  <wsdl:message name="GuardarSesionSoapOut">
+    <wsdl:part name="parameters" element="tns:GuardarSesionResponse" />
+  </wsdl:message>
+  <wsdl:message name="EliminarSesionSoapIn">
+    <wsdl:part name="parameters" element="tns:EliminarSesion" />
+  </wsdl:message>
+  <wsdl:message name="EliminarSesionSoapOut">
+    <wsdl:part name="parameters" element="tns:EliminarSesionResponse" />
+  </wsdl:message>
+  <wsdl:message name="EncriptarMd5SoapIn">
+    <wsdl:part name="parameters" element="tns:EncriptarMd5" />
+  </wsdl:message>
+  <wsdl:message name="EncriptarMd5SoapOut">
+    <wsdl:part name="parameters" element="tns:EncriptarMd5Response" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerFamososPorCarreraSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerFamososPorCarrera" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerFamososPorCarreraSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerFamososPorCarreraResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerFamososPorCarrerasIdSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerFamososPorCarrerasId" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerFamososPorCarrerasIdSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerFamososPorCarrerasIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerParticipanteSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerParticipante" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerParticipanteSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerParticipanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarPaisesSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarPaises" />
+  </wsdl:message>
+  <wsdl:message name="ListarPaisesSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarPaisesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDepartamentosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDepartamentos" />
+  </wsdl:message>
+  <wsdl:message name="ListarDepartamentosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDepartamentosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarProvinciasSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarProvincias" />
+  </wsdl:message>
+  <wsdl:message name="ListarProvinciasSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarProvinciasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarDistritosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarDistritos" />
+  </wsdl:message>
+  <wsdl:message name="ListarDistritosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarDistritosResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertarParticipanteSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertarParticipante" />
+  </wsdl:message>
+  <wsdl:message name="InsertarParticipanteSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertarParticipanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="GuardarErrorSoapIn">
+    <wsdl:part name="parameters" element="tns:GuardarError" />
+  </wsdl:message>
+  <wsdl:message name="GuardarErrorSoapOut">
+    <wsdl:part name="parameters" element="tns:GuardarErrorResponse" />
+  </wsdl:message>
+  <wsdl:message name="PutSessionSoapIn">
+    <wsdl:part name="parameters" element="tns:PutSession" />
+  </wsdl:message>
+  <wsdl:message name="PutSessionSoapOut">
+    <wsdl:part name="parameters" element="tns:PutSessionResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSession" />
+  </wsdl:message>
+  <wsdl:message name="GetSessionSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSessionResponse" />
+  </wsdl:message>
+  <wsdl:message name="LimpiarSessionSoapIn">
+    <wsdl:part name="parameters" element="tns:LimpiarSession" />
+  </wsdl:message>
+  <wsdl:message name="LimpiarSessionSoapOut">
+    <wsdl:part name="parameters" element="tns:LimpiarSessionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidarEmailUnicoSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidarEmailUnico" />
+  </wsdl:message>
+  <wsdl:message name="ValidarEmailUnicoSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidarEmailUnicoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceTalentosSoap">
+    <wsdl:operation name="LoginPhp">
+      <wsdl:input message="tns:LoginPhpSoapIn" />
+      <wsdl:output message="tns:LoginPhpSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidarSesion">
+      <wsdl:input message="tns:ValidarSesionSoapIn" />
+      <wsdl:output message="tns:ValidarSesionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GuardarSesion">
+      <wsdl:input message="tns:GuardarSesionSoapIn" />
+      <wsdl:output message="tns:GuardarSesionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarSesion">
+      <wsdl:input message="tns:EliminarSesionSoapIn" />
+      <wsdl:output message="tns:EliminarSesionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EncriptarMd5">
+      <wsdl:input message="tns:EncriptarMd5SoapIn" />
+      <wsdl:output message="tns:EncriptarMd5SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFamososPorCarrera">
+      <wsdl:input message="tns:ObtenerFamososPorCarreraSoapIn" />
+      <wsdl:output message="tns:ObtenerFamososPorCarreraSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFamososPorCarrerasId">
+      <wsdl:input message="tns:ObtenerFamososPorCarrerasIdSoapIn" />
+      <wsdl:output message="tns:ObtenerFamososPorCarrerasIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerParticipante">
+      <wsdl:input message="tns:ObtenerParticipanteSoapIn" />
+      <wsdl:output message="tns:ObtenerParticipanteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarPaises">
+      <wsdl:input message="tns:ListarPaisesSoapIn" />
+      <wsdl:output message="tns:ListarPaisesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDepartamentos">
+      <wsdl:input message="tns:ListarDepartamentosSoapIn" />
+      <wsdl:output message="tns:ListarDepartamentosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarProvincias">
+      <wsdl:input message="tns:ListarProvinciasSoapIn" />
+      <wsdl:output message="tns:ListarProvinciasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarDistritos">
+      <wsdl:input message="tns:ListarDistritosSoapIn" />
+      <wsdl:output message="tns:ListarDistritosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipante">
+      <wsdl:input message="tns:InsertarParticipanteSoapIn" />
+      <wsdl:output message="tns:InsertarParticipanteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GuardarError">
+      <wsdl:input message="tns:GuardarErrorSoapIn" />
+      <wsdl:output message="tns:GuardarErrorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PutSession">
+      <wsdl:input message="tns:PutSessionSoapIn" />
+      <wsdl:output message="tns:PutSessionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSession">
+      <wsdl:input message="tns:GetSessionSoapIn" />
+      <wsdl:output message="tns:GetSessionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LimpiarSession">
+      <wsdl:input message="tns:LimpiarSessionSoapIn" />
+      <wsdl:output message="tns:LimpiarSessionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidarEmailUnico">
+      <wsdl:input message="tns:ValidarEmailUnicoSoapIn" />
+      <wsdl:output message="tns:ValidarEmailUnicoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceTalentosSoap" type="tns:WebServiceTalentosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LoginPhp">
+      <soap:operation soapAction="http://microsoft.com/webservices/LoginPhp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarSesion">
+      <soap:operation soapAction="http://microsoft.com/webservices/ValidarSesion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarSesion">
+      <soap:operation soapAction="http://microsoft.com/webservices/GuardarSesion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarSesion">
+      <soap:operation soapAction="http://microsoft.com/webservices/EliminarSesion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EncriptarMd5">
+      <soap:operation soapAction="http://microsoft.com/webservices/EncriptarMd5" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFamososPorCarrera">
+      <soap:operation soapAction="http://microsoft.com/webservices/ObtenerFamososPorCarrera" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFamososPorCarrerasId">
+      <soap:operation soapAction="http://microsoft.com/webservices/ObtenerFamososPorCarrerasId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerParticipante">
+      <soap:operation soapAction="http://microsoft.com/webservices/ObtenerParticipante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPaises">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarPaises" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDepartamentos">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarDepartamentos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarProvincias">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarProvincias" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDistritos">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarDistritos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipante">
+      <soap:operation soapAction="http://microsoft.com/webservices/InsertarParticipante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarError">
+      <soap:operation soapAction="http://microsoft.com/webservices/GuardarError" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PutSession">
+      <soap:operation soapAction="http://microsoft.com/webservices/PutSession" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSession">
+      <soap:operation soapAction="http://microsoft.com/webservices/GetSession" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LimpiarSession">
+      <soap:operation soapAction="http://microsoft.com/webservices/LimpiarSession" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarEmailUnico">
+      <soap:operation soapAction="http://microsoft.com/webservices/ValidarEmailUnico" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceTalentosSoap12" type="tns:WebServiceTalentosSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LoginPhp">
+      <soap12:operation soapAction="http://microsoft.com/webservices/LoginPhp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarSesion">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ValidarSesion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarSesion">
+      <soap12:operation soapAction="http://microsoft.com/webservices/GuardarSesion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarSesion">
+      <soap12:operation soapAction="http://microsoft.com/webservices/EliminarSesion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EncriptarMd5">
+      <soap12:operation soapAction="http://microsoft.com/webservices/EncriptarMd5" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFamososPorCarrera">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ObtenerFamososPorCarrera" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFamososPorCarrerasId">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ObtenerFamososPorCarrerasId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerParticipante">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ObtenerParticipante" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarPaises">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarPaises" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDepartamentos">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarDepartamentos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarProvincias">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarProvincias" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarDistritos">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarDistritos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipante">
+      <soap12:operation soapAction="http://microsoft.com/webservices/InsertarParticipante" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GuardarError">
+      <soap12:operation soapAction="http://microsoft.com/webservices/GuardarError" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PutSession">
+      <soap12:operation soapAction="http://microsoft.com/webservices/PutSession" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSession">
+      <soap12:operation soapAction="http://microsoft.com/webservices/GetSession" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LimpiarSession">
+      <soap12:operation soapAction="http://microsoft.com/webservices/LimpiarSession" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidarEmailUnico">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ValidarEmailUnico" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceTalentos">
+    <wsdl:port name="WebServiceTalentosSoap" binding="tns:WebServiceTalentosSoap">
+      <soap:address location="http://localhost:1151/WebServiceTalentos.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceTalentosSoap12" binding="tns:WebServiceTalentosSoap12">
+      <soap12:address location="http://localhost:1151/WebServiceTalentos.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

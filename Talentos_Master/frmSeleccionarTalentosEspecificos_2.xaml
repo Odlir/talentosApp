@@ -1,0 +1,75 @@
+﻿<my:IPaginaContenida x:Class="Talentos_Master.frmSeleccionarTalentosEspecificos_2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+    xmlns:my="clr-namespace:Talentos_Master"
+    xmlns:controlsToolkit="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Toolkit" 
+    Width="650" Height="520">
+    <Grid x:Name="Contenedor" Background="Transparent"  Width="650" Height="520">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Canvas x:Name="canvasPuntajesNivelTE" Grid.Row="0" Visibility="Visible" >
+            <Canvas x:Name="ppPuntajesBuzonTE" Visibility="Visible" >
+			<Border  Canvas.Left="-80" Canvas.Top="-15"    Width="780"  Height="540" CornerRadius="10" Style="{StaticResource FondoPopupGrande}" >
+                <Canvas x:Name="canvasPuntajesBuzonTE">
+                    <ListBox x:Name="talentosListBoxTE" Background="#C0FFFFFF" BorderBrush="Transparent" SelectionChanged="talentosListBoxTE_SelectionChanged"
+		            Visibility="Visible" 
+                    Width="775"  Height="490"
+                    ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"  >
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <controlsToolkit:WrapPanel></controlsToolkit:WrapPanel>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate x:Name="dt" >
+                                <Canvas Width="180" Height="240" Background="Transparent" Cursor="Hand" >
+                                        <Grid x:Name="LayoutRoot" Background="Transparent">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="0.8*" />
+                                                <RowDefinition Height="0.15*" />
+                                            </Grid.RowDefinitions>
+                                            <Image x:Name="imgTalento" Width="170" Height="200" Grid.Row="0" Tag="{Binding source}" Source="{Binding source}" Stretch="Fill" />
+                                            <StackPanel x:Name="buttseven" Orientation="Horizontal"  Grid.Row="1" Background="Transparent" >
+                                                <my:ButtonSeven x:Name="btnVoltear" Height="35" Width="35" ToolTipService.ToolTip="Ver detalle"  Title="Ver Detalle" Margin="70,0,0,0"   ImageSource="images/buttonSeven/ver.png"  TransitionColor="#7f3E8DDD" 
+                                            VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MouseLeftButtonDown="btnVoltear_MouseLeftButtonDown" />
+                                            </StackPanel>
+                                        </Grid>
+                                        <CheckBox x:Name="chkSeleccionado" Background="Transparent" Grid.Row="0" Margin="155,5,0,0" Height="20" VerticalAlignment="Top" Tag="{Binding i}" IsChecked="{Binding seleccionado, Mode=TwoWay}"  Checked="chkSeleccionado_Checked" Unchecked="chkSeleccionado_Unchecked" />
+                               </Canvas>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <TextBlock x:Name="txtCantidadTE" Text="0 seleccionados de 10" Canvas.Left="12" Canvas.Top="501" FontWeight="Bold" FontFamily="Arial" FontSize="18" Foreground="Black"></TextBlock>
+					<TextBlock   Canvas.Left="609" Canvas.Top="501" FontWeight="Bold" FontFamily="Arial" FontSize="18" Foreground="Black">
+					<Run Text="Total: " FontWeight="Bold" FontFamily="Arial" FontSize="18" Foreground="Black" />
+					<Run x:Name="txtTotal" Text="X Talentos" FontWeight="Bold" FontFamily="Arial" FontSize="18" Foreground="Black" />
+					</TextBlock>
+                </Canvas>
+				</Border>
+            </Canvas>    
+        </Canvas>
+        <Border x:Name="ppSeAcabo" Grid.Row="0" CornerRadius="10" Background="Transparent"  Width="550" Height="250" Margin="0,-100,0,0" Visibility="Collapsed"  >
+            <Grid x:Name="grdSeAcabo" Width="550" Height="250" Background="Transparent" >
+                <Canvas Margin="0,0,0,30">            
+                    <TextBlock   LineHeight="20"
+                           FontFamily="Arial" FontSize="14" TextWrapping="Wrap"  TextAlignment="Left"
+                           Foreground="#FF6B6B6B" VerticalAlignment="Top" Width="473" Canvas.Left="49" Canvas.Top="11" >
+					<Run x:Name="txtMensaje"  Foreground="#FF6B6B6B" FontFamily="Arial" FontSize="14" />
+					<Run Text="Si estás seguro de tus respuestas, haz clic en CONTINUAR. Si deseas hacer cambios, haz clic en REVISAR. " Foreground="#FF6B6B6B" FontFamily="Arial" FontSize="14" FontWeight="Bold" />	   
+					</TextBlock>
+                </Canvas>
+                <Border x:Name="btnRevisarSeAcabo" Width="120" Height="30" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand"  Margin="269,0,161,90"   MouseLeftButtonDown="btnRevisarSeAcabo_MouseLeftButtonDown"  VerticalAlignment="Bottom" >
+                    <TextBlock  Text="Revisar" FontFamily="Arial" Foreground="White" FontSize="16"  TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                </Border>
+                <Border x:Name="btnContinuarSeAcabo" Width="120" Height="30" CornerRadius="0" Style="{StaticResource GlassBorderStyleBlack}" Cursor="Hand" Margin="114,0,0,90"  MouseLeftButtonDown="btnContinuarSeAcabo_MouseLeftButtonDown"  HorizontalAlignment="Left" d:LayoutOverrides="GridBox"  VerticalAlignment="Bottom"  >
+                    <TextBlock  Text="Continuar" Foreground="White" FontSize="16" FontFamily="Arial" TextAlignment="Center" VerticalAlignment="Center"  HorizontalAlignment="Center"  />
+                </Border>
+
+            </Grid>
+        </Border>
+    </Grid>
+</my:IPaginaContenida>

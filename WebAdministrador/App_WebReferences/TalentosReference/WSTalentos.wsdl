@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://microsoft.com/webservices/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://microsoft.com/webservices/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/webservices/">
+      <s:element name="JuegoInsertar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objJuego" type="tns:JuegoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="JuegoBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Juego_id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="EventoId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ParticipanteId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="NickName" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="JuegoInsertarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="JuegoInsertarResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="obtenerTemaActual">
+        <s:complexType />
+      </s:element>
+      <s:element name="obtenerTemaActualResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="obtenerTemaActualResult" type="tns:ParametroBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ParametroBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Value" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="actualizarTemaActual">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objParametroBE" type="tns:ParametroBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="actualizarTemaActualResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarTalentos">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarTalentosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTalentosResult" type="tns:ArrayOfTalentoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTalentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TalentoBE" nillable="true" type="tns:TalentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TalentoBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="TipoTalento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NombreTendencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ColorTendencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ImagenEspalda" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="seleccionado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="puntaje" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ordenInsercion" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdTalento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Example" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Image" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdColor" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdTendencia" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Recomendacion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SkinObtener">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="descSkin" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SkinObtenerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SkinObtenerResult" type="tns:SkinBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SkinBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="SkinId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RutaTalentos" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RutaEjemplos" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Activo" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SkinActivoObtener">
+        <s:complexType />
+      </s:element>
+      <s:element name="SkinActivoObtenerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SkinActivoObtenerResult" type="tns:SkinBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SkinActualizar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="skin" type="tns:SkinBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SkinActualizarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SkinActualizarResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarJuego">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="juego" type="tns:JuegoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarJuegoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertarJuegoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarResultado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="resultado" type="tns:ResultadoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ResultadoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="DNI" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodEvaluacion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CorreoElectronico" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="EsMasivo" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="BuzonId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TalentoId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Seleccionado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Puntaje" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="Participante_id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="NombreParticipante" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TendenciaId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TipoDesarrollo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Resultado_id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Buzon_id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantAmarillo" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantAnaranjado" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantRojo" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantAzul" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantVerde" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CantGuinda" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertarResultadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertarResultadoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResultadoActualizar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="resultado" type="tns:ResultadoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResultadoActualizarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ResultadoActualizarResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerRecomedacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTalento" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerRecomedacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerRecomedacionResult" type="tns:ArrayOfRecomendacionBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfRecomendacionBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="RecomendacionBE" nillable="true" type="tns:RecomendacionBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="RecomendacionBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Talento" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdRecomendacion" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdTalento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Tipo" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarTalentosComplex">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTalento" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTalentosComplexResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTalentosComplexResult" type="tns:ArrayOfTalentoComplexBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTalentoComplexBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TalentoComplexBE" nillable="true" type="tns:TalentoComplexBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TalentoComplexBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="idTalento" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="idTendencia" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="idTipoTalento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="descripcion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="tendencia" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="tipoTalento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="image" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Seleccionado" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="Buzon_Id" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListarTendencias">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarTendenciasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTendenciasResult" type="tns:ArrayOfTendenciaBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTendenciaBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TendenciaBE" nillable="true" type="tns:TendenciaBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TendenciaBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="TendenciaId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Color" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ActualizarTalento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objTalento" type="tns:TalentoComplexBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTalentoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarTalentoResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarTipoTalento">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarTipoTalentoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarTipoTalentoResult" type="tns:ArrayOfTipoTalentoBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTipoTalentoBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TipoTalentoBE" nillable="true" type="tns:TipoTalentoBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TipoTalentoBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="idTipoTalento" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="nombre" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ActualizarTendencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objTendencia" type="tns:TendenciaBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarTendenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarTendenciaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerTendencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idTendencia" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerTendenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerTendenciaResult" type="tns:TendenciaBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarVirtud">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idVirtud" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarVirtudResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarVirtudResult" type="tns:ArrayOfTalentoComplexBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarVirtud">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objVirtud" type="tns:TalentoComplexBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarVirtudResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarVirtudResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarParticipante">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lstParticipantes" type="tns:ArrayOfParticipanteBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfParticipanteBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ParticipanteBE" nillable="true" type="tns:ParticipanteBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ParticipanteBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ParticipanteId" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="DNI" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombres" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FechaNacimiento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CorreoElectronico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Institucion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NivelInstruccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cargo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertarParticipanteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertarParticipanteResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarParticipanteUnico">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="objParticipanteBE" type="tns:ParticipanteBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarParticipanteUnicoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertarParticipanteUnicoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListarParticipantesMasivos">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListarParticipantesMasivosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListarParticipantesMasivosResult" type="tns:ArrayOfParticipanteBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarEmail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lstParticipantes" type="tns:ArrayOfParticipanteBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarEmailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnviarEmailResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResultadosParticipantesListar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FechaInicio" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="FechaFin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResultadosParticipantesListarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ResultadosParticipantesListarResult" type="tns:ArrayOfResultadoParaleloBE" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfResultadoParaleloBE">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ResultadoParaleloBE" nillable="true" type="tns:ResultadoParaleloBE" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ResultadoParaleloBE">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Resultado_Id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Participante_Id" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombres" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoPaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ApellidoMaterno" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DNI" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Sexo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FechaNacimiento" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NivelInstruccion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CargoEmpresa" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CorreoElectronico" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MasDesarrollados" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MenosDesarrollados" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TalentosEspecificos" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TalentosEspecificosMas" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TalentosEspecificosMenos" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Virtudes" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Buzon_Id" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="EsMasivo" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="Fecha" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Empresa" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CodigoEvaluacion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="JuegoInsertarSoapIn">
+    <wsdl:part name="parameters" element="tns:JuegoInsertar" />
+  </wsdl:message>
+  <wsdl:message name="JuegoInsertarSoapOut">
+    <wsdl:part name="parameters" element="tns:JuegoInsertarResponse" />
+  </wsdl:message>
+  <wsdl:message name="obtenerTemaActualSoapIn">
+    <wsdl:part name="parameters" element="tns:obtenerTemaActual" />
+  </wsdl:message>
+  <wsdl:message name="obtenerTemaActualSoapOut">
+    <wsdl:part name="parameters" element="tns:obtenerTemaActualResponse" />
+  </wsdl:message>
+  <wsdl:message name="actualizarTemaActualSoapIn">
+    <wsdl:part name="parameters" element="tns:actualizarTemaActual" />
+  </wsdl:message>
+  <wsdl:message name="actualizarTemaActualSoapOut">
+    <wsdl:part name="parameters" element="tns:actualizarTemaActualResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTalentosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTalentos" />
+  </wsdl:message>
+  <wsdl:message name="ListarTalentosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTalentosResponse" />
+  </wsdl:message>
+  <wsdl:message name="SkinObtenerSoapIn">
+    <wsdl:part name="parameters" element="tns:SkinObtener" />
+  </wsdl:message>
+  <wsdl:message name="SkinObtenerSoapOut">
+    <wsdl:part name="parameters" element="tns:SkinObtenerResponse" />
+  </wsdl:message>
+  <wsdl:message name="SkinActivoObtenerSoapIn">
+    <wsdl:part name="parameters" element="tns:SkinActivoObtener" />
+  </wsdl:message>
+  <wsdl:message name="SkinActivoObtenerSoapOut">
+    <wsdl:part name="parameters" element="tns:SkinActivoObtenerResponse" />
+  </wsdl:message>
+  <wsdl:message name="SkinActualizarSoapIn">
+    <wsdl:part name="parameters" element="tns:SkinActualizar" />
+  </wsdl:message>
+  <wsdl:message name="SkinActualizarSoapOut">
+    <wsdl:part name="parameters" element="tns:SkinActualizarResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertarJuegoSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertarJuego" />
+  </wsdl:message>
+  <wsdl:message name="InsertarJuegoSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertarJuegoResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertarResultadoSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertarResultado" />
+  </wsdl:message>
+  <wsdl:message name="InsertarResultadoSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertarResultadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ResultadoActualizarSoapIn">
+    <wsdl:part name="parameters" element="tns:ResultadoActualizar" />
+  </wsdl:message>
+  <wsdl:message name="ResultadoActualizarSoapOut">
+    <wsdl:part name="parameters" element="tns:ResultadoActualizarResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerRecomedacionSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerRecomedacion" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerRecomedacionSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerRecomedacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTalentosComplexSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTalentosComplex" />
+  </wsdl:message>
+  <wsdl:message name="ListarTalentosComplexSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTalentosComplexResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTendenciasSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTendencias" />
+  </wsdl:message>
+  <wsdl:message name="ListarTendenciasSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTendenciasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTalentoSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarTalento" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTalentoSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarTalentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarTipoTalentoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarTipoTalento" />
+  </wsdl:message>
+  <wsdl:message name="ListarTipoTalentoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarTipoTalentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTendenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarTendencia" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarTendenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarTendenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerTendenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerTendencia" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerTendenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerTendenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarVirtudSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarVirtud" />
+  </wsdl:message>
+  <wsdl:message name="ListarVirtudSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarVirtudResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarVirtudSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarVirtud" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarVirtudSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarVirtudResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertarParticipanteSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertarParticipante" />
+  </wsdl:message>
+  <wsdl:message name="InsertarParticipanteSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertarParticipanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertarParticipanteUnicoSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertarParticipanteUnico" />
+  </wsdl:message>
+  <wsdl:message name="InsertarParticipanteUnicoSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertarParticipanteUnicoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListarParticipantesMasivosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListarParticipantesMasivos" />
+  </wsdl:message>
+  <wsdl:message name="ListarParticipantesMasivosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListarParticipantesMasivosResponse" />
+  </wsdl:message>
+  <wsdl:message name="EnviarEmailSoapIn">
+    <wsdl:part name="parameters" element="tns:EnviarEmail" />
+  </wsdl:message>
+  <wsdl:message name="EnviarEmailSoapOut">
+    <wsdl:part name="parameters" element="tns:EnviarEmailResponse" />
+  </wsdl:message>
+  <wsdl:message name="ResultadosParticipantesListarSoapIn">
+    <wsdl:part name="parameters" element="tns:ResultadosParticipantesListar" />
+  </wsdl:message>
+  <wsdl:message name="ResultadosParticipantesListarSoapOut">
+    <wsdl:part name="parameters" element="tns:ResultadosParticipantesListarResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSTalentosSoap">
+    <wsdl:operation name="JuegoInsertar">
+      <wsdl:input message="tns:JuegoInsertarSoapIn" />
+      <wsdl:output message="tns:JuegoInsertarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTemaActual">
+      <wsdl:input message="tns:obtenerTemaActualSoapIn" />
+      <wsdl:output message="tns:obtenerTemaActualSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizarTemaActual">
+      <wsdl:input message="tns:actualizarTemaActualSoapIn" />
+      <wsdl:output message="tns:actualizarTemaActualSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTalentos">
+      <wsdl:input message="tns:ListarTalentosSoapIn" />
+      <wsdl:output message="tns:ListarTalentosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SkinObtener">
+      <wsdl:input message="tns:SkinObtenerSoapIn" />
+      <wsdl:output message="tns:SkinObtenerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SkinActivoObtener">
+      <wsdl:input message="tns:SkinActivoObtenerSoapIn" />
+      <wsdl:output message="tns:SkinActivoObtenerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SkinActualizar">
+      <wsdl:input message="tns:SkinActualizarSoapIn" />
+      <wsdl:output message="tns:SkinActualizarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarJuego">
+      <wsdl:input message="tns:InsertarJuegoSoapIn" />
+      <wsdl:output message="tns:InsertarJuegoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarResultado">
+      <wsdl:input message="tns:InsertarResultadoSoapIn" />
+      <wsdl:output message="tns:InsertarResultadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ResultadoActualizar">
+      <wsdl:input message="tns:ResultadoActualizarSoapIn" />
+      <wsdl:output message="tns:ResultadoActualizarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerRecomedacion">
+      <wsdl:input message="tns:ObtenerRecomedacionSoapIn" />
+      <wsdl:output message="tns:ObtenerRecomedacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTalentosComplex">
+      <wsdl:input message="tns:ListarTalentosComplexSoapIn" />
+      <wsdl:output message="tns:ListarTalentosComplexSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTendencias">
+      <wsdl:input message="tns:ListarTendenciasSoapIn" />
+      <wsdl:output message="tns:ListarTendenciasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTalento">
+      <wsdl:input message="tns:ActualizarTalentoSoapIn" />
+      <wsdl:output message="tns:ActualizarTalentoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarTipoTalento">
+      <wsdl:input message="tns:ListarTipoTalentoSoapIn" />
+      <wsdl:output message="tns:ListarTipoTalentoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTendencia">
+      <wsdl:input message="tns:ActualizarTendenciaSoapIn" />
+      <wsdl:output message="tns:ActualizarTendenciaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTendencia">
+      <wsdl:input message="tns:ObtenerTendenciaSoapIn" />
+      <wsdl:output message="tns:ObtenerTendenciaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarVirtud">
+      <wsdl:input message="tns:ListarVirtudSoapIn" />
+      <wsdl:output message="tns:ListarVirtudSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVirtud">
+      <wsdl:input message="tns:ActualizarVirtudSoapIn" />
+      <wsdl:output message="tns:ActualizarVirtudSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipante">
+      <wsdl:input message="tns:InsertarParticipanteSoapIn" />
+      <wsdl:output message="tns:InsertarParticipanteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipanteUnico">
+      <wsdl:input message="tns:InsertarParticipanteUnicoSoapIn" />
+      <wsdl:output message="tns:InsertarParticipanteUnicoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarParticipantesMasivos">
+      <wsdl:input message="tns:ListarParticipantesMasivosSoapIn" />
+      <wsdl:output message="tns:ListarParticipantesMasivosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EnviarEmail">
+      <wsdl:input message="tns:EnviarEmailSoapIn" />
+      <wsdl:output message="tns:EnviarEmailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ResultadosParticipantesListar">
+      <wsdl:input message="tns:ResultadosParticipantesListarSoapIn" />
+      <wsdl:output message="tns:ResultadosParticipantesListarSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSTalentosSoap" type="tns:WSTalentosSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="JuegoInsertar">
+      <soap:operation soapAction="http://microsoft.com/webservices/JuegoInsertar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTemaActual">
+      <soap:operation soapAction="http://microsoft.com/webservices/obtenerTemaActual" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarTemaActual">
+      <soap:operation soapAction="http://microsoft.com/webservices/actualizarTemaActual" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTalentos">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarTalentos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SkinObtener">
+      <soap:operation soapAction="http://microsoft.com/webservices/SkinObtener" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SkinActivoObtener">
+      <soap:operation soapAction="http://microsoft.com/webservices/SkinActivoObtener" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SkinActualizar">
+      <soap:operation soapAction="http://microsoft.com/webservices/SkinActualizar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarJuego">
+      <soap:operation soapAction="http://microsoft.com/webservices/InsertarJuego" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarResultado">
+      <soap:operation soapAction="http://microsoft.com/webservices/InsertarResultado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResultadoActualizar">
+      <soap:operation soapAction="http://microsoft.com/webservices/ResultadoActualizar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerRecomedacion">
+      <soap:operation soapAction="http://microsoft.com/webservices/ObtenerRecomedacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTalentosComplex">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarTalentosComplex" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTendencias">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarTendencias" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTalento">
+      <soap:operation soapAction="http://microsoft.com/webservices/ActualizarTalento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTipoTalento">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarTipoTalento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTendencia">
+      <soap:operation soapAction="http://microsoft.com/webservices/ActualizarTendencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTendencia">
+      <soap:operation soapAction="http://microsoft.com/webservices/ObtenerTendencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarVirtud">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarVirtud" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVirtud">
+      <soap:operation soapAction="http://microsoft.com/webservices/ActualizarVirtud" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipante">
+      <soap:operation soapAction="http://microsoft.com/webservices/InsertarParticipante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipanteUnico">
+      <soap:operation soapAction="http://microsoft.com/webservices/InsertarParticipanteUnico" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParticipantesMasivos">
+      <soap:operation soapAction="http://microsoft.com/webservices/ListarParticipantesMasivos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarEmail">
+      <soap:operation soapAction="http://microsoft.com/webservices/EnviarEmail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResultadosParticipantesListar">
+      <soap:operation soapAction="http://microsoft.com/webservices/ResultadosParticipantesListar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSTalentosSoap12" type="tns:WSTalentosSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="JuegoInsertar">
+      <soap12:operation soapAction="http://microsoft.com/webservices/JuegoInsertar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="obtenerTemaActual">
+      <soap12:operation soapAction="http://microsoft.com/webservices/obtenerTemaActual" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizarTemaActual">
+      <soap12:operation soapAction="http://microsoft.com/webservices/actualizarTemaActual" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTalentos">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarTalentos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SkinObtener">
+      <soap12:operation soapAction="http://microsoft.com/webservices/SkinObtener" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SkinActivoObtener">
+      <soap12:operation soapAction="http://microsoft.com/webservices/SkinActivoObtener" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SkinActualizar">
+      <soap12:operation soapAction="http://microsoft.com/webservices/SkinActualizar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarJuego">
+      <soap12:operation soapAction="http://microsoft.com/webservices/InsertarJuego" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarResultado">
+      <soap12:operation soapAction="http://microsoft.com/webservices/InsertarResultado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResultadoActualizar">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ResultadoActualizar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerRecomedacion">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ObtenerRecomedacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTalentosComplex">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarTalentosComplex" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTendencias">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarTendencias" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTalento">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ActualizarTalento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarTipoTalento">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarTipoTalento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarTendencia">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ActualizarTendencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTendencia">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ObtenerTendencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarVirtud">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarVirtud" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarVirtud">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ActualizarVirtud" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipante">
+      <soap12:operation soapAction="http://microsoft.com/webservices/InsertarParticipante" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarParticipanteUnico">
+      <soap12:operation soapAction="http://microsoft.com/webservices/InsertarParticipanteUnico" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarParticipantesMasivos">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ListarParticipantesMasivos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarEmail">
+      <soap12:operation soapAction="http://microsoft.com/webservices/EnviarEmail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResultadosParticipantesListar">
+      <soap12:operation soapAction="http://microsoft.com/webservices/ResultadosParticipantesListar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSTalentos">
+    <wsdl:port name="WSTalentosSoap" binding="tns:WSTalentosSoap">
+      <soap:address location="http://www.talentosdavidfischman.com/WSTalentosUPC/WSTalentos.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSTalentosSoap12" binding="tns:WSTalentosSoap12">
+      <soap12:address location="http://www.talentosdavidfischman.com/WSTalentosUPC/WSTalentos.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
